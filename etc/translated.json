@@ -685,7 +685,7 @@
   },
   "common.support": {
     "japanese": "サポートカード",
-    "chinese": "辅助卡"
+    "chinese": "支援卡"
   },
   "common.rental": {
     "japanese": "レンタル",
@@ -1753,7 +1753,7 @@
   },
   "produce.info.status.support_and_memory": {
     "japanese": "編成中サポートカード／メモリー",
-    "chinese": "编成中辅助卡/回忆"
+    "chinese": "编成中支援卡/回忆"
   },
   "produce.info.skill_list.character_dearness_ability.title": {
     "japanese": "親愛度スキル",
@@ -3625,7 +3625,7 @@
   },
   "home.idol.support_card.list": {
     "japanese": "サポート\\nカード",
-    "chinese": "辅助卡"
+    "chinese": "支援卡"
   },
   "home.produce.week": {
     "japanese": "週目",
@@ -3785,7 +3785,7 @@
   },
   "home.gasha.detail.bonus_reward.support_card.prefix": {
     "japanese": "対象のサポート獲得で",
-    "chinese": "获得目标辅助卡"
+    "chinese": "获得目标支援卡"
   },
   "home.gasha.detail.bonus_reward.suffix": {
     "japanese": "GET",
@@ -3937,7 +3937,7 @@
   },
   "home.gasha.probability_detail_overlay.support_card": {
     "japanese": "サポートカード",
-    "chinese": "辅助卡"
+    "chinese": "支援卡"
   },
   "home.gasha.probability_detail_overlay.fix_rarity_label.single": {
     "japanese": "{0}確定",
@@ -4061,7 +4061,7 @@
   },
   "home.gasha.point_detail_overlay.support_card": {
     "japanese": "サポートカード",
-    "chinese": "辅助卡"
+    "chinese": "支援卡"
   },
   "home.gasha.point_detail_overlay.point": {
     "japanese": "必要交換Pt",
@@ -4101,7 +4101,7 @@
   },
   "home.gasha.point_exchange_confirm_sheet.description.support_card": {
     "japanese": "交換Ptを{0:N0}消費して\\nサポートカードを獲得します",
-    "chinese": "消耗{0:N0}交换Pt\\n获得辅助卡"
+    "chinese": "消耗{0:N0}交换Pt\\n获得支援卡"
   },
   "home.gasha.point_exchange_confirm_sheet.short_balance_alert": {
     "japanese": "所持交換Ptが不足しています",
@@ -4145,7 +4145,7 @@
   },
   "home.gasha.pickup_list_overlay.support_card": {
     "japanese": "サポートカード",
-    "chinese": "辅助卡"
+    "chinese": "支援卡"
   },
   "home.gasha.pickup_list_overlay.costume_button": {
     "japanese": "衣装・髪型",
@@ -4209,7 +4209,7 @@
   },
   "home.gasha.select_pickup_sheet.tab.support_card": {
     "japanese": "サポートカード",
-    "chinese": "辅助卡"
+    "chinese": "支援卡"
   },
   "home.gasha.select_pickup_sheet.is_new": {
     "japanese": "未獲得",
@@ -4265,7 +4265,7 @@
   },
   "home.friend_coin_received_sheet.description": {
     "japanese": "サポートカードとメモリーのレンタル報酬としてフレンドコインを<color=#u:Strong>{0}</color>獲得しました。",
-    "chinese": "作为辅助卡和回忆的租借报酬，获得了<color=#u:Strong>{0}</color>好友币。"
+    "chinese": "作为支援卡和回忆的租借报酬，获得了<color=#u:Strong>{0}</color>好友币。"
   },
   "home.friend_coin_received_sheet.daily_limit": {
     "japanese": "※1日あたりの獲得上限は{0}です",
@@ -4429,7 +4429,7 @@
   },
   "present.filter.label_support": {
     "japanese": "サポートカード",
-    "chinese": "辅助卡"
+    "chinese": "支援卡"
   },
   "present.filter.label_jewel": {
     "japanese": "ジュエル",
@@ -4645,19 +4645,19 @@
   },
   "produce_prepare.deck.support_card.toast.invalid_resource_count": {
     "japanese": "サポートカードを選択してください",
-    "chinese": "请选择辅助卡"
+    "chinese": "请选择支援卡"
   },
   "produce_prepare.deck.support_card.toast.invalid_rental": {
     "japanese": "レンタルサポートカードを選択してください",
-    "chinese": "请选择租借辅助卡"
+    "chinese": "请选择租借支援卡"
   },
   "produce_prepare.deck.support_card.toast.invalid_support_card_id": {
     "japanese": "サポートカードが重複しています",
-    "chinese": "辅助卡重复"
+    "chinese": "支援卡重复"
   },
   "produce_prepare.deck.support_card.toast.invalid_plan_type": {
     "japanese": "プラン不一致のサポートカードが編成されています",
-    "chinese": "编成了方案不一致的辅助卡"
+    "chinese": "编成了方案不一致的支援卡"
   },
   "produce_prepare.support_card_deck_edit.title": {
     "japanese": "サポート編成",
@@ -4665,23 +4665,23 @@
   },
   "produce_prepare.support_card_deck_name": {
     "japanese": "サポートカード編成 {0}",
-    "chinese": "辅助卡编成 {0}"
+    "chinese": "支援卡编成 {0}"
   },
   "produce_prepare.support_card_deck_name_edit_sheet.title": {
     "japanese": "サポートカード編成",
-    "chinese": "辅助卡编成"
+    "chinese": "支援卡编成"
   },
   "produce_prepare.support_card_deck_name_edit_sheet.description": {
     "japanese": "サポートカード編成の名前を入力してください",
-    "chinese": "请输入辅助卡编成的名称"
+    "chinese": "请输入支援卡编成的名称"
   },
   "produce_prepare.support_card_deck_edit.change": {
     "japanese": "サポートカード入れ替え",
-    "chinese": "更换辅助卡"
+    "chinese": "更换支援卡"
   },
   "produce_prepare.support_card_deck_edit.change_confirm": {
     "japanese": "すでに同名のサポートカードを編成中です\\n編成中のサポートカードを外し、選択中のサポートカードと入れ替えますか？",
-    "chinese": "已经编成了同名的辅助卡\\n是否移除编成中的辅助卡，并更换为所选辅助卡？"
+    "chinese": "已经编成了同名的支援卡\\n是否移除编成中的支援卡，并更换为所选支援卡？"
   },
   "produce_prepare.support_card_deck_edit.change_execute": {
     "japanese": "入れ替える",
@@ -4689,7 +4689,7 @@
   },
   "produce_prepare.support_card_deck_edit.empty_reset": {
     "japanese": "編成されているサポートカードはありません",
-    "chinese": "没有编成的辅助卡"
+    "chinese": "没有编成的支援卡"
   },
   "produce_prepare.deck.memory.label.rental_enable": {
     "japanese": "レンタル可",
@@ -4829,7 +4829,7 @@
   },
   "produce_prepare.deck_reset_confirm_sheet.description.support_card": {
     "japanese": "編成されているサポートカードをすべて外します\\n<color=#u:Negative>※現在の編成は保存されません</color>",
-    "chinese": "将移除所有编成的辅助卡\\n<color=#u:Negative>※当前编成不会被保存</color>"
+    "chinese": "将移除所有编成的支援卡\\n<color=#u:Negative>※当前编成不会被保存</color>"
   },
   "produce_prepare.deck_reset_confirm_sheet.description.memory": {
     "japanese": "編成されているメモリーをすべて外します\\n<color=#u:Negative>※現在の編成は保存されません</color>",
@@ -4849,7 +4849,7 @@
   },
   "produce_prepare.deck_auto_set_confirm_sheet.description.support_card": {
     "japanese": "自動でサポートカードを編成します\\n<color=#u:Negative>※現在の編成は保存されません</color>",
-    "chinese": "将自动编成辅助卡\\n<color=#u:Negative>※当前编成不会被保存</color>"
+    "chinese": "将自动编成支援卡\\n<color=#u:Negative>※当前编成不会被保存</color>"
   },
   "produce_prepare.deck_auto_set_confirm_sheet.description.memory": {
     "japanese": "自動でメモリーを編成します\\n<color=#u:Negative>※現在の編成は保存されません</color>",
@@ -4925,11 +4925,11 @@
   },
   "produce_prepare.support_select_overlay.toast.contains": {
     "japanese": "編成中のサポートカードです",
-    "chinese": "编成中的辅助卡"
+    "chinese": "编成中的支援卡"
   },
   "produce_prepare.support_select_overlay.toast.duplicate_character": {
     "japanese": "重複するサポートカードは設定できません",
-    "chinese": "不能设置重复的辅助卡"
+    "chinese": "不能设置重复的支援卡"
   },
   "produce_prepare.support_select_overlay.effect_tab.button.produce_resource": {
     "japanese": "アイテム/スキルカード",
@@ -4941,11 +4941,11 @@
   },
   "produce_prepare.support_select_overlay.effect_tab.heading.current": {
     "japanese": "選択中サポートカード",
-    "chinese": "选中的辅助卡"
+    "chinese": "选中的支援卡"
   },
   "produce_prepare.support_select_overlay.effect_tab.heading.other": {
     "japanese": "その他編成中サポートカード",
-    "chinese": "其他编成中的辅助卡"
+    "chinese": "其他编成中的支援卡"
   },
   "produce_prepare.support_select_overlay.effect_tab.sub_heading.skill_card": {
     "japanese": "スキルカード強化対象",
@@ -5073,11 +5073,11 @@
   },
   "produce_prepare.effect_confirm_overlay.ability_tab.empty": {
     "japanese": "編成中のサポートカードとメモリーが持つアビリティがありません",
-    "chinese": "编成中的辅助卡和回忆没有能力"
+    "chinese": "编成中的支援卡和回忆没有能力"
   },
   "produce_prepare.effect_confirm_overlay.event_empty": {
     "japanese": " 編成中のサポートカードが持つイベントがありません",
-    "chinese": " 编成中的辅助卡没有事件"
+    "chinese": " 编成中的支援卡没有事件"
   },
   "produce_prepare.effect_confirm_overlay.produce_card_empty": {
     "japanese": "  編成中のスキルカードがありません。",
@@ -5321,7 +5321,7 @@
   },
   "produce.history.support_memory.title": {
     "japanese": "編成サポートカード／メモリー",
-    "chinese": "编成辅助卡／回忆"
+    "chinese": "编成支援卡／回忆"
   },
   "produce.history.support_memory.deck_info": {
     "japanese": "編成詳細",
@@ -5329,7 +5329,7 @@
   },
   "produce.history.support_memory.support": {
     "japanese": "サポートカード",
-    "chinese": "辅助卡"
+    "chinese": "支援卡"
   },
   "produce.history.support_memory.memory": {
     "japanese": "メモリー",
@@ -5829,7 +5829,7 @@
   },
   "card.filter.support_card_invalid": {
     "japanese": "条件に当てはまるサポートカードがいません",
-    "chinese": "没有符合条件的辅助卡"
+    "chinese": "没有符合条件的支援卡"
   },
   "           ": {
     "japanese": "            ",
@@ -6229,7 +6229,7 @@
   },
   "card.support_card.list.user_card.empty": {
     "japanese": "サポートカードを所持していません",
-    "chinese": "没有持有辅助卡"
+    "chinese": "没有持有支援卡"
   },
   "card.support_card.list.label.upgradable_level_limit_rank": {
     "japanese": "上限解放可能",
@@ -6341,7 +6341,7 @@
   },
   "card.support_card.exchange_select.list_empty": {
     "japanese": "変換可能なサポートカードを所持していません",
-    "chinese": "没有持有可转换的辅助卡"
+    "chinese": "没有持有可转换的支援卡"
   },
   "card.support_card.exchange_select.button.select_all": {
     "japanese": "全選択",
@@ -6361,7 +6361,7 @@
   },
   "card.support_card.exchange_select.button.disabled": {
     "japanese": "変換するサポートカードが選択されていません",
-    "chinese": "尚未选择要转换的辅助卡"
+    "chinese": "尚未选择要转换的支援卡"
   },
   "card.support_card.exchange_select.completed": {
     "japanese": "変換を行いました",
@@ -6369,7 +6369,7 @@
   },
   "card.support_card_exchange_select_overlay.button.disabled": {
     "japanese": "変換するサポートカードが選択されていません",
-    "chinese": "尚未选择要转换的辅助卡"
+    "chinese": "尚未选择要转换的支援卡"
   },
   "card.support_card.exchange.confirm.sheet.title": {
     "japanese": "変換確認",
@@ -6377,15 +6377,15 @@
   },
   "card.support_card.exchange.confirm.sheet.message": {
     "japanese": "選択中のサポートカードを変換してアイテムを入手します。よろしいですか？",
-    "chinese": "将转换所选的辅助卡以获取物品，确定吗？"
+    "chinese": "将转换所选的支援卡以获取物品，确定吗？"
   },
   "card.support_card.exchange.confirm.sheet.alert.exchange": {
     "japanese": "※選択中のサポートカードはなくなります",
-    "chinese": "※所选的辅助卡将会消失"
+    "chinese": "※所选的支援卡将会消失"
   },
   "card.support_card.exchange.confirm.sheet.alert.level_limit": {
     "japanese": "は上限解放分が含まれているサポートカードです",
-    "chinese": "包含已上限解放的辅助卡"
+    "chinese": "包含已上限解放的支援卡"
   },
   "card.support_card.exchange.confirm.sheet.list_cell.count": {
     "japanese": "x{0:N0}",
@@ -6397,7 +6397,7 @@
   },
   "card.support_card.exchange.level_limit.confirm.sheet.message": {
     "japanese": "上限解放分（　）のサポートカードが含まれています。本当に変換しますか？",
-    "chinese": "包含上限解放（　）的辅助卡，确定要转换吗？"
+    "chinese": "包含上限解放（　）的支援卡，确定要转换吗？"
   },
   "card.support_card.enhance.button.execute": {
     "japanese": "Lv強化",
@@ -6457,7 +6457,7 @@
   },
   "card.support_card.upgrade_level_limit_rank_overlay.description": {
     "japanese": "サポートカードを{0}枚消費して上限解放を行います",
-    "chinese": "消耗{0}张辅助卡进行上限解放"
+    "chinese": "消耗{0}张支援卡进行上限解放"
   },
   "card.support_card.upgrade_level_limit_rank_overlay.lack": {
     "japanese": "枚数が足りません",
@@ -7665,7 +7665,7 @@
   },
   "story_event.bonus.description.support": {
     "japanese": "対象のサポートカードを所持しているとイベントボーナスがつき、イベントコインの獲得数が増えます。\\nまた解放段階が上がるほどボーナスの値が大きくなります。",
-    "chinese": "持有目标辅助卡时会获得活动加成，活动硬币的获取量会增加。\\n另外，解锁阶段越高，加成值越大。"
+    "chinese": "持有目标支援卡时会获得活动加成，活动硬币的获取量会增加。\\n另外，解锁阶段越高，加成值越大。"
   },
   "story_event.bonus.description_pt_double": {
     "japanese": "※ボーナス対象のアイドルとプロデュースアイドルはボーナス効果\\n　が高い方が優先されます。",
@@ -7681,7 +7681,7 @@
   },
   "story_event.bonus.support_card": {
     "japanese": "ボーナス対象サポートカード",
-    "chinese": "加成对象辅助卡"
+    "chinese": "加成对象支援卡"
   },
   "story_event.event_coin_bonus": {
     "japanese": "イベントコインボーナス",
@@ -8825,7 +8825,7 @@
   },
   "exchange.ticket_list.tab.support_card": {
     "japanese": " サポートカード",
-    "chinese": " 辅助卡"
+    "chinese": " 支援卡"
   },
   "exchange.ticket_list.tab.costume_head": {
     "japanese": " 髪型・アクセサリー",
@@ -8881,7 +8881,7 @@
   },
   "exchange.ticket_confirm.reward.support_card": {
     "japanese": " サポートカード",
-    "chinese": " 辅助卡"
+    "chinese": " 支援卡"
   },
   "exchange.ticket_confirm.reward.memory": {
     "japanese": " メモリー",
@@ -9557,7 +9557,7 @@
   },
   "profile.common.support_idol": {
     "japanese": "サポートカード",
-    "chinese": "辅助卡"
+    "chinese": "支援卡"
   },
   "profile.common.memory": {
     "japanese": "メモリー",
@@ -9681,7 +9681,7 @@
   },
   "profile.support.title": {
     "japanese": "サポートカード設定",
-    "chinese": "辅助卡设置"
+    "chinese": "支援卡设置"
   },
   "profile.memory.title": {
     "japanese": "メモリー設定",
@@ -9689,7 +9689,7 @@
   },
   "profile.support_select.toast.selected": {
     "japanese": "設定中のサポートカードです",
-    "chinese": "这是当前设置的辅助卡"
+    "chinese": "这是当前设置的支援卡"
   },
   "profile.memory_select.toast.selected": {
     "japanese": "設定中のメモリーです",
@@ -10477,7 +10477,7 @@
   },
   "story.support_card.character_empty": {
     "japanese": "条件に当てはまるサポートカードはありません",
-    "chinese": "没有符合条件的辅助卡"
+    "chinese": "没有符合条件的支援卡"
   },
   "story.support_card.character_description": {
     "japanese": "コミュに登場するアイドルを選択",
@@ -11769,7 +11769,7 @@
   },
   "friend.label.support_card": {
     "japanese": "サポート",
-    "chinese": "辅助卡"
+    "chinese": "支援卡"
   },
   "friend.label.memory": {
     "japanese": "メモリー",
