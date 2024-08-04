@@ -2,7 +2,7 @@ import axios from "axios";
 import { getLLMConfig, setupLog } from "./src/setup-env";
 import { LLMConfig } from "./src/translate";
 import log from "loglevel";
-import { readFileSync, readJSONSync, writeJSONSync } from 'fs-extra'
+import { readFileSync, readJsonSync, readJSONSync, writeJSONSync } from 'fs-extra'
 
 // const prompt = `你是一位经验丰富的本地化工作者，你现在需要将日语游戏文本翻译为中文。
 
@@ -133,10 +133,14 @@ function pickUntranslatedLines(lFile: LocalizatonObj, size: number = 30) {
 }
 
 function readRawLocalization(filePath: string) {
-  const rawLocalization = readFileSync(filePath, "utf-8")
+  // const rawLocalization = readFileSync(filePath, "utf-8")
   const rawObj: LocalizatonObj = {}
 
-  const parsed = parseCsvFormatLocalization(rawLocalization)
+  // const parsed = parseCsvFormatLocalization(rawLocalization)
+  const parsed = readJsonSync(filePath, {
+    "encoding": "utf-8"
+
+  })
   for (const key of Object.keys(parsed)) {
     rawObj[key] = {
       japanese: parsed[key],
@@ -163,8 +167,9 @@ function applyTranslatedLocalization(rawObj: LocalizatonObj, translationTable: {
 
 async function main() {
   setupLog()
-  const sourcePath = "./etc/Localization.txt"
-  const targetPath = "./etc/translated.json"
+  // const sourcePath = "./etc/Localization.txt"
+  const sourcePath = "./etc/localization_full.json"
+  const targetPath = "./etc/translated_dual.json"
   const distPath = "./etc/localization.json"
   const config = getLLMConfig()
 
@@ -202,7 +207,8 @@ async function main() {
   Object.keys(l10nObj).forEach((key) => {
     tmp[key] = l10nObj[key].chinese
   })
-  writeJSONSync(distPath, tmp, {
+  const sorted = ((o) => Object.keys(o).sort().reduce((r, k) => (r[k] = o[k], r), {}))(tmp)
+  writeJSONSync(distPath, sorted, {
     "encoding": "utf-8",
     "spaces": 2,
   })
