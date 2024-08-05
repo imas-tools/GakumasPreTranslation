@@ -1873,7 +1873,7 @@
   },
   "producer.level.idol_plan3": {
     "japanese": "アノマリーのアイドル",
-    "chinese": " 异类偶像"
+    "chinese": " 类偶像"
   },
   "guild.donation.reward": {
     "japanese": "アイテムを寄付し、フレンドコインを獲得しました",
@@ -7937,7 +7937,7 @@
   },
   "produce_plan_type_condition_sheet.description.plan3": {
     "japanese": "プラン：アノマリーのプロデュースアイドルのプロデュース時のみ編成可能です",
-    "chinese": "仅限“异常”计划的培育偶像编成"
+    "chinese": "仅限“异类”计划的培育偶像编成"
   },
   "mission.pass.list.sheet.title": {
     "japanese": "ミッションパスリスト",
@@ -7965,7 +7965,7 @@
   },
   "produce_plan_type_condition_sheet.description.plan1": {
     "japanese": "プラン：センスのプロデュースアイドルのプロデュース時のみ編成可能です",
-    "chinese": "仅限“感知”计划的培育偶像编成"
+    "chinese": "仅限“感性”计划的培育偶像编成"
   },
   "data.linkage.update.description": {
     "japanese": "現在プレイ中のデータはログインしたものとは別の\nバンダイナムコIDと連携されています。連携を解除\nし、新たにログインしたアカウントと以下のゲーム\nデータの連携を行いますか？",
@@ -13381,7 +13381,7 @@
   },
   "common.plan3": {
     "japanese": "アノマリー",
-    "chinese": "异常"
+    "chinese": "异类"
   },
   "produce_prepare.button.live_battle_skill": {
     "japanese": "Lアビリティ",
