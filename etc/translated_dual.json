@@ -7565,7 +7565,7 @@
   },
   "card.info.idol_card.plan_condition.plan1": {
     "japanese": "センス限定",
-    "chinese": "仅限感知"
+    "chinese": "仅限感性"
   },
   "card.info.support_card.level_limit": {
     "japanese": "上限解放",
@@ -8329,7 +8329,7 @@
   },
   "card.info.idol_card.plan_condition.plan3": {
     "japanese": "アノマリー限定",
-    "chinese": "异常限定"
+    "chinese": "仅限异类"
   },
   "card.detail.enhance.confirm.skill.after.name": {
     "japanese": "{0}Lv<color=#u:Positive>{1}</color>",
