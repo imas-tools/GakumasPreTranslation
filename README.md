@@ -23,7 +23,7 @@
 - 安装依赖：`yarn`
 - 配置环境变量：`cp .env.sample .env`，**接着修改 .env 文件中的变量**
 - 执行翻译
-  - 将待翻译csv直接放入`tmp/untranslated`文件夹，运行预翻译脚本：`yarn translate:folder`,翻译完成的文件会放入`tmp/translated`文件夹中
+  - 将待翻译csv直接放入`tmp/untranslated`文件夹，运行预翻译脚本：`yarn translate:folder`,翻译完成的文件会放入`tmp/translated`文件夹中。如果放在其他文件夹中，可以使用 `yarn translate:folder --dir <path>` 指定待翻译文件的路径
   - 或运行 `yarn translate:latest` 翻译服务器最新更新的文件
 - 运行路径助手脚本：`yarn move`，翻译完成的文件（`tmp/translated`）会被放入`data`文件夹中
 - 提交文件即可
