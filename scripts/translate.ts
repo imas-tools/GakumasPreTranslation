@@ -46,13 +46,13 @@ async function translateFolder(
     const csvInfo = extractInfoFromCsvText(csvString);
 
     if (indexFileContent[csvInfo.jsonUrl]) {
-      log.info(`Skipped ${csvInfo.jsonUrl} because of file already translated`);
+      log.debug(`Skipped ${csvInfo.jsonUrl} because of file already translated`);
       continue;
     }
 
     const destPath = resolve(destFolder, csvInfo.jsonUrl.replace(".txt", ".csv"));
     if (skipExisted && fs.existsSync(destPath)) {
-      log.info(`Skipped ${destPath} because of file existence`);
+      log.debug(`Skipped ${destPath} because of file existence`);
       continue;
     }
 
@@ -92,7 +92,7 @@ async function translateRemoteDiff(
     log.info("Translating " + jsonPath);
     const destPath = resolve(destFolder, basename(jsonPath).replaceAll(".json", ".csv"));
     if (skipExisted && fs.existsSync(destPath)) {
-      log.info(`Skipped ${destPath} because of file existence`);
+      log.debug(`Skipped ${destPath} because of file existence`);
       continue;
     }
     const jsonContent = (await axios.get(join(assetEndpoint, jsonPath))).data;

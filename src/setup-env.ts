@@ -29,6 +29,7 @@ export function getLLMConfig() {
     );
     process.exit(1);
   }
+  log.info("Using model: " + process.env.MODEL);
   return {
     apiKey: process.env.OPENAI_API_KEY,
     baseURL: process.env.OPENAI_BASE_URL,
