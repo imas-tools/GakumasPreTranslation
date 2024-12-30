@@ -15310,5 +15310,4061 @@
   "memory.detail.tab.contest": {
     "japanese": "ステージ",
     "chinese": "竞赛"
+  },
+  "upload_movie_error_sheet.title": {
+    "japanese": "エラー",
+    "chinese": "错误"
+  },
+  "upload_meishi_error_sheet.cancel": {
+    "japanese": "キャンセル",
+    "chinese": "取消"
+  },
+  "upload_meishi_error_sheet.description": {
+    "japanese": "エラーにより名刺を保存できませんでした\nリトライしますか？\n\n<color=#u:Negative>※キャンセルをすると中断されます</color>",
+    "chinese": "由于错误无法保存名片"
+  },
+  "upload_reshooting_memory_photo_error_sheet.cancel": {
+    "japanese": "キャンセル",
+    "chinese": "取消"
+  },
+  "upload_reshooting_memory_photo_error_sheet.description": {
+    "japanese": "エラーによりフォトを保存できませんでした\nリトライしますか？</color>",
+    "chinese": "由于错误无法保存照片"
+  },
+  "angya.restart.expired.description": {
+    "japanese": "イベント開催期間が終了したため\n挑戦中のデータは破棄されました",
+    "chinese": "由于活动举办期间已结束"
+  },
+  "angya.rehearsal.already_cleared.description": {
+    "japanese": "すでにクリア済みです。イベントトップに戻ります",
+    "chinese": "已完成。将返回活动主界面"
+  },
+  "angya.rehearsal.already_cleared.title": {
+    "japanese": "確認",
+    "chinese": "确认"
+  },
+  "angya.no_organized_confirm_sheet.alert": {
+    "japanese": "※すべてにメモリーが編成されてない場合、\n自動でデフォルトメモリーが編成されます",
+    "chinese": "※如果未为所有内容编组回忆，"
+  },
+  "angya.no_organized_confirm_sheet.description": {
+    "japanese": "メモリーが編成されていないステージがあります。\n本当に挑戦しますか？",
+    "chinese": "存在未编组回忆的阶段。"
+  },
+  "angya.stage.index_name.number_4": {
+    "japanese": "D",
+    "chinese": "D"
+  },
+  "angya.stage.index_name.number_3": {
+    "japanese": "C",
+    "chinese": "C"
+  },
+  "angya.stage.index_name.number_2": {
+    "japanese": "B",
+    "chinese": "B"
+  },
+  "angya.battle_confirm.unit_detail.deck_all_empty": {
+    "japanese": "編成されていません",
+    "chinese": "未编组"
+  },
+  "angya.battle_confirm.rehearsal.warning": {
+    "japanese": "※挑戦回数は消費しません\n※報酬は獲得できません",
+    "chinese": "※不会消耗挑战次数"
+  },
+  "angya.battle_confirm.rehearsal.title": {
+    "japanese": "リハーサル確認",
+    "chinese": "彩排确认"
+  },
+  "angya.battle_confirm.start.count": {
+    "japanese": "挑戦回数",
+    "chinese": "挑战次数"
+  },
+  "angya.battle_confirm.no_challenge_count": {
+    "japanese": "挑戦回数が残っていません",
+    "chinese": "没有剩余挑战次数"
+  },
+  "angya.angya_point.description": {
+    "japanese": "{0}のイベントPt",
+    "chinese": "{0}的活动Pt"
+  },
+  "angya.angya_point.title": {
+    "japanese": "地方行脚イベントPt",
+    "chinese": "地方巡演活动Pt"
+  },
+  "angya.stage.empty": {
+    "japanese": "-",
+    "chinese": "-"
+  },
+  "angya.fraction": {
+    "japanese": "{0:N0} / {1:N0}",
+    "chinese": "{0:N0} / {1:N0}"
+  },
+  "angya.transition.not_guild_joined.title": {
+    "japanese": "イベント参加条件確認",
+    "chinese": "活动参与条件确认"
+  },
+  "angya.transition.feature_locked.title": {
+    "japanese": "イベント参加条件確認",
+    "chinese": "活动参与条件确认"
+  },
+  "angya.point_progress.receive.description": {
+    "japanese": "報酬を受け取りました",
+    "chinese": "已领取奖励"
+  },
+  "angya.point_progress.progress.label": {
+    "japanese": "イベント報酬進捗",
+    "chinese": "活动奖励进度"
+  },
+  "angya.point_progress.progress.score": {
+    "japanese": "獲得スコア",
+    "chinese": "获得分数"
+  },
+  "angya.point_progress.progress.title": {
+    "japanese": "イベントPt",
+    "chinese": "活动Pt"
+  },
+  "angya.point_progress.back": {
+    "japanese": "イベントTOPへ",
+    "chinese": "返回活动主界面"
+  },
+  "angya.result.header_text.clear_reward": {
+    "japanese": "ステージクリア報酬",
+    "chinese": "阶段通关奖励"
+  },
+  "angya.result.header_text.challenge_reward": {
+    "japanese": "挑戦報酬獲得",
+    "chinese": "获得挑战奖励"
+  },
+  "angya.result.deck.button": {
+    "japanese": "編成詳細",
+    "chinese": "编组详情"
+  },
+  "angya.result.mvp.player": {
+    "japanese": "活躍中のプロデューサー",
+    "chinese": "活跃中的制作人"
+  },
+  "angya.result.log_button": {
+    "japanese": "ログ確認",
+    "chinese": "查看记录"
+  },
+  "angya.result.score_remain": {
+    "japanese": "あと",
+    "chinese": "还差"
+  },
+  "angya.result.score": {
+    "japanese": "獲得スコア",
+    "chinese": "获得分数"
+  },
+  "angya.preparation.start": {
+    "japanese": "挑戦開始",
+    "chinese": "开始挑战"
+  },
+  "angya.preparation.idol": {
+    "japanese": "編成アイドル",
+    "chinese": "编组偶像"
+  },
+  "angya.preparation.score_remain": {
+    "japanese": "MAXまであと",
+    "chinese": "距离MAX还差"
+  },
+  "angya.preparation.gauge": {
+    "japanese": "ハコユレゲージ",
+    "chinese": "舞台震撼计量表"
+  },
+  "angya.preparation.reharsal": {
+    "japanese": "リハーサル",
+    "chinese": "彩排"
+  },
+  "angya.receive_guild_rank_reward_overlay.title": {
+    "japanese": "ランキング報酬獲得",
+    "chinese": "获得排名奖励"
+  },
+  "angya.receive_clear_stage_reward_overlay.title": {
+    "japanese": "ステージクリア報酬獲得",
+    "chinese": "获得阶段通关奖励"
+  },
+  "angya.guild_detail_overlay.tab.mvp_member_list.button.deck": {
+    "japanese": "編成詳細",
+    "chinese": "编组详情"
+  },
+  "angya.guild_detail_overlay.tab.mvp_member_list": {
+    "japanese": "活躍メンバー",
+    "chinese": "活跃成员"
+  },
+  "angya.guild_detail_overlay.tab.member_ranking_list": {
+    "japanese": "メンバーランキング",
+    "chinese": "成员排名"
+  },
+  "angya.guild_detail_overlay.tab.guild_rank_list": {
+    "japanese": "サークルランキング",
+    "chinese": "社团排名"
+  },
+  "angya.guild_detail_overlay.guild_status.button.guild_detail": {
+    "japanese": "サークル",
+    "chinese": "社团"
+  },
+  "angya.reward.tab.guild_rank_list.cell.count_range_last": {
+    "japanese": "{0:N0} ~",
+    "chinese": "{0:N0} ~"
+  },
+  "angya.reward.tab.guild_rank_list": {
+    "japanese": "サークルランキング",
+    "chinese": "社团排名"
+  },
+  "angya.reward.tab.clear_stage_list.cell.current_count": {
+    "japanese": "現在の周数",
+    "chinese": "当前周数"
+  },
+  "angya.reward.tab.clear_stage_list.cell.count_range_last_label": {
+    "japanese": "周目以降",
+    "chinese": "周目之后"
+  },
+  "angya.reward.tab.clear_stage_list.cell.count_range_label": {
+    "japanese": "周目",
+    "chinese": "周目"
+  },
+  "angya.reward.tab.clear_stage_list.cell.count_range": {
+    "japanese": "{0:N0} ~ {1:N0}",
+    "chinese": "{0:N0} ~ {1:N0}"
+  },
+  "angya.reward.tab.clear_stage_list.count_label": {
+    "japanese": "周目",
+    "chinese": "周目"
+  },
+  "angya.reward.tab.clear_stage_list.header": {
+    "japanese": "ステージクリア報酬",
+    "chinese": "阶段通关奖励"
+  },
+  "angya.reward.tab.clear_stage_list": {
+    "japanese": "ステージクリア",
+    "chinese": "阶段通关"
+  },
+  "angya.reward.tab.point_list.header": {
+    "japanese": "獲得Pt報酬",
+    "chinese": "获得Pt奖励"
+  },
+  "angya.stage_detail.list.cell.gimmick": {
+    "japanese": "応援/トラブル",
+    "chinese": "助力/麻烦"
+  },
+  "angya.stage_detail.list.cell.turn": {
+    "japanese": "ターン",
+    "chinese": "回合"
+  },
+  "angya.battle_confirm.start.title": {
+    "japanese": "挑戦確認",
+    "chinese": "挑战确认"
+  },
+  "angya.stage_detail.list.cell.button.reward_detail": {
+    "japanese": "詳細",
+    "chinese": "详细"
+  },
+  "angya.stage_detail.list.cell.clear_reward": {
+    "japanese": "ステージ\nクリア報酬",
+    "chinese": "关卡通关奖励"
+  },
+  "angya.top.restart.description": {
+    "japanese": "挑戦中のステージがあります",
+    "chinese": "有正在挑战中的关卡"
+  },
+  "angya.top.period.closed.label": {
+    "japanese": "イベントの期間は終了しました",
+    "chinese": "活动期间已结束"
+  },
+  "angya.top.period.in_fix_rank.until": {
+    "japanese": "まで",
+    "chinese": "截止到"
+  },
+  "angya.top.period.in_fix_rank.label": {
+    "japanese": "集計期間中",
+    "chinese": "统计期间中"
+  },
+  "angya.top.user_status.exchange": {
+    "japanese": "コイン交換所",
+    "chinese": "硬币兑换所"
+  },
+  "angya.top.user_status.point_complete_label": {
+    "japanese": "すべての報酬を獲得しました",
+    "chinese": "已获得所有奖励"
+  },
+  "angya.top.user_status.next_reward_label": {
+    "japanese": "次まで",
+    "chinese": "距离下一个奖励"
+  },
+  "angya.top.user_status.point_title_label": {
+    "japanese": "獲得Pt",
+    "chinese": "获得的Pt"
+  },
+  "angya.top.guild_status.point_title_label": {
+    "japanese": "獲得Pt",
+    "chinese": "获得的Pt"
+  },
+  "angya.top.button.story.unread_story_number": {
+    "japanese": "{0}話解放",
+    "chinese": "解锁第{0}话"
+  },
+  "angya.top.term": {
+    "japanese": "{0} ~ {1}",
+    "chinese": "{0} ~ {1}"
+  },
+  "angya.top.term_label": {
+    "japanese": "開催期間",
+    "chinese": "举办期间"
+  },
+  "angya.top.title": {
+    "japanese": "地方行脚",
+    "chinese": "地方巡演"
+  },
+  "setting.live_quality_sheet.description_warning": {
+    "japanese": "設定を上げると動作が重くなり、消費電力が増える\n可能性があります\n品質を変更した場合、アプリ全体の設定が変更されます",
+    "chinese": "提高设置可能会导致运行变慢和耗电增加。更改质量设置时，应用程序整体设置将被修改。"
+  },
+  "setting.live_quality_sheet.title": {
+    "japanese": "品質設定",
+    "chinese": "质量设置"
+  },
+  "setting.produce.customize_check_execute.description": {
+    "japanese": "スキルカードのカスタマイズを実行をする時に\n確認メッセージを表示します。",
+    "chinese": "执行技能卡自定义时会显示确认信息。"
+  },
+  "setting.produce.customize_point_low_alert.description": {
+    "japanese": "Pポイントが少ない場合、特別指導を開始する時に\n確認メッセージを表示します。",
+    "chinese": "当P点数较少时，开始特别指导时会显示确认信息。"
+  },
+  "setting.produce.customize_point_low_alert": {
+    "japanese": "特別指導開始確認",
+    "chinese": "特别指导开始确认"
+  },
+  "setting.preference.other.daily_exchange.default_max.description": {
+    "japanese": "この項目をONにすると、デイリー交換所でのデフォルト交換回数が交換できる最大値になります。",
+    "chinese": "将此项设为ON时，每日兑换所的默认兑换次数将设为可兑换最大值。"
+  },
+  "setting.preference.other.daily_exchange.title": {
+    "japanese": "デイリー交換所設定",
+    "chinese": "每日兑换所设置"
+  },
+  "setting.preference.memory.inherit.description": {
+    "japanese": "メモリー合成実行時に実行確認メッセージを表示します。",
+    "chinese": "执行回忆合成时会显示确认信息。"
+  },
+  "setting.preference.photography.photo_button_execute.timing.long_tap": {
+    "japanese": "長押しから離したときにも撮影する",
+    "chinese": "松开长按时拍摄"
+  },
+  "setting.preference.photography.photo_button_execute.timing.press_start": {
+    "japanese": "押したとき",
+    "chinese": "按下时拍摄"
+  },
+  "setting.preference.photography.photo_button_execute.description": {
+    "japanese": "撮影ボタンを押したときに撮影をするタイミングを選択できます",
+    "chinese": "可以选择按下拍摄按钮时的拍摄时间点。"
+  },
+  "setting.preference.photography.vertical_confirm.description": {
+    "japanese": "縦画面撮影を開始する際に確認メッセージを表示します。",
+    "chinese": "开始竖屏拍摄时会显示确认信息。"
+  },
+  "angya.top.count_label": {
+    "japanese": "周目",
+    "chinese": "周目"
+  },
+  "setting.preference.photography.vertical_confirm.title": {
+    "japanese": "縦画面撮影確認",
+    "chinese": "竖屏拍摄确认"
+  },
+  "setting.preference.photography.idol_photo.gesture.angle.left_right": {
+    "japanese": "左右アングルの反転",
+    "chinese": "左右角度反转"
+  },
+  "setting.preference.photography.idol_photo.gesture.move.left_right": {
+    "japanese": "左右カメラの反転",
+    "chinese": "左右相机反转"
+  },
+  "setting.preference.photography.idol_photo.gesture.move.top_bottom": {
+    "japanese": "上下カメラの反転",
+    "chinese": "上下相机反转"
+  },
+  "setting.preference.photography.idol_photo": {
+    "japanese": "アイドル撮影",
+    "chinese": "偶像拍摄"
+  },
+  "setting.preference.photography.random_costume.title": {
+    "japanese": "衣装設定確認",
+    "chinese": "服装设置确认"
+  },
+  "setting.preference.photography.random_all.description": {
+    "japanese": "すべての撮影設定をランダムにする場合の確認メッセージを表示します。",
+    "chinese": "将所有拍摄设置随机化时会显示确认信息。"
+  },
+  "setting.preference.photography.random_all.title": {
+    "japanese": "撮影設定確認",
+    "chinese": "拍摄设置确认"
+  },
+  "setting.preference.photography.photo_execute": {
+    "japanese": "撮影設定",
+    "chinese": "拍摄设置"
+  },
+  "costume.produce_setting_sheet.continuous": {
+    "japanese": "次回プロデュースにも設定を引き継ぐ",
+    "chinese": "将设置继承至下次培育"
+  },
+  "costume.select.view_mode.description_invalid_feature": {
+    "japanese": "{0}は{1}に設定できません",
+    "chinese": "{0}无法设置为{1}"
+  },
+  "costume.common.costume_feature_type.live": {
+    "japanese": "ライブ",
+    "chinese": "演唱会"
+  },
+  "costume.common.costume_feature_type.home": {
+    "japanese": "ホーム",
+    "chinese": "主页"
+  },
+  "guild.leader.dissolve.restricted_event.title": {
+    "japanese": "サークル解散制限確認",
+    "chinese": "社团解散限制确认"
+  },
+  "guild.member_dismiss.restricted_event.description": {
+    "japanese": "イベント期間中は除名できません",
+    "chinese": "活动期间无法驱逐成员"
+  },
+  "guild.member_dismiss.restricted_event.title": {
+    "japanese": "サークル除名制限確認",
+    "chinese": "社团驱逐限制确认"
+  },
+  "live.movie_record.retry_confirm_sheet.execute": {
+    "japanese": "鑑賞する",
+    "chinese": "观看"
+  },
+  "live.movie_record.overwrite_confirm_sheet.description": {
+    "japanese": "決定すると現在の動画に上書きされます。\nよろしいですか？",
+    "chinese": "确定后将覆盖当前视频。您确定吗？"
+  },
+  "live.movie_record_edit.time_format": {
+    "japanese": "{0:D2}.{1:D3}",
+    "chinese": "{0:D2}.{1:D3}"
+  },
+  "live.movie_record_edit.retake_from_start_button": {
+    "japanese": "最初から\n撮り直す",
+    "chinese": "从头重拍"
+  },
+  "live.movie_record_edit.thumbnail_description": {
+    "japanese": "サムネイルに使用するシーンを選択してください",
+    "chinese": "请选择用于缩略图的场景。"
+  },
+  "live.movie_record_edit.trimming_description": {
+    "japanese": "動画名刺として使用するシーンを{0}~{1}秒で切り抜いてください",
+    "chinese": "请剪辑{0}~{1}秒的场景作为视频名片使用。"
+  },
+  "live.movie_record.toast.record_invalid": {
+    "japanese": "終了{0}秒前以降は撮影できません",
+    "chinese": "结束前{0}秒无法拍摄。"
+  },
+  "live.movie_record.toast.recording": {
+    "japanese": "撮影中です",
+    "chinese": "正在拍摄中。"
+  },
+  "setting.preference.photography.random_character.title": {
+    "japanese": "アイドル設定確認",
+    "chinese": "偶像设置确认"
+  },
+  "photography.save.album.over_limit_confirm.description_single": {
+    "japanese": "<color=#u:Negative>保存可能枚数が上限に達しています</color>\n選択したフォトを保存するには\n1枚のフォトを削除する必要があります",
+    "chinese": "<color=#u:Negative>保存可用空间已达上限</color>。若要保存选中的照片，请删除1张照片。"
+  },
+  "photography.save.close.confirm.description_local": {
+    "japanese": "端末保存を終了しますか？\n<color=#u:Negative>※フォトが選択されている場合も保存されません</color>",
+    "chinese": "是否结束本地保存？<color=#u:Negative>※即使选中照片也不会保存。</color>"
+  },
+  "photography.end_confirm.execute": {
+    "japanese": "終了する",
+    "chinese": "结束"
+  },
+  "photography.end_confirm.description.photo_can_take": {
+    "japanese": "撮影を終了しますか？\n<color=#u:Negative>撮影可能枚数が残っています。</color>",
+    "chinese": "是否结束拍摄？<color=#u:Negative>仍有可拍摄数量。</color>"
+  },
+  "photography.end_confirm.title": {
+    "japanese": "撮影終了確認",
+    "chinese": "拍摄结束确认"
+  },
+  "photography.setting.random_confirm_sheet.check_description": {
+    "japanese": "次回以降「{0}」を表示しない",
+    "chinese": "下次不再显示“{0}”的提示"
+  },
+  "photography.setting.random_confirm_sheet.title": {
+    "japanese": "{0}設定確認",
+    "chinese": "{0}设置确认"
+  },
+  "photography.setting.layout.random_confirm_sheet.include_character": {
+    "japanese": "アイドルもランダム設定の対象にする",
+    "chinese": "将偶像也作为随机设置的对象"
+  },
+  "photography.setting.costume.confirm_change_sheet.description.body": {
+    "japanese": "髪型で制限されている衣装を変更しようとしています。\n現在の設定を解除し、衣装を変更しますか？\n<color=#u:Negative>※変更後の衣装によって髪型が設定されます</color>",
+    "chinese": "尝试更换受发型限制的服装。"
+  },
+  "photography.setting.costume.confirm_change_sheet.description.head": {
+    "japanese": "衣装で制限されている髪型を変更しようとしています。\n現在の設定を解除し、髪型を変更しますか？\n<color=#u:Negative>※変更後の髪型によって衣装が設定されます</color>",
+    "chinese": "尝试更换受服装限制的发型。"
+  },
+  "photography.setting.costume.confirm_change_sheet.title": {
+    "japanese": "変更確認",
+    "chinese": "更换确认"
+  },
+  "photography.setting.dress.random_confirm_sheet.description": {
+    "japanese": "所持している{0}からランダムに設定します。\nよろしいですか？",
+    "chinese": "从持有的{0}中随机设置。"
+  },
+  "angya.top.button.how_to_play": {
+    "japanese": "遊び方",
+    "chinese": "玩法说明"
+  },
+  "setting.preference.photography.random_item.description": {
+    "japanese": "撮影アイテム設定をランダムにする場合の確認メッセージを表示します。",
+    "chinese": "显示关于随机设置拍摄道具的确认消息。"
+  },
+  "photography.setting.dress.head.disabled.background": {
+    "japanese": "現在のロケーションではこの髪型にできません",
+    "chinese": "当前场景无法使用此发型"
+  },
+  "angya.preparation.skip": {
+    "japanese": "スキップ",
+    "chinese": "跳过"
+  },
+  "photography.setting.dress.head.random_disabled": {
+    "japanese": "選択可能な他の髪型がありません",
+    "chinese": "没有可选的其他发型"
+  },
+  "produce.card.select_not_max.title": {
+    "japanese": "選択確認",
+    "chinese": "选择确认"
+  },
+  "memory.inherit.inherit_start.button": {
+    "japanese": "メモリー合成",
+    "chinese": "回忆合成"
+  },
+  "photography.setting.dress.body.description": {
+    "japanese": "衣装",
+    "chinese": "服装"
+  },
+  "photography.setting.motion_list.unlock.toast": {
+    "japanese": "使用できる条件を満たしていません",
+    "chinese": "未满足使用条件"
+  },
+  "photography.setting.motion_list.slot_position": {
+    "japanese": "立ち位置",
+    "chinese": "站位"
+  },
+  "angya.preparation.parameter_ratio": {
+    "japanese": "審査基準",
+    "chinese": "评审标准"
+  },
+  "produce.nia.audition.condition_invalid": {
+    "japanese": "挑戦条件を満たしていません",
+    "chinese": "未满足挑战条件"
+  },
+  "photography.setting.idol.title": {
+    "japanese": "撮影アイドル",
+    "chinese": "拍摄偶像"
+  },
+  "photography.setting.execute.idol_empty": {
+    "japanese": "撮影するアイドルを選択してください",
+    "chinese": "请选择拍摄的偶像"
+  },
+  "memory.list.cell.button.cant_be_invoke": {
+    "japanese": "選択中プロデュースでは発動しない効果です",
+    "chinese": "当前培育无法触发的效果"
+  },
+  "meishi_edit_custom.sub_menu.shape_detail.color": {
+    "japanese": "図形カラー",
+    "chinese": "图形颜色"
+  },
+  "photography.setting.idol.cancel_confirm.title": {
+    "japanese": "撮影アイドル変更確認",
+    "chinese": "拍摄偶像更改确认"
+  },
+  "photography.setting.idol.list.disabled": {
+    "japanese": "撮影に設定できる衣装がありません",
+    "chinese": "没有可设置拍摄的服装"
+  },
+  "produce.customize.button.not_upgrade_card": {
+    "japanese": "未強化のスキルカードはカスタマイズできません",
+    "chinese": "未强化的技能卡无法定制"
+  },
+  "photography.setting.layout.camera": {
+    "japanese": "カメラ",
+    "chinese": "相机"
+  },
+  "photography.setting.button.end": {
+    "japanese": "終了",
+    "chinese": "结束"
+  },
+  "photography.setting.button.execute_layout": {
+    "japanese": "撮影開始",
+    "chinese": "开始拍摄"
+  },
+  "photography.look_target.self": {
+    "japanese": "こっちみて",
+    "chinese": "看这边"
+  },
+  "photography.photo.renderer_setting.disabled": {
+    "japanese": "フォーカス中のアイドルは非表示にできません",
+    "chinese": "聚焦中的偶像无法隐藏"
+  },
+  "memory.inherit.confirm.warning": {
+    "japanese": "※合成に使用したメモリーは無くなります",
+    "chinese": "※合成使用的回忆将会消失"
+  },
+  "photography.photo.auto_look_button": {
+    "japanese": "アイドル\nに注目",
+    "chinese": "注目偶像"
+  },
+  "photography.setting.dress.button.body_random": {
+    "japanese": "衣装ランダム",
+    "chinese": "服装随机"
+  },
+  "produce.prepare.challenge.lesson_limit_up_title": {
+    "japanese": "通常・SPレッスン上限",
+    "chinese": "普通・SP课程上限"
+  },
+  "photography.photo.angle_step.minus": {
+    "japanese": "{0}°",
+    "chinese": "{0}°"
+  },
+  "common.10thousand_unit": {
+    "japanese": "万",
+    "chinese": "万"
+  },
+  "memory.to_photo.save.button": {
+    "japanese": "保存する",
+    "chinese": "保存"
+  },
+  "photography.photo.angle_step.plus": {
+    "japanese": "+{0}°",
+    "chinese": "+{0}°"
+  },
+  "photography.photo.button.back": {
+    "japanese": "撮影準備",
+    "chinese": "拍摄准备"
+  },
+  "produce.business.probability_of_great_success": {
+    "japanese": "確率",
+    "chinese": "成功率"
+  },
+  "meishi_edit_custom.sub_menu.text.text_color": {
+    "japanese": "文字カラー",
+    "chinese": "文字颜色"
+  },
+  "photography.photo.button.gyro.disabled.auto_look": {
+    "japanese": "ジャイロONの状態でアイドルに注目はできません",
+    "chinese": "在陀螺仪开启状态下无法注目偶像"
+  },
+  "photography.photo.button.gyro.off": {
+    "japanese": "ジャイロOFF",
+    "chinese": "陀螺仪关闭"
+  },
+  "costume.common.costume_feature_type.photography": {
+    "japanese": "アイドル撮影",
+    "chinese": "偶像拍摄"
+  },
+  "photography.photo.button.gyro.on": {
+    "japanese": "ジャイロON",
+    "chinese": "陀螺仪开启"
+  },
+  "photography_prepare.stage_select.vertical.confirm_sheet.checkbox_description": {
+    "japanese": "次回以降「縦画面撮影確認」を表示しない",
+    "chinese": "下次不再显示“竖屏拍摄确认”"
+  },
+  "meishi.qr_code.title": {
+    "japanese": "あなたの名刺コード",
+    "chinese": "您的名片代码"
+  },
+  "meishi.qr_code.camera_permission.error.title": {
+    "japanese": "カメラの使用確認",
+    "chinese": "相机使用确认"
+  },
+  "photography_prepare.stage_select.vertical.confirm_sheet.description": {
+    "japanese": "縦画面撮影では、撮影した場合すぐに端末へフォトを保存します。フォトアルバムへの保存はできません。\n撮影をした端末の画面比率で端末に保存されます。\n縦画面撮影を開始しますか？",
+    "chinese": "在竖屏拍摄时，拍摄的照片会立即保存至设备。无法保存到相册。"
+  },
+  "produce.info.status.shop_reroll": {
+    "japanese": "相談リフレッシュ回数 残り{0}",
+    "chinese": "咨询刷新次数 剩余{0}"
+  },
+  "photography_prepare.stage_select.vertical.confirm_sheet.title": {
+    "japanese": "縦画面撮影確認",
+    "chinese": "竖屏拍摄确认"
+  },
+  "photography_prepare.stage_select.vertical.button": {
+    "japanese": "縦画面で撮影",
+    "chinese": "竖屏拍摄"
+  },
+  "angya.top.guild_status.rank_label": {
+    "japanese": "位",
+    "chinese": "位"
+  },
+  "meishi.edit_custom.save_result.description": {
+    "japanese": "名刺を保存しました",
+    "chinese": "名片已保存"
+  },
+  "meishi.edit_custom.layer.produce_card": {
+    "japanese": "スキルカード",
+    "chinese": "技能卡"
+  },
+  "photography_prepare.stage_select.list.empty": {
+    "japanese": "選択できる背景がありません",
+    "chinese": "没有可选的背景"
+  },
+  "photography.photo.f_number": {
+    "japanese": "F{0:F1}",
+    "chinese": "F{0:F1}"
+  },
+  "produce_prepare.edit.description": {
+    "japanese": "「定期公演『初』」のサポートカード編成、メモリー編成をコピーしました。",
+    "chinese": "已复制“定期公演『初』”的支援卡组与回忆组。"
+  },
+  "meishi.edit_custom.sub_menu.produce.produce_item": {
+    "japanese": "Pアイテム",
+    "chinese": "P道具"
+  },
+  "photography_prepare.stage_select.member_count": {
+    "japanese": "{0}人用",
+    "chinese": "{0}人用"
+  },
+  "photography_prepare.stage_select.model_button": {
+    "japanese": "撮影アイテム",
+    "chinese": "拍摄道具"
+  },
+  "photography_prepare.stage_select.execute_button": {
+    "japanese": "撮影準備へ",
+    "chinese": "准备拍摄"
+  },
+  "photography.photo_background_time_type.evening": {
+    "japanese": "夕",
+    "chinese": "傍晚"
+  },
+  "produce.shop.reroll.execute": {
+    "japanese": "リフレッシュする",
+    "chinese": "刷新"
+  },
+  "photography.photo_background_time_type.morning": {
+    "japanese": "朝",
+    "chinese": "早晨"
+  },
+  "photography.photo_pose.reward.description": {
+    "japanese": "アイドル撮影のアイドルポーズとして使用できる\n指定撮影ロケーション：{0}",
+    "chinese": "可以作为偶像拍摄时的偶像姿势使用"
+  },
+  "photopose.filter.sheet.title": {
+    "japanese": "ポーズフィルタ",
+    "chinese": "姿势筛选"
+  },
+  "photography.photo_background.reward.name": {
+    "japanese": "アイドル撮影ロケーション「{0}」",
+    "chinese": "偶像拍摄地点「{0}」"
+  },
+  "meishi.edit_custom.menu.parts": {
+    "japanese": "パーツ",
+    "chinese": "部件"
+  },
+  "photography.setting.idol.description": {
+    "japanese": "ドラッグで並び替えができます",
+    "chinese": "可以通过拖拽来重新排序"
+  },
+  "produce.schedule.step_self_vocal_description": {
+    "japanese": "ボーカルが上昇します。",
+    "chinese": "歌唱能力上升。"
+  },
+  "photopose.sort.poseorder": {
+    "japanese": "ポーズ順",
+    "chinese": "姿势顺序"
+  },
+  "memory.inherit.select_memory.inherit.to": {
+    "japanese": "合成先",
+    "chinese": "合成至"
+  },
+  "photobackground.costume_condition.invalid": {
+    "japanese": "ロケーションで撮影できる衣装を所持していません",
+    "chinese": "您没有可以在此地点拍摄的服装"
+  },
+  "photobackground.unlock_condition.invalid": {
+    "japanese": "このロケーションで撮影できる条件を満たしていません",
+    "chinese": "未满足在此地点拍摄的条件"
+  },
+  "produce.business.increment_number": {
+    "japanese": "+{0}",
+    "chinese": "+{0}"
+  },
+  "photobackground.filter.character_count": {
+    "japanese": "{0}人",
+    "chinese": "{0}人"
+  },
+  "photobackground.filter.time.night": {
+    "japanese": "夜",
+    "chinese": "夜晚"
+  },
+  "photography.setting.dress.body.random_disabled": {
+    "japanese": "選択可能な他の衣装がありません",
+    "chinese": "没有可选择的其他服装"
+  },
+  "photography.look_target.other": {
+    "japanese": "みて",
+    "chinese": "看"
+  },
+  "meishi_edit_custom.remove_perspective_sheet.description": {
+    "japanese": "3D回転を解除して切り抜きにしますか？",
+    "chinese": "要解除3D旋转并进行裁剪吗？"
+  },
+  "photobackground.filter.time.noon": {
+    "japanese": "昼",
+    "chinese": "中午"
+  },
+  "photobackground.filter.time.morning": {
+    "japanese": "朝",
+    "chinese": "早晨"
+  },
+  "produce.history.select_audition.success": {
+    "japanese": "クリア",
+    "chinese": "通过"
+  },
+  "picturebook.live.unlock_confirm.sheet.toast.not_enough_item": {
+    "japanese": "アイテムが不足しています",
+    "chinese": "物品不足"
+  },
+  "picturebook.live.unlock_confirm.sheet.toast.unlock_condition_invalid": {
+    "japanese": "条件を満たしていません",
+    "chinese": "未满足条件"
+  },
+  "picturebook.live.unlock_confirm.toast": {
+    "japanese": "ライブを解放しました",
+    "chinese": "已解锁演唱会"
+  },
+  "picturebook.live.unlock_confirm.sheet.unlock.button": {
+    "japanese": "解放する",
+    "chinese": "解锁"
+  },
+  "story.support_card_unlock_sheet.result": {
+    "japanese": "{0}を使用して\nコミュを解放しました",
+    "chinese": "使用了{0}"
+  },
+  "angya.stage_challenge_reward_sheet.title": {
+    "japanese": "挑戦報酬詳細",
+    "chinese": "挑战奖励详情"
+  },
+  "photography.saved_move_confirm_sheet.execute": {
+    "japanese": "名刺へ",
+    "chinese": "前往名片"
+  },
+  "produce.business.decrement_number": {
+    "japanese": "-{0}",
+    "chinese": "-{0}"
+  },
+  "photography.setting.dress.random_confirm_sheet.head": {
+    "japanese": "髪型",
+    "chinese": "发型"
+  },
+  "story.support_card_unlock_sheet.not_enough_description": {
+    "japanese": "アイテムを所持していません",
+    "chinese": "没有足够的物品"
+  },
+  "story.idol.produce.campaign": {
+    "japanese": "キャンペーン",
+    "chinese": "活动"
+  },
+  "angya.guild_detail_overlay.tab.mvp_member_list.empty": {
+    "japanese": "MVP情報はありません",
+    "chinese": "暂无MVP信息"
+  },
+  "produce.schedule.refresh.no_remain_count": {
+    "japanese": "休みを選択できる回数が残っていません",
+    "chinese": "没有剩余可选择的休息次数"
+  },
+  "memory.inherit.change_card": {
+    "japanese": "入れ替え",
+    "chinese": "更换"
+  },
+  "story.idol.produce.business": {
+    "japanese": "営業",
+    "chinese": "营业"
+  },
+  "produce.customize.execute_button.text": {
+    "japanese": "実行する",
+    "chinese": "执行"
+  },
+  "story.story_event.section.angya_condition_lock_text": {
+    "japanese": "イベントPt獲得で解放",
+    "chinese": "通过获得活动点数解锁"
+  },
+  "achievement.idol_filter.category_heading": {
+    "japanese": "カテゴリ",
+    "chinese": "类别"
+  },
+  "photography_prepare.item_list.title": {
+    "japanese": "アイテム一覧",
+    "chinese": "物品列表"
+  },
+  "story.lock.dearness.description": {
+    "japanese": "解放済みのコミュがありません",
+    "chinese": "没有已解锁的社群"
+  },
+  "audition.battle_start.fan_vote": {
+    "japanese": "ファン投票数ボーナス",
+    "chinese": "粉丝投票数奖励"
+  },
+  "photo.save.toast.success.album_delete": {
+    "japanese": "{0}枚削除し新しいフォトをアルバムに保存しました",
+    "chinese": "删除了{0}张并将新的照片保存至相册"
+  },
+  "photo.filter.sheet.description": {
+    "japanese": "※撮影時に選択したアイドルで絞り込みができます",
+    "chinese": "※可以通过拍摄时选择的偶像进行筛选"
+  },
+  "photography.photo_background_time_type.noon": {
+    "japanese": "昼",
+    "chinese": "中午"
+  },
+  "meishi.timeline_reset_sheet.description": {
+    "japanese": "動きを初期化しますか？",
+    "chinese": "要重置动作吗？"
+  },
+  "upload_movie_error_sheet.retry": {
+    "japanese": "リトライ",
+    "chinese": "重试"
+  },
+  "story_event.guild_mission.progress.detail_description.personal_rising": {
+    "japanese": "ミッションNo.{0}の\nクリア進捗が上昇しました！",
+    "chinese": "任务No.{0}的"
+  },
+  "meishi.edit_custom.timeline.path.linear": {
+    "japanese": "直線",
+    "chinese": "直线"
+  },
+  "meishi.edit_custom.reset_sheet.description": {
+    "japanese": "名刺を前回の保存状態に戻してよろしいですか？",
+    "chinese": "是否恢复到之前保存的名片状态？"
+  },
+  "meishi_edit_custom.remove_mask_sheet.description": {
+    "japanese": "切り抜きを解除して3D回転にしますか？",
+    "chinese": "要解除裁剪并进行3D旋转吗？"
+  },
+  "meishi_edit_custom.remove_mask_sheet.title": {
+    "japanese": "確認",
+    "chinese": "确认"
+  },
+  "photography.look_target.disabled.angle_limit_over": {
+    "japanese": "指定できる角度の範囲を超えています",
+    "chinese": "超出了可指定的角度范围"
+  },
+  "meishi_edit_custom.sub_menu.color.gradient": {
+    "japanese": "グラデ",
+    "chinese": "渐变"
+  },
+  "meishi_edit_custom.sub_menu.color.solid": {
+    "japanese": "ベタ塗り",
+    "chinese": "纯色"
+  },
+  "memory.detail.produce_review.disabled.invalid_memory": {
+    "japanese": "このメモリーは振り返りできません",
+    "chinese": "无法回忆此回忆"
+  },
+  "story.support_card_unlock_sheet.unlock_toast": {
+    "japanese": "コミュを解放しました",
+    "chinese": "已解锁社群"
+  },
+  "meishi_edit_custom.sub_menu.shape_detail.outline_alpha": {
+    "japanese": "枠線不透明度",
+    "chinese": "框线不透明度"
+  },
+  "meishi_edit_custom.sub_menu.shape_detail.outline_color": {
+    "japanese": "枠線カラー",
+    "chinese": "框线颜色"
+  },
+  "produce.schedule.step_self_visual": {
+    "japanese": "ビジュアル自主レッスン",
+    "chinese": "视觉自主课程"
+  },
+  "photography.photo.pose_list.wait.pose": {
+    "japanese": "自然に",
+    "chinese": "自然"
+  },
+  "meishi_edit_custom.sub_menu.shape_detail.color_alpha": {
+    "japanese": "図形不透明度",
+    "chinese": "图形不透明度"
+  },
+  "photography.save.close.confirm.description_album": {
+    "japanese": "フォトアルバム保存を終了しますか？\n<color=#u:Negative>※フォトが選択されている場合も保存されません</color>",
+    "chinese": "是否结束保存到摄影相册？"
+  },
+  "story.story_campaign.term.description": {
+    "japanese": "イベントコミュ解放期間",
+    "chinese": "活动剧情解锁期间"
+  },
+  "guild.join.leave.restricted_event.title": {
+    "japanese": "サークル脱退制限確認",
+    "chinese": "社团退出限制确认"
+  },
+  "audition.config.recommend_rank": {
+    "japanese": "推奨投票数ランク",
+    "chinese": "推荐票数排名"
+  },
+  "story_event.guild_mission.progress.detail_description.unlock": {
+    "japanese": "{0}が\nミッションNo.{1}の条件\n<nobr>{2}</nobr>\nを解放！",
+    "chinese": "{0}解锁了\n任务No.{1}的条件\n<nobr>{2}</nobr>！,"
+  },
+  "photography.setting.item.select_overlay.description": {
+    "japanese": "撮影アイテムを選択してください",
+    "chinese": "请选择拍摄道具"
+  },
+  "meishi_edit_custom.sub_menu.text.background_color": {
+    "japanese": "背景カラー",
+    "chinese": "背景颜色"
+  },
+  "meishi_edit_custom.sub_menu.text.outline_color": {
+    "japanese": "枠線カラー",
+    "chinese": "框线颜色"
+  },
+  "photography.setting.button.random_layout": {
+    "japanese": "ランダム設定",
+    "chinese": "随机设置"
+  },
+  "meishi_edit_custom.sub_menu.text.text_alignment": {
+    "japanese": "表示",
+    "chinese": "显示"
+  },
+  "meishi.edit_custom.sub_menu.parts.other": {
+    "japanese": "その他",
+    "chinese": "其他"
+  },
+  "produce.customize.end_sheet.title": {
+    "japanese": "特別指導終了確認",
+    "chinese": "特别指导结束确认"
+  },
+  "meishi_edit_custom.sub_menu.color.selected": {
+    "japanese": "設定中",
+    "chinese": "设置中"
+  },
+  "meishi.edit_custom.timeline.path.curve": {
+    "japanese": "曲線",
+    "chinese": "曲线"
+  },
+  "story_event.guild_mission.detail.number": {
+    "japanese": "No.",
+    "chinese": "No."
+  },
+  "meishi.edit_custom.sub_menu.produce.produce_card.character_change": {
+    "japanese": "切り替え",
+    "chinese": "切换"
+  },
+  "photography.photo_pose.reward.name": {
+    "japanese": "アイドル撮影ポーズ「{0}（{1}）」",
+    "chinese": "偶像拍摄姿势「{0}（{1}）」 "
+  },
+  "meishi.edit_custom.sub_menu.achievement.produce": {
+    "japanese": "プロデュース",
+    "chinese": "培育"
+  },
+  "meishi.edit_custom.sub_menu.achievement.idol": {
+    "japanese": "アイドル",
+    "chinese": "偶像"
+  },
+  "setting.preference.photography.random_item.title": {
+    "japanese": "撮影アイテム設定確認",
+    "chinese": "拍摄道具设置确认"
+  },
+  "home.gasha.select_pickup.empty.text": {
+    "japanese": "未設定",
+    "chinese": "未设置"
+  },
+  "meishi.edit_custom.sub_menu.illustration.others": {
+    "japanese": "その他",
+    "chinese": "其他"
+  },
+  "meishi.edit_custom.sub_menu.movie.live_list.description": {
+    "japanese": "撮影したいライブを選んでください",
+    "chinese": "请选择想要拍摄的演唱会"
+  },
+  "mission.daily_release.close_time": {
+    "japanese": "受け取り期間：{0}まで",
+    "chinese": "领取期间：{0}截止"
+  },
+  "photography.photo.pose_list.wait.facial": {
+    "japanese": "ポーズに合わせて",
+    "chinese": "根据姿势调整表情"
+  },
+  "photography.photo.camera_move_speed.fast": {
+    "japanese": "はやい",
+    "chinese": "快速"
+  },
+  "meishi.edit_custom.sub_menu.illustration.frame": {
+    "japanese": "フレーム",
+    "chinese": "框架"
+  },
+  "meishi.edit_custom.sub_menu.illustration.common": {
+    "japanese": "汎用背景",
+    "chinese": "通用背景"
+  },
+  "angya.top.restart.title": {
+    "japanese": "挑戦中確認",
+    "chinese": "挑战中确认"
+  },
+  "photography.setting.motion_list.disabled.toast": {
+    "japanese": "使用できる条件を満たしていません",
+    "chinese": "未满足使用条件"
+  },
+  "setting.preference.photography.random_character.description": {
+    "japanese": "アイドルの衣装と髪型の設定をランダムにする場合の確認メッセージを表示します。",
+    "chinese": "当设置偶像的服装与发型为随机时显示确认信息。"
+  },
+  "meishi.edit_custom.sub_menu.illustration.adv_background": {
+    "japanese": "コミュ背景",
+    "chinese": "剧情背景"
+  },
+  "meishi.edit_custom.sub_menu.character.sign": {
+    "japanese": "サイン",
+    "chinese": "签名"
+  },
+  "meishi.edit_custom.sub_menu.character.card": {
+    "japanese": "Pアイドル",
+    "chinese": "P偶像"
+  },
+  "meishi.edit_custom.sub_menu.character.sd": {
+    "japanese": "ミニアイドル",
+    "chinese": "迷你偶像"
+  },
+  "meishi.edit_custom.sub_menu.movie.empty_live": {
+    "japanese": "解放されているライブがありません",
+    "chinese": "没有解锁的演唱会"
+  },
+  "picturebook.live.select.release.button": {
+    "japanese": "ライブ解放",
+    "chinese": "解锁演唱会"
+  },
+  "meishi.edit_custom.sub_menu.movie.create_button": {
+    "japanese": "新規作成",
+    "chinese": "新建"
+  },
+  "meishi.edit_custom.sub_menu.profile.pvp_rate_grade": {
+    "japanese": "GRADE",
+    "chinese": "GRADE"
+  },
+  "meishi.edit_custom.sub_menu.profile.producer_level": {
+    "japanese": "PLv",
+    "chinese": "PLv"
+  },
+  "meishi.edit_custom.sub_menu.empty": {
+    "japanese": "表示対象がありません",
+    "chinese": "没有可显示对象"
+  },
+  "story_event.result.expired.title": {
+    "japanese": "イベント終了",
+    "chinese": "活动结束"
+  },
+  "meishi.edit_custom.layer.shape_local": {
+    "japanese": "図形",
+    "chinese": "图形"
+  },
+  "meishi.edit_custom.layer.parts_other": {
+    "japanese": "パーツ",
+    "chinese": "部件"
+  },
+  "meishi.edit_custom.layer.parts_logo": {
+    "japanese": "ロゴ",
+    "chinese": "标志"
+  },
+  "meishi.edit_custom.layer.base_asset_frame": {
+    "japanese": "フレーム",
+    "chinese": "框架"
+  },
+  "meishi.edit_custom.layer.base_asset_story_background": {
+    "japanese": "背景",
+    "chinese": "背景"
+  },
+  "meishi.edit_custom.layer.movie": {
+    "japanese": "動画",
+    "chinese": "视频"
+  },
+  "meishi.edit_custom.layer.photo_memory_gift": {
+    "japanese": "フォト",
+    "chinese": "照片"
+  },
+  "meishi.edit_custom.layer.photo_memory": {
+    "japanese": "フォト",
+    "chinese": "照片"
+  },
+  "meishi.edit_custom.sub_menu.character.card.description": {
+    "japanese": "追加するプロデュースアイドルの種類を選んでください",
+    "chinese": "请选择要添加的培育偶像类型"
+  },
+  "produce.schedule.detail_mid2_audition2": {
+    "japanese": "2次",
+    "chinese": "第二轮"
+  },
+  "meishi.edit_custom.layer.photo_album": {
+    "japanese": "フォト",
+    "chinese": "照片"
+  },
+  "meishi.edit_custom.layer.produce_item": {
+    "japanese": "Pアイテム",
+    "chinese": "P道具"
+  },
+  "angya.guild_detail_overlay.tab.guild_rank_list.empty": {
+    "japanese": "ランキング情報はありません",
+    "chinese": "没有排名信息"
+  },
+  "common.network.error.purchase_limit.description": {
+    "japanese": "購入上限に達しているため購入が完了できませんでした。返金手続きのために以下よりお問い合わせください。",
+    "chinese": "由于达到购买上限，无法完成购买。请通过以下方式联系我们以进行退款处理。"
+  },
+  "photography_prepare.motion_list.title": {
+    "japanese": "ポーズ一覧",
+    "chinese": "姿势列表"
+  },
+  "meishi.edit_custom.sub_menu.parts.icon": {
+    "japanese": "アイコン",
+    "chinese": "图标"
+  },
+  "common.or": {
+    "japanese": "OR",
+    "chinese": "OR"
+  },
+  "produce.challenge.slot.lock": {
+    "japanese": "未解放",
+    "chinese": "未解放"
+  },
+  "meishi.edit_custom.layer.support_card_full": {
+    "japanese": "サポート",
+    "chinese": "支援"
+  },
+  "angya.receive_guild_rank_reward_overlay.description": {
+    "japanese": "報酬は自動で受け取られます",
+    "chinese": "奖励将自动领取"
+  },
+  "meishi.edit_custom.layer.produce_drink": {
+    "japanese": "Pドリンク",
+    "chinese": "P饮料"
+  },
+  "meishi.edit_custom.layer.idol_card_skin_landscape": {
+    "japanese": "Pアイドル",
+    "chinese": "P偶像"
+  },
+  "meishi.edit_custom.layer.character_full": {
+    "japanese": "アイドル",
+    "chinese": "偶像"
+  },
+  "meishi.edit_custom.layer.comment": {
+    "japanese": "文字",
+    "chinese": "文字"
+  },
+  "meishi.edit_custom.layer.profile_public_user_id": {
+    "japanese": "P-ID",
+    "chinese": "P-ID"
+  },
+  "produce_item.detail.stage": {
+    "japanese": "ステージ",
+    "chinese": "舞台"
+  },
+  "meishi_edit_custom.sub_menu.color.description": {
+    "japanese": "カラーを選んでください",
+    "chinese": "请选择颜色"
+  },
+  "meishi.edit_custom.layer.profile_comment": {
+    "japanese": "コメント",
+    "chinese": "评论"
+  },
+  "meishi.edit_custom.layer.profile_user_name": {
+    "japanese": "プロデューサー名",
+    "chinese": "制作人名称"
+  },
+  "meishi.edit_custom.toast.max_layer": {
+    "japanese": "これ以上追加できません",
+    "chinese": "无法再添加更多"
+  },
+  "produce.nia.audition.ranking.text": {
+    "japanese": "{0}位",
+    "chinese": "{0}位"
+  },
+  "meishi.edit_custom.toast.save_disable": {
+    "japanese": "新しく追加されたものはありません",
+    "chinese": "没有新添加的内容"
+  },
+  "meishi.edit_custom.mask.label": {
+    "japanese": "切り抜き",
+    "chinese": "裁剪"
+  },
+  "meishi.edit_custom.layer.base_asset_other": {
+    "japanese": "背景",
+    "chinese": "背景"
+  },
+  "angya.reward.tab.guild_rank_list.header": {
+    "japanese": "サークルランキング報酬",
+    "chinese": "社团排名奖励"
+  },
+  "exchange.setting.daily_exchange_default_max.alert": {
+    "japanese": "※デイリー交換所のみの設定となります\n※交換回数指定の状態は端末ごとに保存されます\n※「メニュー＞設定」からいつでも変更できます",
+    "chinese": "※仅适用于每日兑换所的设置"
+  },
+  "meishi.edit_custom.default.comment": {
+    "japanese": "よろしくお願いします",
+    "chinese": "请多关照"
+  },
+  "story.support_card_unlock_sheet.description": {
+    "japanese": "{0}を使用して、コミュを解放しますか？",
+    "chinese": "是否使用{0}解锁交流？"
+  },
+  "photography.photo.camera_move_speed.slow": {
+    "japanese": "ゆっくり",
+    "chinese": "缓慢"
+  },
+  "meishi.edit_custom.layer_button.back": {
+    "japanese": "最背面",
+    "chinese": "最底层"
+  },
+  "meishi.edit_custom.layer_button.backward": {
+    "japanese": "背面",
+    "chinese": "底层"
+  },
+  "produce.challenge.item_detail_sheet.title": {
+    "japanese": "設定中チャレンジPアイテム",
+    "chinese": "设置中的挑战P道具"
+  },
+  "meishi.edit_custom.save_sheet.execute": {
+    "japanese": "保存する",
+    "chinese": "保存"
+  },
+  "memory.filter.other": {
+    "japanese": "その他",
+    "chinese": "其他"
+  },
+  "meishi.edit_custom.layer_button.front": {
+    "japanese": "最前面",
+    "chinese": "最顶层"
+  },
+  "meishi.edit_custom.show_layer_list": {
+    "japanese": "レイヤー",
+    "chinese": "图层"
+  },
+  "meishi.edit_custom.guide": {
+    "japanese": "ガイド補正",
+    "chinese": "对齐辅助"
+  },
+  "produce.nia.audition.finale_condition": {
+    "japanese": "「Finale」オーディション解放条件",
+    "chinese": "“Finale”试镜解锁条件"
+  },
+  "meishi.edit_custom.preview": {
+    "japanese": "プレビュー",
+    "chinese": "预览"
+  },
+  "meishi_edit_custom.sub_menu.text.outline_width": {
+    "japanese": "枠線サイズ",
+    "chinese": "边框大小"
+  },
+  "photobackground.filter.category.around": {
+    "japanese": "学園付近",
+    "chinese": "校园周边"
+  },
+  "photobackground.sort.category": {
+    "japanese": "撮影エリア",
+    "chinese": "拍摄区域"
+  },
+  "produce.lesson.pre_extra_turn.minus": {
+    "japanese": "ターン数減少{0}",
+    "chinese": "回合数减少{0}"
+  },
+  "meishi.edit_custom.menu.comment": {
+    "japanese": "文字",
+    "chinese": "文字"
+  },
+  "meishi.edit_custom.menu.shape": {
+    "japanese": "図形",
+    "chinese": "图形"
+  },
+  "setting.preference.photography.random_head.title": {
+    "japanese": "髪型設定確認",
+    "chinese": "发型设置确认"
+  },
+  "meishi.edit_custom.menu.produce": {
+    "japanese": "プロデュース",
+    "chinese": "培育"
+  },
+  "meishi.edit_custom.menu.achievement": {
+    "japanese": "アチーブメント",
+    "chinese": "成就"
+  },
+  "home.event.portal.exchange.update.hour": {
+    "japanese": "交換あと{0}時間",
+    "chinese": "距离兑换还有{0}小时"
+  },
+  "memory.inherit.confirm.description": {
+    "japanese": "{0}を消費してメモリーの合成を\n行います。よろしいですか？",
+    "chinese": "消耗{0}进行回忆合成"
+  },
+  "meishi_edit_custom.sub_menu.text.profile_user_name": {
+    "japanese": "プロデューサー名",
+    "chinese": "制作人名称"
+  },
+  "meishi.edit_custom.menu.photo": {
+    "japanese": "フォト",
+    "chinese": "照片"
+  },
+  "meishi.edit_custom.menu.base_asset": {
+    "japanese": "汎用素材",
+    "chinese": "通用素材"
+  },
+  "meishi.edit_custom.menu.profile": {
+    "japanese": "プロ\nフィール",
+    "chinese": "个人"
+  },
+  "meishi.sns.share.text.has_movement": {
+    "japanese": "リンクから、ゲーム内でフォローしてください！\n{0}\n#学マス名刺 #動く名刺 #学園アイドルマスター #学マス",
+    "chinese": "通过链接，在游戏内关注我！"
+  },
+  "meishi.sns.share.text": {
+    "japanese": "リンクから、ゲーム内でフォローしてください！\n{0}\n#学マス名刺 #学園アイドルマスター #学マス",
+    "chinese": "通过链接，在游戏内关注我！"
+  },
+  "meishi.delete_confirm_sheet.title": {
+    "japanese": "名刺削除確認",
+    "chinese": "名片删除确认"
+  },
+  "meishi.qr_code.camera_permission.error.description": {
+    "japanese": "カメラの使用許可が確認できませんでした。\nアプリの権限設定からカメラを許可してください。",
+    "chinese": "无法确认摄像头使用许可。"
+  },
+  "angya.stage.index_name.number_1": {
+    "japanese": "A",
+    "chinese": "A"
+  },
+  "produce.skip_refresh.description": {
+    "japanese": "選択できるスケジュールがないため、次の週へ進みます。",
+    "chinese": "由于没有可选的日程，进入下一周。"
+  },
+  "story.idol.produce.common": {
+    "japanese": "共通",
+    "chinese": "共通"
+  },
+  "produce.business.category.commercial_establishment": {
+    "japanese": "商業施設",
+    "chinese": "商业设施"
+  },
+  "story_event.guild_mission.notification_description.clear": {
+    "japanese": "{0}が\nミッションNo.{1}をクリアしました",
+    "chinese": "{0}已完成\n任务No.{1}！"
+  },
+  "meishi.qr_code.description": {
+    "japanese": "この名刺コードを相手が読み取ることで\nあなたの名刺が相手に送られます",
+    "chinese": "通过对方读取此名片代码"
+  },
+  "picturebook.live.unlock_confirm.sheet.title": {
+    "japanese": "使用確認",
+    "chinese": "使用确认"
+  },
+  "meishi.delete_confirm_sheet.toast.success": {
+    "japanese": "削除しました",
+    "chinese": "已删除"
+  },
+  "meishi.delete_confirm_sheet.description": {
+    "japanese": "選択中の名刺を削除しますか？",
+    "chinese": "是否删除选中的名片？"
+  },
+  "meishi.create_confirm_sheet.toast.custom_disable": {
+    "japanese": "2024/9/1 メンテナンス終了後に解放",
+    "chinese": "2024/9/1 维护结束后解放"
+  },
+  "meishi.create_confirm_sheet.meishi": {
+    "japanese": "名刺",
+    "chinese": "名片"
+  },
+  "photography_prepare.top.live_select.button": {
+    "japanese": "ライブ撮影",
+    "chinese": "直播拍摄"
+  },
+  "meishi.create_confirm_sheet.description": {
+    "japanese": "どちらで作成しますか？",
+    "chinese": "要以哪种方式创建？"
+  },
+  "meishi.pending_data_sheet.description": {
+    "japanese": "編集中の名刺がありますが、復帰しますか？\nキャンセルすると破棄します。",
+    "chinese": "有正在编辑的名片，要恢复吗？"
+  },
+  "meishi_edit_custom.remove_perspective_sheet.title": {
+    "japanese": "確認",
+    "chinese": "确认"
+  },
+  "upload_reshooting_memory_photo_error_sheet.title": {
+    "japanese": "エラー",
+    "chinese": "错误"
+  },
+  "produce.card.select_cancel.ok": {
+    "japanese": "選択せず次へ",
+    "chinese": "不选择直接下一步"
+  },
+  "meishi.top.toast.profile_meishi_already_set": {
+    "japanese": "プロフィール設定済みです",
+    "chinese": "已设置为个人资料"
+  },
+  "meishi.qr_code.toast.self_meishi": {
+    "japanese": "自分の名刺は追加できません",
+    "chinese": "无法添加自己的名片"
+  },
+  "angya.battle_confirm.start.description": {
+    "japanese": "編成しているユニットで挑戦します",
+    "chinese": "将以编成的队伍进行挑战"
+  },
+  "angya.point_progress.progress.point": {
+    "japanese": "累計イベントPt",
+    "chinese": "累计活动Pt"
+  },
+  "photography.photo.button.end": {
+    "japanese": "終了",
+    "chinese": "结束"
+  },
+  "meishi.top.toast.cant_delete_profile_meishi": {
+    "japanese": "設定中の名刺は削除できません",
+    "chinese": "无法删除设置中的名片"
+  },
+  "meishi.top.list.type.custom": {
+    "japanese": "カスタム",
+    "chinese": "自定义"
+  },
+  "meishi.top.list.profile_meishi": {
+    "japanese": "設定中",
+    "chinese": "设置中"
+  },
+  "meishi.top.button.profile_meishi": {
+    "japanese": "プロフィールに設定",
+    "chinese": "设置为个人资料"
+  },
+  "meishi.top.button.delete": {
+    "japanese": "削除",
+    "chinese": "删除"
+  },
+  "profile.activity.task_progress": {
+    "japanese": "{0}進捗数",
+    "chinese": "{0}进度数"
+  },
+  "angya.top.guild_status.button.guild_detail": {
+    "japanese": "サークル情報",
+    "chinese": "社团信息"
+  },
+  "story.idol.dearness_story_campaign.label": {
+    "japanese": "コミュ解放中",
+    "chinese": "回忆解放中"
+  },
+  "meishi.edit_custom.layer.character_sign": {
+    "japanese": "サイン",
+    "chinese": "签名"
+  },
+  "achievement.idol_filter.invisible_idol_card_locked_label": {
+    "japanese": "未所持Pアイドルのアチーブメントを表示しない",
+    "chinese": "隐藏未拥有P偶像的成就"
+  },
+  "achievement.idol_filter.invisible_idol_card_locked_heading": {
+    "japanese": "未所持",
+    "chinese": "未拥有"
+  },
+  "picturebook.live.confirm.quality_setting": {
+    "japanese": "品質設定：{0}",
+    "chinese": "品质设置：{0}"
+  },
+  "achievement.idol_filter.category_label.common": {
+    "japanese": "基本",
+    "chinese": "基础"
+  },
+  "achievement.idol_filter.category_label.true": {
+    "japanese": "True",
+    "chinese": "True"
+  },
+  "photopose.filter.sheet.empty": {
+    "japanese": "該当のポーズがありません",
+    "chinese": "没有符合的姿势"
+  },
+  "achievement.idol_filter.category_label.master": {
+    "japanese": "Master",
+    "chinese": "Master"
+  },
+  "memory.inherit.select_memory.deck_duplication_disable.toast": {
+    "japanese": "同じカードを複数枚もつように合成はできません",
+    "chinese": "无法合成多张相同卡片"
+  },
+  "achievement.idol_filter.title": {
+    "japanese": "フィルタ",
+    "chinese": "过滤器"
+  },
+  "achievement.cell.true_end.nia_toast_produce_condition": {
+    "japanese": "親愛度Lv10でプロデュース「N.I.A」解放",
+    "chinese": "亲爱度Lv10解锁培育「N.I.A」"
+  },
+  "achievement.cell.true_end.header": {
+    "japanese": "True",
+    "chinese": "True"
+  },
+  "photography.photo.renderer_setting.title": {
+    "japanese": "表示設定",
+    "chinese": "显示设置"
+  },
+  "achievement.true_end.nia_condition": {
+    "japanese": "最終オーディションで「Finale」オーディションを選択し1位を獲得する",
+    "chinese": "在最终试镜选择「Finale」试镜并获得第一名"
+  },
+  "memory.inherit.select_produce_card.customize_disable.toast": {
+    "japanese": "カスタマイズ済みのカードは対象にできません",
+    "chinese": "已定制的卡片无法作为目标"
+  },
+  "mission.daily_release.end_time": {
+    "japanese": "開催期間：{0}まで",
+    "chinese": "举办期间：至{0}"
+  },
+  "meishi.edit_custom.rotation_3d": {
+    "japanese": "3D回転",
+    "chinese": "3D旋转"
+  },
+  "meishi.qr_code.follow.toast": {
+    "japanese": "名刺フォルダに追加しました",
+    "chinese": "已添加到名片文件夹"
+  },
+  "produce.schedule.step_customize_description": {
+    "japanese": "カードをカスタマイズ強化できます。",
+    "chinese": "可以对卡片进行定制强化。"
+  },
+  "mission.event_mission_list_sheet.aggregating_time_label": {
+    "japanese": "集計期間",
+    "chinese": "统计期间"
+  },
+  "photography.photo.f_number.default": {
+    "japanese": "OFF",
+    "chinese": "OFF"
+  },
+  "meishi.edit_custom.sub_menu.achievement.others": {
+    "japanese": "その他",
+    "chinese": "其他"
+  },
+  "meishi.edit_custom.sub_menu.photo.album": {
+    "japanese": "アルバム",
+    "chinese": "相册"
+  },
+  "roster.voice.common.produce.common": {
+    "japanese": "共通",
+    "chinese": "共通"
+  },
+  "photography_prepare.top.title": {
+    "japanese": "撮影",
+    "chinese": "拍摄"
+  },
+  "photography.setting.idol.random_confirm_sheet.title": {
+    "japanese": "アイドル",
+    "chinese": "偶像"
+  },
+  "roster.costume": {
+    "japanese": "着替え",
+    "chinese": "更换服装"
+  },
+  "roster.music": {
+    "japanese": "楽曲",
+    "chinese": "乐曲"
+  },
+  "exchange.ticket_reward.empty": {
+    "japanese": "交換できる対象がありません",
+    "chinese": "没有可兑换的对象"
+  },
+  "exchange.setting.daily_exchange_default_max.cancel": {
+    "japanese": "変更しない",
+    "chinese": "不更改"
+  },
+  "memory.review_photo_select.no_change.button.finish": {
+    "japanese": "終了する",
+    "chinese": "结束"
+  },
+  "exchange.setting.daily_exchange_default_max.execute": {
+    "japanese": "最大値にする",
+    "chinese": "设置为最大值"
+  },
+  "photography.setting.dress.body_relation.disabled.costume": {
+    "japanese": "この髪型は設定中の衣装では選択できません",
+    "chinese": "此发型无法与当前设置的服装匹配"
+  },
+  "exchange.product.menu.list.cell.reset.month": {
+    "japanese": "月更新",
+    "chinese": "每月更新"
+  },
+  "common.adjust_deeplink": {
+    "japanese": "https://app.adjust.com/1enrh1ad?deeplink_js=1&deep_link={0}",
+    "chinese": "https://app.adjust.com/1enrh1ad?deeplink_js=1&deep_link={0}"
+  },
+  "shop.purchase.confirm.item.shortage": {
+    "japanese": "所持しているアイテムが不足しています",
+    "chinese": "所持的道具不足"
+  },
+  "meishi.edit_custom.timeline.close_button": {
+    "japanese": "編集完了\nして戻る",
+    "chinese": "完成编辑并返回"
+  },
+  "shop.purchase.confirm.item.description": {
+    "japanese": "{0}を<color=#u:Negative>{1}</color>個消費して{2}を購入しますか？",
+    "chinese": "消耗<color=#u:Negative>{1}</color>个{0}来购买{2}，是否确认？"
+  },
+  "card.idol_card.upgrade.potential_rank.description_with_common_resource": {
+    "japanese": "{0}と{1}を使用して才能開花を行います",
+    "chinese": "使用{0}和{1}进行才能开花"
+  },
+  "shop.label.consume_expire_date": {
+    "japanese": "使用期限",
+    "chinese": "使用期限"
+  },
+  "shop.product_list.empty.costume.target": {
+    "japanese": "選択中アイドルの交換/獲得可能な衣装がありません",
+    "chinese": "当前选择偶像没有可兑换/获得的服装"
+  },
+  "photography.photo.renderer_setting.off": {
+    "japanese": "非表示",
+    "chinese": "隐藏"
+  },
+  "produce.customize.select_detail.empty_text": {
+    "japanese": "カスタマイズするスキルカードを1つ選んでください",
+    "chinese": "请选择一张自定义的技能卡"
+  },
+  "shop.product_list.empty.costume.all": {
+    "japanese": "交換/獲得可能な衣装をすべて獲得済みです",
+    "chinese": "已获得所有可兑换/获得的服装"
+  },
+  "produce.customize.sheet.description": {
+    "japanese": "Pポイントを消費して以下のカスタマイズを実行します",
+    "chinese": "消耗P点数来进行以下自定义"
+  },
+  "item.sheet.select_probability.title": {
+    "japanese": "チケット提供割合",
+    "chinese": "票券提供比例"
+  },
+  "item.transition.produce_live": {
+    "japanese": "ライブ撮影へ",
+    "chinese": "前往直播拍摄"
+  },
+  "item.toast.use.event_end": {
+    "japanese": "イベントが終了しました",
+    "chinese": "活动已结束"
+  },
+  "story_event.guild_mission.panel_icon.score": {
+    "japanese": "SCORE",
+    "chinese": "SCORE"
+  },
+  "meishi.edit.comment.input.warning_custom": {
+    "japanese": "※個人情報や、公序良俗に反する内容は\n投稿しないでください。",
+    "chinese": "※请勿发布包含个人信息或违反公序良俗的内容。"
+  },
+  "story_event.guild_mission.clear.description": {
+    "japanese": "{0}が\nミッションNo.{1}をクリアしました",
+    "chinese": "{0}完成了任务No.{1}"
+  },
+  "photography.setting.dress.head.description": {
+    "japanese": "髪型",
+    "chinese": "发型"
+  },
+  "photography.photo.renderer_setting.on": {
+    "japanese": "表示",
+    "chinese": "显示"
+  },
+  "story_event.guild_mission.clear.auto_receive": {
+    "japanese": "報酬は自動で受け取られます",
+    "chinese": "奖励将自动领取"
+  },
+  "photography.setting.item.select_overlay.execute": {
+    "japanese": "保存",
+    "chinese": "保存"
+  },
+  "common.max": {
+    "japanese": "MAX",
+    "chinese": "MAX"
+  },
+  "meishi.edit_custom.sub_menu.movie.label": {
+    "japanese": "保存中の動画",
+    "chinese": "保存的视频"
+  },
+  "photography.setting.button.random_idol": {
+    "japanese": "ランダム",
+    "chinese": "随机"
+  },
+  "story_event.guild_mission.clear.receive_item": {
+    "japanese": "以下のアイテムを獲得しました",
+    "chinese": "获得以下道具"
+  },
+  "story_event.guild_mission.detail.state.cleared": {
+    "japanese": "ミッションクリア済み",
+    "chinese": "任务已完成"
+  },
+  "photobackground.filter.sheet.empty": {
+    "japanese": "該当のロケーションがありません",
+    "chinese": "没有符合条件的场景"
+  },
+  "story_event.guild_mission.progress.detail_description.clear": {
+    "japanese": "{0}が\nミッションNo.{1}をクリア！",
+    "chinese": "{0}完成了任务No.{1}！"
+  },
+  "story_event.guild_mission.progress.detail_description.personal_mvp": {
+    "japanese": "ミッションNo.{0}をクリア！\nMVPを獲得",
+    "chinese": "完成了任务No.{0}并获得MVP！"
+  },
+  "upload_reshooting_memory_photo_error_sheet.retry": {
+    "japanese": "リトライ",
+    "chinese": "重试"
+  },
+  "story_event.guild_mission.history_description.unlocked_condition": {
+    "japanese": "{0}が\nミッションNo.{1}の条件\n「{2}」を解放！",
+    "chinese": "{0}解锁了任务No.{1}的条件「{2}」！"
+  },
+  "photography.setting.dress.body.disabled.background": {
+    "japanese": "現在のロケーションではこの衣装にできません",
+    "chinese": "当前场景无法使用此服装"
+  },
+  "meishi.edit_custom.timeline.has_data": {
+    "japanese": "設定中",
+    "chinese": "已设置"
+  },
+  "story_event.guild_mission.detail.history.mvp.title": {
+    "japanese": "{0} がMVPを獲得",
+    "chinese": "{0}获得了MVP"
+  },
+  "angya.no_organized_confirm_sheet.title": {
+    "japanese": "メモリー未編成",
+    "chinese": "回忆未编组"
+  },
+  "meishi.timeline_reset_sheet.execute": {
+    "japanese": "初期化する",
+    "chinese": "重置"
+  },
+  "meishi.edit_custom.toast.reset_disable": {
+    "japanese": "新しく追加されたものはありません",
+    "chinese": "没有新增内容"
+  },
+  "story_event.guild_mission.detail.history.release.title": {
+    "japanese": "<color=#u:Positive>条件{0}</color>を解放！",
+    "chinese": "解锁<color=#u:Positive>条件{0}</color>！"
+  },
+  "memory.list.cell.cant_be_invoke": {
+    "japanese": "発動不可",
+    "chinese": "无法发动"
+  },
+  "story_event.guild_mission.detail.history.empty": {
+    "japanese": "解放されている条件はありません\nプロデュースでミッション解放にチャレンジ",
+    "chinese": "没有解锁的条件"
+  },
+  "produce.customize.customize_button.limit_customize": {
+    "japanese": "カスタマイズ上限",
+    "chinese": "自定义上限"
+  },
+  "story_event.guild_mission.detail.ok": {
+    "japanese": "挑戦する",
+    "chinese": "挑战"
+  },
+  "photography.photo.look_target.disabled.nothing": {
+    "japanese": "今の状態では指定できません",
+    "chinese": "当前状态无法指定"
+  },
+  "meishi.edit_custom.sub_menu.photo.memory": {
+    "japanese": "メモリー",
+    "chinese": "回忆"
+  },
+  "story_event.guild_mission.detail.reward": {
+    "japanese": "報酬",
+    "chinese": "奖励"
+  },
+  "story_event.guild_mission.detail.progress": {
+    "japanese": "クリア進捗",
+    "chinese": "完成进度"
+  },
+  "setting.preference.memory.inherit.subtitle": {
+    "japanese": "メモリー合成確認",
+    "chinese": "回忆合成确认"
+  },
+  "photography.setting.dress.random_confirm_sheet.body": {
+    "japanese": "衣装",
+    "chinese": "服装"
+  },
+  "photobackground.filter.category.title": {
+    "japanese": "撮影エリア",
+    "chinese": "拍摄区域"
+  },
+  "story_event.guild_mission.panel.ellipsis": {
+    "japanese": "…　<color=#u:GrayCommon>もっと見る</color>",
+    "chinese": "…　<color=#u:GrayCommon>查看更多</color>"
+  },
+  "story_event.guild_mission.panel.ellipsis.no.text": {
+    "japanese": "…",
+    "chinese": "…"
+  },
+  "story_event.guild_mission.condition.clear": {
+    "japanese": "クリア",
+    "chinese": "完成"
+  },
+  "angya.result.score.stage": {
+    "japanese": "ステージスコア",
+    "chinese": "舞台得分"
+  },
+  "meishi.edit_custom.layer.idol_card_skin_portrait": {
+    "japanese": "Pアイドル",
+    "chinese": "P偶像"
+  },
+  "story_event.guild_mission.condition.unlock": {
+    "japanese": "条件解放",
+    "chinese": "条件解锁"
+  },
+  "produce.lesson.no_effect.stance_step_max": {
+    "japanese": "すでに指針の段階が上限であるため効果が発動しません。",
+    "chinese": "因指针阶段已达到上限，效果未能发动。"
+  },
+  "produce.grow_info.sheet.title": {
+    "japanese": "育成情報",
+    "chinese": "培育信息"
+  },
+  "story_event.guild_mission.log": {
+    "japanese": "履歴",
+    "chinese": "记录"
+  },
+  "photography.setting.layout.item": {
+    "japanese": "撮影アイテム",
+    "chinese": "拍摄道具"
+  },
+  "produce_item.detail.edit_memory": {
+    "japanese": "編成メモリー",
+    "chinese": "编组回忆"
+  },
+  "meishi_edit_custom.sub_menu.movie.selected": {
+    "japanese": "設定中",
+    "chinese": "已设置"
+  },
+  "memory.inherit.select_memory.customize_disable.toast": {
+    "japanese": "カスタマイズ済みのカードは合成できません",
+    "chinese": "已自定义的卡片无法合成"
+  },
+  "produce_item.detail.title": {
+    "japanese": "Pアイテム詳細",
+    "chinese": "P道具详情"
+  },
+  "photopose.filter.background.title": {
+    "japanese": "ロケーション",
+    "chinese": "地点"
+  },
+  "exchange.confirm.description.produce_card_unlock": {
+    "japanese": "{0}を消費して、\n以下のスキルカードを解放しますか？\n解放すると、プロデュースで出現するようになります",
+    "chinese": "消耗{0}，解锁以下技能卡？解锁后将在培育中出现"
+  },
+  "angya.point_progress.receive.warning": {
+    "japanese": "※所持上限に達しているアイテムはプレゼントに送られました",
+    "chinese": "※达到持有上限的道具已发送至礼物中"
+  },
+  "memory.inherit.consume.warning": {
+    "japanese": "※合成を実行すると無くなります",
+    "chinese": "※执行合成后会消失"
+  },
+  "setting.preference.photography.random_costume.description": {
+    "japanese": "衣装設定をランダムにする場合の確認メッセージを表示します。",
+    "chinese": "显示随机设置服装时的确认消息"
+  },
+  "audition.config.recommend_rank.short": {
+    "japanese": "推奨ランク",
+    "chinese": "推荐等级"
+  },
+  "common.photo_background.description": {
+    "japanese": "アイドル撮影の撮影場所として使用できる",
+    "chinese": "可用作偶像拍摄的拍摄地点"
+  },
+  "photography.look_target.none": {
+    "japanese": "自然に",
+    "chinese": "自然"
+  },
+  "audition.config.and_upwards": {
+    "japanese": "以上",
+    "chinese": "以上"
+  },
+  "produce.audition.result.continue_confirm_sheet.before_select": {
+    "japanese": "前回挑戦",
+    "chinese": "上次挑战"
+  },
+  "exchange.setting.daily_exchange_default_max.description": {
+    "japanese": "デイリー交換所のデフォルト交換回数を交換できる\n最大値に設定することができます。\nデフォルト交換回数を最大値に指定しますか？",
+    "chinese": "可以设置每日交换所的默认交换次数为最大值。是否将默认交换次数指定为最大值？"
+  },
+  "pvp.rate.same_character_confirm_sheet.description_sub": {
+    "japanese": "他のユニット枠に編成中のサブメモリーを選択しています。このまま編成すると以下のアイドルがユニットから外れますがよろしいですか？",
+    "chinese": "选择了已在其他队伍编成中的副回忆。如果继续编成，以下偶像将从队伍中移除，确定吗？"
+  },
+  "pvp.rate.same_character_confirm_sheet.title_sub": {
+    "japanese": "サブメモリー重複",
+    "chinese": "副回忆重复"
+  },
+  "memory.inherit.disable.item_shortage.toast": {
+    "japanese": "合成に必要なアイテムが不足しています",
+    "chinese": "合成所需道具不足"
+  },
+  "meishi.edit_custom.sub_menu.profile.apply_all.title": {
+    "japanese": "一括編集",
+    "chinese": "批量编辑"
+  },
+  "angya.point_progress.receive.title": {
+    "japanese": "受取完了",
+    "chinese": "领取完成"
+  },
+  "angya.stage_detail.list.cell.play_reward": {
+    "japanese": "挑戦報酬",
+    "chinese": "挑战奖励"
+  },
+  "memory.inherit.disable.grade.toast": {
+    "japanese": "評価が2ランク以上低いメモリーは選択できません",
+    "chinese": "评价低于2级的回忆无法选择"
+  },
+  "story_event.guild_mission.condition.all_unlock": {
+    "japanese": "すべての条件解放",
+    "chinese": "解锁所有条件"
+  },
+  "memory.inherit.disable.meishi.toast": {
+    "japanese": "名刺に設定中のメモリーは選択できません",
+    "chinese": "设置在名片中的回忆无法选择"
+  },
+  "photography.setting.button.costume_change": {
+    "japanese": "衣装変更",
+    "chinese": "服装更换"
+  },
+  "memory.inherit.disable.produce.toast": {
+    "japanese": "プロデュースに編成中のメモリーは選択できません",
+    "chinese": "编成在培育中的回忆无法选择"
+  },
+  "memory.inherit.result.animation_title": {
+    "japanese": "メモリー合成完了",
+    "chinese": "回忆合成完成"
+  },
+  "meishi.edit_custom.sub_menu.parts.logo": {
+    "japanese": "ロゴ",
+    "chinese": "标志"
+  },
+  "memory.inherit.result.decide_confirm_sheet.title": {
+    "japanese": "メモリー確定確認",
+    "chinese": "回忆确定确认"
+  },
+  "memory.inherit.disable.tower.toast": {
+    "japanese": "アイドルへの道に編成中のメモリーは選択できません",
+    "chinese": "编成在偶像之路中的回忆无法选择"
+  },
+  "produce_prepare.edit.warning": {
+    "japanese": "編成はプロデュースごとに設定可能です。異なるプロデュース設定する場合は、他のプロデュースには適用されません",
+    "chinese": "编成可以为每次培育单独设置。如需为不同的培育设置，请勿应用于其他培育"
+  },
+  "memory.inherit.disable.protected.toast": {
+    "japanese": "保護中のメモリーは選択できません",
+    "chinese": "保护中的回忆无法选择"
+  },
+  "produce.prepare.challenge.slot_condition": {
+    "japanese": "解放条件",
+    "chinese": "解锁条件"
+  },
+  "photography_prepare.stage_select.quality_setting": {
+    "japanese": "品質設定：{0}",
+    "chinese": "品质设置：{0}"
+  },
+  "memory.inherit.result.decide_confirm_sheet.confirm": {
+    "japanese": "確定する",
+    "chinese": "确定"
+  },
+  "setting.live_quality_sheet.description": {
+    "japanese": "品質を選択してください",
+    "chinese": "请选择品质"
+  },
+  "meishi.edit_custom.save": {
+    "japanese": "保存",
+    "chinese": "保存"
+  },
+  "memory.to_photo.sheet.limit.description": {
+    "japanese": "フォトアルバムに空きがないため保存できません。\nフォトアルバムに移動しますか？",
+    "chinese": "由于相册空间不足，无法保存。是否前往相册？"
+  },
+  "memory.inherit.before_memory": {
+    "japanese": "合成前",
+    "chinese": "合成前"
+  },
+  "home.gasha.detail.idol.extra_text.suffix": {
+    "japanese": "付き!",
+    "chinese": "附!"
+  },
+  "memory.produce_review.title": {
+    "japanese": "プロデュース振り返り撮影",
+    "chinese": "培育回顾拍摄"
+  },
+  "memory.inherit.select_memory.same_card.toast": {
+    "japanese": "同じスキルカードは合成できません",
+    "chinese": "相同技能卡无法合成"
+  },
+  "angya.guild_detail_overlay.tab.mvp_member_list.loop_count_label": {
+    "japanese": "周目",
+    "chinese": "圈数"
+  },
+  "produce.nia.audition_name.mid1easy": {
+    "japanese": "Music Order",
+    "chinese": "Music Order"
+  },
+  "produce.schedule.step_self_vocal": {
+    "japanese": "ボーカル自主レッスン",
+    "chinese": "声乐自主训练"
+  },
+  "memory.inherit.select_memory.grade_disable.toast": {
+    "japanese": "元のカードよりレア度が高くなる合成はできません",
+    "chinese": "无法合成稀有度高于原卡的卡片"
+  },
+  "produce.lesson.stance_step": {
+    "japanese": "段階",
+    "chinese": "阶段"
+  },
+  "story.idol.produce.business.success_excellent": {
+    "japanese": "{0}：大成功",
+    "chinese": "{0}：大成功"
+  },
+  "produce.move.select.title": {
+    "japanese": "移動",
+    "chinese": "移动"
+  },
+  "story_event.guild_mission.history_description.clear": {
+    "japanese": "{0}が\nミッションNo.{1}をクリアしました",
+    "chinese": "{0}完成了任务No.{1}"
+  },
+  "memory.inherit.select_memory.p_idol_disable.toast": {
+    "japanese": "Pアイドル固有のカードは合成できません",
+    "chinese": "P偶像专属卡无法合成"
+  },
+  "meishi.edit_custom.reset": {
+    "japanese": "リセット",
+    "chinese": "重置"
+  },
+  "achievement.cell.true_end.nia_produce_condition": {
+    "japanese": "プロデュース\n「N.I.A」\nで獲得可能",
+    "chinese": "培育「N.I.A」中可获得"
+  },
+  "memory.inherit.execute": {
+    "japanese": "合成する",
+    "chinese": "执行合成"
+  },
+  "angya.transition.feature_locked.button": {
+    "japanese": "課題へ",
+    "chinese": "前往任务"
+  },
+  "memory.inherit.select_memory.description": {
+    "japanese": "合成に使用するメモリーを選択してください",
+    "chinese": "请选择用于合成的回忆"
+  },
+  "memory.inherit.select_memory.no_select": {
+    "japanese": "入れ替えるメモリーを選択してください",
+    "chinese": "请选择要替换的回忆"
+  },
+  "photography.setting.layout.time": {
+    "japanese": "時間帯",
+    "chinese": "时间段"
+  },
+  "produce.card.grow_effect.none": {
+    "japanese": "成長効果はありません",
+    "chinese": "无成长效果"
+  },
+  "memory.inherit.select_produce_card.support_disable.toast": {
+    "japanese": "サポートイベントで獲得したカードは対象にできません",
+    "chinese": "通过支援活动获得的卡片无法作为目标"
+  },
+  "memory.inherit.select_produce_card.p_idol_disable.toast": {
+    "japanese": "Pアイドル固有のカードは対象にできません",
+    "chinese": "P偶像专属卡无法作为目标"
+  },
+  "memory.inherit.select_produce_card.unselected.toast": {
+    "japanese": "入れ替えるスキルカードを選択してください",
+    "chinese": "请选择要替换的技能卡"
+  },
+  "memory.inherit.select_produce_card.description": {
+    "japanese": "選択したコンテスト用スキルカードを、合成に使用したメモリーが持つコンテスト用スキルカードの中からランダムに選ばれたカードと入れ替えます。",
+    "chinese": "选择的比赛用技能卡会被随机替换为合成中回忆所持有的比赛用技能卡之一。"
+  },
+  "memory.inherit.already_inherited.toast": {
+    "japanese": "合成済みのメモリーです",
+    "chinese": "已合成的回忆。"
+  },
+  "angya.preparation.back": {
+    "japanese": "戻る",
+    "chinese": "返回"
+  },
+  "setting.preference.memory.inherit.title": {
+    "japanese": "メモリー合成確認設定",
+    "chinese": "回忆合成确认设置"
+  },
+  "produce.log.detail.title.audition_select": {
+    "japanese": "{0}挑戦",
+    "chinese": "{0}挑战"
+  },
+  "memory.review_photo_select.no_change.alert": {
+    "japanese": "※変更せずに終了する場合は記録の鍵は消費されません",
+    "chinese": "※如果不进行更改就结束，记录钥匙不会被消耗。"
+  },
+  "produce.filter.common.placeholder": {
+    "japanese": "テキスト入力",
+    "chinese": "输入文字"
+  },
+  "memory.change_photo.sheet.warning": {
+    "japanese": "※更新前のフォトは削除されます",
+    "chinese": "※更新前的照片会被删除。"
+  },
+  "angya.guild_detail_overlay.tab.member_ranking_list.title": {
+    "japanese": "【{0}周目】{1}",
+    "chinese": "【第{0}周】{1}"
+  },
+  "photography_prepare.stage_select.vertical.confirm_sheet.execute": {
+    "japanese": "開始する",
+    "chinese": "开始"
+  },
+  "produce.card.move_position.deck": {
+    "japanese": "山札",
+    "chinese": "牌组"
+  },
+  "memory.review_photo_select.button.restart": {
+    "japanese": "撮り直す",
+    "chinese": "重新拍摄"
+  },
+  "memory.review_photo_select.no_change.description": {
+    "japanese": "メモリーのフォトを変更せずに終了しますか？",
+    "chinese": "是否在不更改回忆照片的情况下结束？"
+  },
+  "memory.review_photo_select.no_change.title": {
+    "japanese": "確認",
+    "chinese": "确认"
+  },
+  "exchange.label.update": {
+    "japanese": "更新",
+    "chinese": "更新"
+  },
+  "story_event.guild_mission.progress.detail_description.personal_unlock": {
+    "japanese": "ミッションNo.{0}の条件\n<nobr>{1}</nobr>\nを解放！",
+    "chinese": "解锁任务No.{0}的条件"
+  },
+  "memory.inherit.no_item.toast": {
+    "japanese": "{0}を所持していません",
+    "chinese": "没有持有{0}。"
+  },
+  "memory.review_photo_select.cell_label.old": {
+    "japanese": "現在のフォト",
+    "chinese": "当前照片"
+  },
+  "pvp.rate.memory_list_label.quick_search": {
+    "japanese": "メモリー検索",
+    "chinese": "回忆搜索"
+  },
+  "costume.select.view_mode.description_invalid_feature_addline": {
+    "japanese": "\n{0}は{1}に設定できません",
+    "chinese": "{0}无法设置为{1}"
+  },
+  "contest.preparation.calculating_text": {
+    "japanese": "コンテスト準備中...",
+    "chinese": "比赛准备中..."
+  },
+  "meishi.edit_custom.layer.idol_card_skin_full": {
+    "japanese": "Pアイドル",
+    "chinese": "制作偶像"
+  },
+  "memory.review_photo_select.label.old": {
+    "japanese": "変更前",
+    "chinese": "更改前"
+  },
+  "meishi.edit_custom.save_sheet.mid_execute": {
+    "japanese": "保存しない",
+    "chinese": "不保存"
+  },
+  "upload_meishi_error_sheet.retry": {
+    "japanese": "リトライ",
+    "chinese": "重试"
+  },
+  "produce.log.detail.title.card_customize": {
+    "japanese": "「{0}」をカスタマイズ",
+    "chinese": "定制「{0}」"
+  },
+  "memory.produce_review.description": {
+    "japanese": "記録の鍵を使用して、プロデュースのライブを\n振り返りますか？",
+    "chinese": "要使用记录钥匙回顾培育的现场表演吗？"
+  },
+  "memory.inherit.select_memory.warning": {
+    "japanese": "※合成に使用したメモリーは無くなります",
+    "chinese": "※用于合成的回忆将会消失。"
+  },
+  "produce.log.detail.title.audition_npc_enhance": {
+    "japanese": "ライバルのスコア増加",
+    "chinese": "对手分数增加"
+  },
+  "memory.review_photo_select.description": {
+    "japanese": "メモリーを更新するフォトを選んでください",
+    "chinese": "请选择要更新回忆的照片。"
+  },
+  "photobackground.filter.category.dormitory": {
+    "japanese": "寮",
+    "chinese": "宿舍"
+  },
+  "audition.unlock_overlay.description": {
+    "japanese": "選択可能なオーディションが解放されました",
+    "chinese": "可选择的试镜已解锁。"
+  },
+  "produce.shop.reroll.warning.description": {
+    "japanese": "現在の所持Pポイントが、交換に必要なPポイントの最小値より少ないため、これ以上交換することはできません\n本当にリフレッシュを実行しますか？",
+    "chinese": "当前持有的P点数少于兑换所需的最低P点数，无法继续兑换。是否确认刷新？"
+  },
+  "produce.history.select_audition.failure": {
+    "japanese": "失敗",
+    "chinese": "失败"
+  },
+  "produce_prepare.support_card.deck_name_edit_sheet.title": {
+    "japanese": "サポートカード編成名変更",
+    "chinese": "支持卡组名称更改"
+  },
+  "memory.inherit.select_memory.inherit.to.memory": {
+    "japanese": "合成先メモリー",
+    "chinese": "合成目标回忆"
+  },
+  "memory.to_photo.sheet.save.description": {
+    "japanese": "このメモリーをフォトアルバムに保存しますか？",
+    "chinese": "是否将此回忆保存到相册？"
+  },
+  "picturebook.live.unlock_hint.sheet.description2": {
+    "japanese": "条件2.\n<size=36>プロデュース内で閲覧</size>",
+    "chinese": "条件2."
+  },
+  "produce.business.category.municipal_event": {
+    "japanese": "自治体イベント会場",
+    "chinese": "自治体活动会场"
+  },
+  "memory.filter.inherit.not_yet": {
+    "japanese": "未合成",
+    "chinese": "未合成"
+  },
+  "memory.sell.no_price.confirm.warning": {
+    "japanese": "変換してもアイテムを得られないメモリーが選択されています。\nよろしいですか？",
+    "chinese": "选择的回忆无法转换为物品。是否确定？"
+  },
+  "angya.stage_detail.list.cell.play_reward.notes": {
+    "japanese": "※スコアにより報酬量変化",
+    "chinese": "※奖励量根据分数变化。"
+  },
+  "produce.schedule.step_self_dance.short": {
+    "japanese": "Da.自主レッスン",
+    "chinese": "Da.自主练习"
+  },
+  "story.story_campaign.title": {
+    "japanese": "無料解放キャンペーン",
+    "chinese": "免费解锁活动"
+  },
+  "memory.detail.produce_review.disabled.not_cleared_true_live": {
+    "japanese": "TrueLIVEが未解放です",
+    "chinese": "TrueLIVE未解锁。"
+  },
+  "memory.detail.produce_review.button": {
+    "japanese": "プロデュース振り返り",
+    "chinese": "培育回顾"
+  },
+  "photography.photo_background_time_type.night": {
+    "japanese": "夜",
+    "chinese": "夜晚"
+  },
+  "meishi.edit_custom.sub_menu.movie.character_list.description": {
+    "japanese": "ベースに設定したい動画のアイドルを選んでください",
+    "chinese": "请选择想要作为基础的视频中的偶像。"
+  },
+  "memory.detail.no_contest_info": {
+    "japanese": "ステージ情報が無いメモリーです",
+    "chinese": "没有舞台信息的回忆。"
+  },
+  "angya.receive_clear_stage_reward_overlay.loop_count_label": {
+    "japanese": "周目",
+    "chinese": "周目"
+  },
+  "card.support_card.event.produce_card.upgrade_ability": {
+    "japanese": "このスキルカードは、獲得後すぐに強化されます",
+    "chinese": "此技能卡在获得后立即强化。"
+  },
+  "achievement.cell.master.header": {
+    "japanese": "Master",
+    "chinese": "Master"
+  },
+  "angya.stage.index_name.invalid_number": {
+    "japanese": "-",
+    "chinese": "-"
+  },
+  "card.support_card.upgrade_level_limit_rank_overlay.use_item": {
+    "japanese": "アイテムを使用",
+    "chinese": "使用道具"
+  },
+  "photography.photo.angle_step.reset": {
+    "japanese": "リセット",
+    "chinese": "重置"
+  },
+  "photography.setting.idol.list.lock": {
+    "japanese": "設定中",
+    "chinese": "正在设置"
+  },
+  "card.idol_card.upgrade_potential_rank_confirm_sheet.warning": {
+    "japanese": "※{0}を消費します",
+    "chinese": "※将消耗{0}。"
+  },
+  "card.filter.true_end_p2": {
+    "japanese": "NEXT IDOL AUDITION",
+    "chinese": "NEXT IDOL AUDITION"
+  },
+  "card.filter.true_end_p1": {
+    "japanese": "定期公演『初』",
+    "chinese": "定期公演『初』"
+  },
+  "memory.inherit.not_available.toast": {
+    "japanese": "合成途中のメモリーがあります",
+    "chinese": "有正在合成中的回忆。"
+  },
+  "producer.level.exclude_description": {
+    "japanese": "スキルカードの除去可能回数が{0}回増加します",
+    "chinese": "技能卡的可移除次数增加{0}次"
+  },
+  "angya.reward.title": {
+    "japanese": "報酬一覧",
+    "chinese": "奖励一览"
+  },
+  "meishi.qr_code.camera_permission.error.toast": {
+    "japanese": "カメラのアクセス許可が必要です",
+    "chinese": "需要摄像头访问权限"
+  },
+  "produce.schedule.detail_mid1_audition2": {
+    "japanese": "1次",
+    "chinese": "第一次"
+  },
+  "photography.photo.camera_move_speed.normal": {
+    "japanese": "ふつう",
+    "chinese": "普通"
+  },
+  "produce.business.execute_button": {
+    "japanese": "営業開始",
+    "chinese": "开始营业"
+  },
+  "produce.history.select_audition": {
+    "japanese": "参加オーディション",
+    "chinese": "参与试镜"
+  },
+  "produce.ranking.list.title.new_line": {
+    "japanese": "<nobr>{0}</nobr>\nランキング",
+    "chinese": "<nobr>{0}</nobr>"
+  },
+  "produce.challenge.slot.unlock_overlay.title": {
+    "japanese": "チャレンジPアイテム枠解放",
+    "chinese": "挑战P道具栏解锁"
+  },
+  "produce.prepare.challenge.item_select_cancel.description": {
+    "japanese": "チャレンジPアイテムの選択状態を保存せずに戻りますか？",
+    "chinese": "不保存挑战P道具的选择状态返回吗？"
+  },
+  "produce.prepare.challenge.select_list_title": {
+    "japanese": "チャレンジPアイテム選択",
+    "chinese": "挑战P道具选择"
+  },
+  "photography_prepare.top.stage_select.button": {
+    "japanese": "アイドル撮影",
+    "chinese": "偶像拍摄"
+  },
+  "produce.audition.result.continue_confirm_sheet.toast_unlock_disable": {
+    "japanese": "未解放のオーディションです",
+    "chinese": "未解锁的试镜"
+  },
+  "produce.challenge.detail_sheet.description": {
+    "japanese": "チャレンジPアイテムを設定した状態でプロデュースを開始すると、レッスン・SPレッスンのPERFECT上限が上がります。",
+    "chinese": "在设置了挑战P道具的状态下开始培育时，课程和SP课程的PERFECT上限会提高。"
+  },
+  "photography.setting.dress.button.execute": {
+    "japanese": "保存",
+    "chinese": "保存"
+  },
+  "produce_prepare.memory.deck_name_edit_sheet.title": {
+    "japanese": "メモリー編成名変更",
+    "chinese": "回忆编组名更改"
+  },
+  "angya.restart.expired.title": {
+    "japanese": "確認",
+    "chinese": "确认"
+  },
+  "photobackground.filter.sheet.title": {
+    "japanese": "ロケーションソート・フィルタ",
+    "chinese": "场景排序与筛选"
+  },
+  "story_event.guild_mission.detail.log_title": {
+    "japanese": "進捗ログ",
+    "chinese": "进度日志"
+  },
+  "produce_prepare.support_card.deck_name_edit_sheet.description": {
+    "japanese": "サポートカード編成名を入力してください",
+    "chinese": "请输入支援卡编组名"
+  },
+  "achievement.idol_filter.category_label.tower": {
+    "japanese": "アイドルへの道",
+    "chinese": "偶像之路"
+  },
+  "card.idol_card.upgrade.potential_rank.sheet.description": {
+    "japanese": "オリジナルverのプロデュースアイドルが未解放です\nピースを消費して才能開花を行いますか？",
+    "chinese": "原版培育偶像未解锁"
+  },
+  "angya.battle_confirm.unit_detail.title": {
+    "japanese": "編成詳細",
+    "chinese": "编组详情"
+  },
+  "story_event.guild_mission.join_sheet.to_guild": {
+    "japanese": "サークルへ",
+    "chinese": "前往社团"
+  },
+  "meishi.top.toast.max_meishi_limit": {
+    "japanese": "これ以上作成できません",
+    "chinese": "无法再创建更多"
+  },
+  "produce.grow_info.sheet.score_border": {
+    "japanese": "オーディションの審査基準",
+    "chinese": "试镜的审查标准"
+  },
+  "produce.customize.button.upgrade_limit": {
+    "japanese": "カスタマイズ上限に達しています",
+    "chinese": "已达到定制上限"
+  },
+  "common.toast.less_item": {
+    "japanese": "アイテムが不足しています",
+    "chinese": "物品不足"
+  },
+  "produce.business.great_success_bonus": {
+    "japanese": "大成功ボーナス",
+    "chinese": "大成功奖励"
+  },
+  "produce_prepare.select_info.skill_list.check_box.order_ability": {
+    "japanese": "アビリティ順",
+    "chinese": "按能力顺序"
+  },
+  "memory.review_photo_select.cell_label.auto": {
+    "japanese": "自動撮影",
+    "chinese": "自动拍摄"
+  },
+  "produce_prepare.change_produce_group.settings": {
+    "japanese": "設定中",
+    "chinese": "正在设置"
+  },
+  "produce_prepare.music_change.sheet.settings": {
+    "japanese": "ライブ演出設定",
+    "chinese": "现场演出设置"
+  },
+  "produce.schedule.step_self_dance_sp": {
+    "japanese": "SPダンス自主レッスン",
+    "chinese": "SP舞蹈自主课程"
+  },
+  "produce_prepare.music_change.sheet.nia_description": {
+    "japanese": "プロデュース「NEXT IDOL AUDITION」でのライブ演出を変更出来ます。",
+    "chinese": "可以更改培育“NEXT IDOL AUDITION”中的现场演出。"
+  },
+  "meishi.edit_custom.layer.profile_pvp_rate_grade": {
+    "japanese": "GRADE",
+    "chinese": "GRADE"
+  },
+  "produce.customize.remain_card_count.text": {
+    "japanese": "あと{0}枚",
+    "chinese": "剩余{0}张"
+  },
+  "meishi.edit_custom.menu.movie": {
+    "japanese": "動画",
+    "chinese": "视频"
+  },
+  "memory.inherit.select_memory.consume": {
+    "japanese": "1消費",
+    "chinese": "消耗1个"
+  },
+  "story_event.guild_mission.detail.title": {
+    "japanese": "ミッション詳細",
+    "chinese": "任务详情"
+  },
+  "produce_prepare.music_change.sheet.nia_title": {
+    "japanese": "NEXT IDOL AUDITIONライブ設定",
+    "chinese": "NEXT IDOL AUDITION演出设置"
+  },
+  "story_event.guild_mission.join_sheet.to_main_task": {
+    "japanese": "課題へ",
+    "chinese": "前往任务"
+  },
+  "meishi.create_confirm_sheet.type.custom": {
+    "japanese": "カスタム",
+    "chinese": "自定义"
+  },
+  "memory.detail.produce_review.disabled.used_meishi": {
+    "japanese": "名刺に設定されています",
+    "chinese": "已设置在名片上"
+  },
+  "memory.filter.inherit.done": {
+    "japanese": "合成済み",
+    "chinese": "已合成"
+  },
+  "meishi_edit_custom.sub_menu.text.background_alpha": {
+    "japanese": "背景不透明度",
+    "chinese": "背景不透明度"
+  },
+  "produce.customize.select_detail.card_customize.empty_not_customize": {
+    "japanese": "カスタマイズできないスキルカードです",
+    "chinese": "无法定制的技能卡"
+  },
+  "memory.detail.contest.disabled": {
+    "japanese": "ステージの情報はありません",
+    "chinese": "舞台信息不存在"
+  },
+  "photobackground.filter.category.gakuen": {
+    "japanese": "初星学園",
+    "chinese": "初星学院"
+  },
+  "home.event.portal.exchange.update.less": {
+    "japanese": "交換あと0分",
+    "chinese": "交换还剩0分钟"
+  },
+  "produce.reward.exclude.count": {
+    "japanese": "あと{0}回",
+    "chinese": "剩余{0}次"
+  },
+  "memory.produce_review_restart.title": {
+    "japanese": "プロデュース振り返り撮影",
+    "chinese": "培育回忆拍摄"
+  },
+  "angya.reward.tab.point_list": {
+    "japanese": "獲得Pt",
+    "chinese": "获得Pt"
+  },
+  "produce.schedule.step_self_visual_sp": {
+    "japanese": "SPビジュアル自主レッスン",
+    "chinese": "SP视觉自主课程"
+  },
+  "produce.log.detail.customize_end": {
+    "japanese": "特別指導を終了",
+    "chinese": "特别指导结束"
+  },
+  "home.event.portal.exchange.update.day": {
+    "japanese": "交換あと{0}日",
+    "chinese": "交换还剩{0}天"
+  },
+  "loading.photography.vertex.text": {
+    "japanese": "撮影準備中",
+    "chinese": "拍摄准备中"
+  },
+  "meishi.edit_custom.timeline.time": {
+    "japanese": "{0:f2}",
+    "chinese": "{0:f2}"
+  },
+  "angya.stage_detail.list.cell.judging_trend": {
+    "japanese": "審査基準",
+    "chinese": "审查标准"
+  },
+  "meishi.edit_custom.layer.profile_producer_level": {
+    "japanese": "PLv",
+    "chinese": "PLv"
+  },
+  "produce.schedule.step_self_visual_sp_description": {
+    "japanese": "ビジュアルが上昇します。\n消費も高いですが報酬も豪華です。",
+    "chinese": "视觉会提升。"
+  },
+  "home.gasha.select_pickup.select_reset_button_text": {
+    "japanese": "選択リセット",
+    "chinese": "选择重置"
+  },
+  "photography_prepare.top.photo_album.button": {
+    "japanese": "フォトアルバム",
+    "chinese": "相册"
+  },
+  "live.movie_record.retry_confirm_sheet.description": {
+    "japanese": "もう一度ライブを鑑賞しますか？",
+    "chinese": "要再次观看演唱会吗？"
+  },
+  "produce_prepare.music_change.sheet.live_nia": {
+    "japanese": "Campus mode!!のライブ演出",
+    "chinese": "Campus mode!!的演出"
+  },
+  "home.gasha.detail.idol.extra_text.separator": {
+    "japanese": "･",
+    "chinese": "･"
+  },
+  "home.gasha.detail.idol.extra_text.costume_head": {
+    "japanese": "髪型",
+    "chinese": "发型"
+  },
+  "produce.nia.audition.fan_vote_condition.suffix": {
+    "japanese": "以上",
+    "chinese": "以上"
+  },
+  "produce.prepare.challenge.item_empty": {
+    "japanese": "チャレンジPアイテムが選択されていません",
+    "chinese": "未选择挑战P道具"
+  },
+  "costume.common.costume_feature_type.produce": {
+    "japanese": "プロデュース",
+    "chinese": "培育"
+  },
+  "home.gasha.detail.idol.extra_text.costume_body": {
+    "japanese": "衣装",
+    "chinese": "服装"
+  },
+  "home.other_profile_move_confirm_sheet.description": {
+    "japanese": "{0}のプロフィールに移動しますか？",
+    "chinese": "要移动到{0}的个人资料吗？"
+  },
+  "produce.prepare.true_end_condition_uncomplete": {
+    "japanese": "True End条件",
+    "chinese": "True End条件"
+  },
+  "produce.customize.confirm_sheet.description_cost": {
+    "japanese": "Pポイントの所持数が少ないです\n特別指導を開始してよろしいですか？",
+    "chinese": "P点数不足。"
+  },
+  "home.other_profile_move_confirm_sheet.title": {
+    "japanese": "確認",
+    "chinese": "确认"
+  },
+  "home.idol.inherit.label": {
+    "japanese": "合成中",
+    "chinese": "合成中"
+  },
+  "produce.audition.result.continue_confirm_sheet.toast_higher_order_disable": {
+    "japanese": "初回挑戦時より上位の難易度には挑戦できません",
+    "chinese": "首次挑战时无法挑战更高难度"
+  },
+  "meishi.edit_custom.menu.character": {
+    "japanese": "アイドル",
+    "chinese": "偶像"
+  },
+  "produce.customize.confirm_sheet.title": {
+    "japanese": "特別指導開始確認",
+    "chinese": "特训开始确认"
+  },
+  "story_event.result.repeat_reward": {
+    "japanese": "ループ報酬",
+    "chinese": "循环奖励"
+  },
+  "common.probability": {
+    "japanese": "提供割合",
+    "chinese": "提供比例"
+  },
+  "produce.audition.result.continue_confirm_sheet.nia.description": {
+    "japanese": "再挑戦チケットを消費して、オーディションに再挑戦しますか？スキルカードを引く順番やライバルの行動が再抽選されます。\n再挑戦するオーディションを選択してください。",
+    "chinese": "消耗重试券重新挑战试镜吗？技能卡抽取顺序及对手行动将重新抽取。"
+  },
+  "produce.nia.audition.condition": {
+    "japanese": "解放条件",
+    "chinese": "解锁条件"
+  },
+  "achievement.cell.true_end.nia_condition": {
+    "japanese": "最終オーディション\n「Finale」1位",
+    "chinese": "最终选拔"
+  },
+  "story_event.result.expired.description": {
+    "japanese": "イベントは終了しました",
+    "chinese": "活动已结束"
+  },
+  "shop.costume.title": {
+    "japanese": "衣装ショップ",
+    "chinese": "服装商店"
+  },
+  "produce_prepare.deck_edit.change": {
+    "japanese": "プロデュース切替",
+    "chinese": "培育切换"
+  },
+  "produce.reward.exclude.sheet.description": {
+    "japanese": "このスキルカードを除去しますか？",
+    "chinese": "要移除这张技能卡吗？"
+  },
+  "photography.setting.dress.empty_character": {
+    "japanese": "撮影するアイドルを選択してください",
+    "chinese": "请选择拍摄的偶像"
+  },
+  "produce.nia.audition.fan_vote_condition.no": {
+    "japanese": "条件なし",
+    "chinese": "无条件"
+  },
+  "memory.inherit.confirm.sheet.description": {
+    "japanese": "メモリーの合成を実行します。",
+    "chinese": "执行回忆合成。"
+  },
+  "produce.nia.audition.condition_title": {
+    "japanese": "条件{0}",
+    "chinese": "条件{0}"
+  },
+  "produce.nia.audition_name.finalveryhard": {
+    "japanese": "FINALE",
+    "chinese": "FINALE"
+  },
+  "produce.customize.execute_button.lack_cost": {
+    "japanese": "Pポイントが不足しています",
+    "chinese": "P点数不足"
+  },
+  "produce.reward.exclude.sheet.execute": {
+    "japanese": "除去する",
+    "chinese": "移除"
+  },
+  "produce.lesson.trigger.sum": {
+    "japanese": "累計{0}",
+    "chinese": "累计{0}"
+  },
+  "produce.lesson.no_effect.stamina_recover_restriction": {
+    "japanese": "体力回復無効状態のため効果が発動しません。",
+    "chinese": "由于体力恢复无效状态，效果未能触发。"
+  },
+  "card.idol_card.upgrade.potential_rank.use_item": {
+    "japanese": "アイテムを使用",
+    "chinese": "使用道具"
+  },
+  "produce.lesson.log.detail.stance.step": {
+    "japanese": "{0}:段階{1}",
+    "chinese": "{0}:阶段{1}"
+  },
+  "angya.stage_challenge_reward_sheet.description": {
+    "japanese": "獲得スコアによって報酬が増加します",
+    "chinese": "根据获得的分数增加奖励"
+  },
+  "story_event.guild_mission.join_sheet.guild_description": {
+    "japanese": "連携ミッションはサークルに加入することで参加できます。\nサークルへ移動しますか？",
+    "chinese": "加入社团即可参与联动任务。"
+  },
+  "produce.nia.audition_name.finaleasy": {
+    "japanese": "Single Cut",
+    "chinese": "Single Cut"
+  },
+  "meishi.top.button.new": {
+    "japanese": "新規作成",
+    "chinese": "新建"
+  },
+  "produce.filter.common.produce_card_name.label.none_selected": {
+    "japanese": "選択されていません",
+    "chinese": "未选择"
+  },
+  "produce.customize.execute_button.select_customize": {
+    "japanese": "カスタマイズメニューを選択してください",
+    "chinese": "请选择自定义菜单"
+  },
+  "angya.transition.not_guild_joined.button": {
+    "japanese": "サークルへ",
+    "chinese": "前往社团"
+  },
+  "produce.customize.confirm_sheet.description_customize": {
+    "japanese": "カスタマイズ可能なスキルカードを所持していません\n特別指導を開始してよろしいですか？",
+    "chinese": "未持有可自定义的技能卡。"
+  },
+  "produce.nia.audition_name.mid2hard": {
+    "japanese": "GAL★AXYミュージック",
+    "chinese": "GAL★AXY音乐"
+  },
+  "photobackground.filter.character_count.title": {
+    "japanese": "撮影可能人数",
+    "chinese": "可拍摄人数"
+  },
+  "memory.detail.produce_review.disabled.protected": {
+    "japanese": "このメモリーは保護されています",
+    "chinese": "此回忆已受保护"
+  },
+  "angya.reward.tab.guild_rank_list.cell.current_rank": {
+    "japanese": "現在の順位",
+    "chinese": "当前排名"
+  },
+  "produce.challenge.slot.unlock": {
+    "japanese": "解放済み",
+    "chinese": "已解锁"
+  },
+  "item.transition.event_story": {
+    "japanese": "イベント\nコミュへ",
+    "chinese": "前往\n活动社区"
+  },
+  "produce.card.move_position.playing": {
+    "japanese": "場",
+    "chinese": "场"
+  },
+  "item.transition.memory": {
+    "japanese": "メモリー\n一覧へ",
+    "chinese": "前往\n回忆一览"
+  },
+  "setting.preference.photography.photo_button_execute.timing.press_end": {
+    "japanese": "離したとき",
+    "chinese": "松开时"
+  },
+  "home.gasha.free_noti.label": {
+    "japanese": "無料ガシャ",
+    "chinese": "免费抽卡"
+  },
+  "home.footer.button_type.Story.dearness_story_campaign.label": {
+    "japanese": "親愛度コミュ解放",
+    "chinese": "解锁亲密度剧情"
+  },
+  "common.unlock": {
+    "japanese": "解放する",
+    "chinese": "解锁"
+  },
+  "story_event.guild_mission.detail.state.opened": {
+    "japanese": "すべての条件解放",
+    "chinese": "所有条件已解锁"
+  },
+  "memory.inherit.inherited.button": {
+    "japanese": "合成済み",
+    "chinese": "已合成"
+  },
+  "produce.customize.confirm_sheet.execute_button": {
+    "japanese": "開始する",
+    "chinese": "开始"
+  },
+  "picturebook.live.unlock_confirm.sheet.warning.not_enough_item": {
+    "japanese": "アイテムを所持していません",
+    "chinese": "没有持有足够的道具"
+  },
+  "story.story_event.section.campaign_lock_text": {
+    "japanese": "イベントコミュ解放キャンペーンからみることで解放",
+    "chinese": "通过活动回忆解锁活动可以解锁"
+  },
+  "produce.customize.end_sheet.description": {
+    "japanese": "まだカスタマイズ可能なスキルカードがあります\n特別指導を終了してよろしいですか？",
+    "chinese": "还有可以自定义的技能卡"
+  },
+  "produce.prepare.challenge.lesson_limit_up_sum": {
+    "japanese": "合計",
+    "chinese": "合计"
+  },
+  "photography.setting.random_confirm_sheet.menu_help": {
+    "japanese": "「メニュー＞設定」からいつでも変更できます。",
+    "chinese": "可随时从「菜单＞设置」中更改。"
+  },
+  "loading.photography.horizontal.text": {
+    "japanese": "横画面で撮影の準備を開始します",
+    "chinese": "横屏准备拍摄"
+  },
+  "meishi.edit_custom.save_sheet.title": {
+    "japanese": "保存確認",
+    "chinese": "保存确认"
+  },
+  "produce.nia.audition_name.mid1hard": {
+    "japanese": "メロBang！",
+    "chinese": "节奏Bang！"
+  },
+  "pvp.rate.sub_memory_select.disable_sub_memory.toast": {
+    "japanese": "すでに編成中のサブメモリーです",
+    "chinese": "此附属回忆已在编队中"
+  },
+  "meishi.edit_custom.layer.parts_icon": {
+    "japanese": "アイコン",
+    "chinese": "图标"
+  },
+  "photography_prepare.item_list.description_title": {
+    "japanese": "設置可能場所",
+    "chinese": "可设置位置"
+  },
+  "upload_meishi_error_sheet.title": {
+    "japanese": "エラー",
+    "chinese": "错误"
+  },
+  "story.support_card_unlock_sheet.title": {
+    "japanese": "使用確認",
+    "chinese": "使用确认"
+  },
+  "meishi.edit_custom.sub_menu.produce.produce_card": {
+    "japanese": "スキルカード",
+    "chinese": "技能卡"
+  },
+  "produce.customize.sheet.after_execute": {
+    "japanese": "実行後",
+    "chinese": "执行后"
+  },
+  "photo.save.toast.success.album": {
+    "japanese": "フォトをアルバムに保存しました",
+    "chinese": "已将照片保存到相册"
+  },
+  "produce.card.select_cancel.cancel": {
+    "japanese": "対象選択画面に戻る",
+    "chinese": "返回目标选择画面"
+  },
+  "meishi.edit_custom.layer.character_sd": {
+    "japanese": "アイドル",
+    "chinese": "偶像"
+  },
+  "produce.customize.execute_button.limit_customize": {
+    "japanese": "スキルカードのカスタマイズ可能回数が残っていません",
+    "chinese": "技能卡的自定义次数已用完"
+  },
+  "setting.produce.customize_check_execute": {
+    "japanese": "特別指導実行確認",
+    "chinese": "特别指导执行确认"
+  },
+  "photobackground.sort.charactercount": {
+    "japanese": "撮影可能人数",
+    "chinese": "可拍摄人数"
+  },
+  "memory.inherit.consume.description": {
+    "japanese": "合成に使用するメモリー",
+    "chinese": "用于合成的回忆"
+  },
+  "produce.lesson.trigger.stance_change_count": {
+    "japanese": "変更回数{0}",
+    "chinese": "更改次数{0}"
+  },
+  "produce.customize.execute_button.not_remain_customize": {
+    "japanese": "対象選択可能枚数が残っていません",
+    "chinese": "目标选择数量已耗尽"
+  },
+  "memory.change_photo.sheet.description": {
+    "japanese": "選択したフォトでメモリーを更新しますか？",
+    "chinese": "是否用所选照片更新回忆？"
+  },
+  "produce.reward.exclude.sheet.warning": {
+    "japanese": "※除去したスキルカードは今回のプロデュース中に獲得できる対象から外れます",
+    "chinese": "※移除的技能卡将不会成为此次培育中可获得的对象"
+  },
+  "photography.setting.idol.cancel_confirm.description": {
+    "japanese": "変更が保存されていません。\n撮影するアイドルを変更せず、戻りますか？",
+    "chinese": "更改未保存。"
+  },
+  "photography.look_target.self_body": {
+    "japanese": "こっちみて",
+    "chinese": "看这边"
+  },
+  "produce.shop.reroll.title": {
+    "japanese": "相談リフレッシュ確認",
+    "chinese": "商店刷新确认"
+  },
+  "produce.prepare.challenge.item_title": {
+    "japanese": "チャレンジ\nPアイテム",
+    "chinese": "挑战"
+  },
+  "produce.customize.cell.limit_customize": {
+    "japanese": "カスタマイズ済",
+    "chinese": "已自定义"
+  },
+  "meishi_edit_custom.sub_menu.text.profile_comment": {
+    "japanese": "コメント",
+    "chinese": "评论"
+  },
+  "producer.level.exclude_name": {
+    "japanese": "スキルカード除去",
+    "chinese": "移除技能卡"
+  },
+  "photography.setting.idol.random_confirm_sheet.description": {
+    "japanese": "選択中のアイドルと衣装と髪型をランダムに設定します。\n衣装と髪型は所持しているなかからランダムに設定されます。\nよろしいですか？",
+    "chinese": "将随机设置当前选择的偶像、服装和发型。"
+  },
+  "produce.customize.button.upgrade_limit.per_customize": {
+    "japanese": "カスタマイズ上限に達しています",
+    "chinese": "已达到自定义上限"
+  },
+  "memory.to_photo.sheet.save.toast": {
+    "japanese": "フォトアルバムに保存しました",
+    "chinese": "照片已保存到相册"
+  },
+  "photography.setting.idol.slot.pose": {
+    "japanese": "ポーズ一覧",
+    "chinese": "姿势列表"
+  },
+  "setting.preference.photography.idol_photo.gesture.control.description": {
+    "japanese": "この項目をONにすると、アイドル撮影でジェスチャー操作のカメラの動きが反転するようになります",
+    "chinese": "开启此项后，偶像拍摄中的手势操作将反转摄像头动作"
+  },
+  "produce.refresh.confirm_limit_warning": {
+    "japanese": "プロデュース中に休むを選択できる回数には制限があります",
+    "chinese": "培育中选择休息的次数有限制"
+  },
+  "photo.album.to_photography": {
+    "japanese": "撮影",
+    "chinese": "拍摄"
+  },
+  "picturebook.live.unlock_confirm.sheet.description": {
+    "japanese": "{0}を使用して、ライブを解放しますか？\n※{1}の{2}のライブが解放されます",
+    "chinese": "是否使用{0}解锁直播？"
+  },
+  "produce.card.select_cancel_title": {
+    "japanese": "スキップ確認",
+    "chinese": "跳过确认"
+  },
+  "produce.customize.button.not_customize_card": {
+    "japanese": "カスタマイズできないスキルカードです",
+    "chinese": "无法自定义的技能卡"
+  },
+  "memory.produce_review.caution": {
+    "japanese": "※ライブを撮影し、メモリーのフォトを更新することができます\n※ライブの品質は現在の端末設定に準じます",
+    "chinese": "※可通过拍摄直播更新回忆的照片"
+  },
+  "home.story.idol.dearness_story_campaign.label": {
+    "japanese": "親愛度コミュ解放",
+    "chinese": "亲密度回忆解锁"
+  },
+  "produce.customize.button.upgrade_limit.per_card": {
+    "japanese": "上限までカスタマイズ済みです",
+    "chinese": "已自定义至上限"
+  },
+  "produce.nia.audition_name.finalhard": {
+    "japanese": "QUALTET",
+    "chinese": "QUALTET"
+  },
+  "upload_movie_error_sheet.description": {
+    "japanese": "エラーにより動画を保存できませんでした\nリトライしますか？\n\n<color=#u:Negative>※キャンセルをすると中断されます</color>",
+    "chinese": "因错误无法保存视频"
+  },
+  "memory.to_photo.move.button": {
+    "japanese": "移動する",
+    "chinese": "移动"
+  },
+  "story_event.guild_mission.notification_description.unlocked_condition": {
+    "japanese": "{0}が\nミッションNo.{1}の「条件{2}」を解放！",
+    "chinese": "{0}解锁了任务No.{1}的「条件{2}」！"
+  },
+  "produce.self_lesson.shortage.stamina": {
+    "japanese": "体力が不足しています",
+    "chinese": "体力不足"
+  },
+  "produce.customize.upgrade.target_count": {
+    "japanese": "カスタマイズ可能スキルカード あと{0}枚",
+    "chinese": "可自定义技能卡还有{0}张"
+  },
+  "produce.info.status.excluded_card.hover": {
+    "japanese": "除去したスキルカードはプロデュース中に獲得できる報酬の候補として表示されなくなり、報酬として獲得することもなくなります。",
+    "chinese": "移除的技能卡将在培育中不再作为奖励候选，并且无法获得为奖励。"
+  },
+  "angya.battle_confirm.rehearsal.description": {
+    "japanese": "編成しているユニットでリハーサルを開始します",
+    "chinese": "将使用编队中的队伍开始排练"
+  },
+  "produce.shop.reroll.description": {
+    "japanese": "すべてのラインナップをリフレッシュしますか？",
+    "chinese": "是否刷新所有列表？"
+  },
+  "produce.customize.upgrade.test": {
+    "japanese": "テスト -{0}",
+    "chinese": "测试 -{0}"
+  },
+  "meishi.edit_custom.timeline": {
+    "japanese": "動く名刺",
+    "chinese": "动态名片"
+  },
+  "produce.customize.customize_button.remain_count": {
+    "japanese": "あと{0}回",
+    "chinese": "还剩{0}次"
+  },
+  "photography.setting.button.random_layout.none": {
+    "japanese": "選択可能な他の項目がありません",
+    "chinese": "没有可选择的其他项目"
+  },
+  "produce.customize.upgrade.return": {
+    "japanese": "一覧に戻る",
+    "chinese": "返回列表"
+  },
+  "produce.lesson.log.detail.card_grow": {
+    "japanese": "「{0}」を成長",
+    "chinese": "将「{0}」培育成长"
+  },
+  "produce.lesson.no_diff.contest": {
+    "japanese": "スコア上昇なし",
+    "chinese": "分数无提升"
+  },
+  "meishi.pending_data_sheet.title": {
+    "japanese": "確認",
+    "chinese": "确认"
+  },
+  "produce.customize.select_detail.card_customize.empty_not_upgrade": {
+    "japanese": "未強化のスキルカードはカスタマイズできません",
+    "chinese": "未强化的技能卡无法进行自定义"
+  },
+  "home.event.portal.exchange.update.minute": {
+    "japanese": "交換あと{0}分",
+    "chinese": "还剩{0}分钟可兑换"
+  },
+  "angya.stage.index_name.number_5": {
+    "japanese": "E",
+    "chinese": "E"
+  },
+  "produce.schedule.detail_select_condition": {
+    "japanese": "{0}参加条件",
+    "chinese": "{0}参与条件"
+  },
+  "produce.common.lesson_bonus": {
+    "japanese": "レッスンボーナス",
+    "chinese": "课程奖励"
+  },
+  "produce.schedule.refresh.remain_count.prefix": {
+    "japanese": "あと",
+    "chinese": "还剩"
+  },
+  "produce.customize.select_detail.menu": {
+    "japanese": "カスタマイズメニュー",
+    "chinese": "自定义菜单"
+  },
+  "pvp.rate.same_character_confirm_sheet.warning": {
+    "japanese": "同じステージに同一のアイドルは編成できません\n別のステージであっても、メインメモリーに設定しているプロデュースアイドルと同一のプロデュースアイドルは設定できません",
+    "chinese": "同一舞台不能配置相同的偶像"
+  },
+  "produce.business.execute_button.disable_text": {
+    "japanese": "コストが不足しています",
+    "chinese": "成本不足"
+  },
+  "setting.preference.photography.photo_button_execute.title": {
+    "japanese": "撮影設定",
+    "chinese": "拍摄设置"
+  },
+  "produce.business.folder.reward_icon.hover.produce_point": {
+    "japanese": "Pポイントを獲得",
+    "chinese": "获得P点"
+  },
+  "produce.business.category.resort_facility": {
+    "japanese": "リゾート施設",
+    "chinese": "度假设施"
+  },
+  "produce.business.folder.reward_icon.hover.stamina": {
+    "japanese": "体力を回復",
+    "chinese": "恢复体力"
+  },
+  "memory.produce_review_restart.description": {
+    "japanese": "もう一度ライブを撮り直しますか？",
+    "chinese": "重新拍摄一次现场表演吗？"
+  },
+  "produce.log.detail.title.business.success": {
+    "japanese": "成功",
+    "chinese": "成功"
+  },
+  "photography.setting.item.select_overlay.random": {
+    "japanese": "ランダム",
+    "chinese": "随机"
+  },
+  "story_event.guild_mission.join_sheet.confirm": {
+    "japanese": "連携ミッション",
+    "chinese": "联动任务"
+  },
+  "produce.nia.audition_name.mid2normal": {
+    "japanese": "POP Fair",
+    "chinese": "POP Fair"
+  },
+  "produce.business.category.corporate_event": {
+    "japanese": "企業イベント会場",
+    "chinese": "企业活动场地"
+  },
+  "meishi.edit_custom.sub_menu.movie.empty_movie": {
+    "japanese": "保存中の動画がありません",
+    "chinese": "没有保存中的视频"
+  },
+  "produce.customize.cell.customizing": {
+    "japanese": "カスタマイズ中",
+    "chinese": "自定义中"
+  },
+  "produce.business.folder.reward_icon.hover.produce_card.same_business_type": {
+    "japanese": "強化済みスキルカードを選んで獲得",
+    "chinese": "选择强化后的技能卡并获得"
+  },
+  "produce.business.decrement_number.red": {
+    "japanese": "<color=#u:Negative>-{0}</color>",
+    "chinese": "<color=#u:Negative>-{0}</color>"
+  },
+  "live.movie_record.retry_confirm_sheet.title": {
+    "japanese": "終了確認",
+    "chinese": "结束确认"
+  },
+  "produce.refresh.confirm.has_limit_count": {
+    "japanese": "残り回数",
+    "chinese": "剩余次数"
+  },
+  "produce.business.get_reward": {
+    "japanese": "獲得報酬",
+    "chinese": "获取奖励"
+  },
+  "meishi.timeline_reset_sheet.title": {
+    "japanese": "動き初期化確認",
+    "chinese": "动作初始化确认"
+  },
+  "produce.prepare.challenge.deck.item_title": {
+    "japanese": "チャレンジPアイテム",
+    "chinese": "挑战P道具"
+  },
+  "produce.business.probability_of_great_success.number": {
+    "japanese": "{0}<size=24>%</size>",
+    "chinese": "{0}<size=24>%</size>"
+  },
+  "produce.business.cost": {
+    "japanese": "消費",
+    "chinese": "消耗"
+  },
+  "meishi.edit_custom.timeline.loop": {
+    "japanese": "動く部分をループ",
+    "chinese": "动作部分循环"
+  },
+  "common.all_open": {
+    "japanese": "すべて開く",
+    "chinese": "全部打开"
+  },
+  "memory.inherit.title": {
+    "japanese": "メモリー合成",
+    "chinese": "回忆合成"
+  },
+  "live.movie_record.overwrite_confirm_sheet.title": {
+    "japanese": "動画上書き確認",
+    "chinese": "视频覆盖确认"
+  },
+  "home.other_profile_move_confirm_sheet.execute": {
+    "japanese": "移動する",
+    "chinese": "移动"
+  },
+  "produce.common.vote_count": {
+    "japanese": "ファン投票数",
+    "chinese": "粉丝投票数"
+  },
+  "angya.stage_detail.list.cell.button": {
+    "japanese": "ステージへ",
+    "chinese": "前往舞台"
+  },
+  "photography.setting.layout.random_confirm_sheet.description": {
+    "japanese": "撮影準備の内容をすべてランダムに設定します。\nよろしいですか？",
+    "chinese": "将拍摄准备内容全部随机设置。可以吗？"
+  },
+  "produce.lesson.stance_none": {
+    "japanese": "発動中の指針はありません",
+    "chinese": "没有激活中的指针"
+  },
+  "home.event.portal.remain_time.open.Aggregating": {
+    "japanese": "集計期間",
+    "chinese": "统计期间"
+  },
+  "produce.lesson.trigger.status_step": {
+    "japanese": "段階{0}",
+    "chinese": "阶段{0}"
+  },
+  "produce.reward.exclude": {
+    "japanese": "カード除去",
+    "chinese": "移除卡牌"
+  },
+  "photography.end_confirm.description.photo_limit": {
+    "japanese": "撮影を終了しますか？",
+    "chinese": "要结束拍摄吗？"
+  },
+  "produce.lesson.no_diff.score": {
+    "japanese": "上昇なし",
+    "chinese": "无提升"
+  },
+  "produce.schedule.step_fan_present": {
+    "japanese": "差し入れ",
+    "chinese": "粉丝赠品"
+  },
+  "pvp.rate.memory_list_label.no_memory": {
+    "japanese": "このステージに編成可能なメモリーがありません",
+    "chinese": "此舞台没有可配置的回忆"
+  },
+  "angya.stage_detail.list.cell.idol": {
+    "japanese": "アイドル指定",
+    "chinese": "指定偶像"
+  },
+  "guild.join.leave.restricted_event.description": {
+    "japanese": "イベント期間中は脱退できません",
+    "chinese": "活动期间无法退出"
+  },
+  "produce.lesson.grow_effect.description_swap": {
+    "japanese": "試験・ステージ終了まで、スキルカードの性能を変化させる",
+    "chinese": "试验·舞台结束前，改变技能卡性能"
+  },
+  "producer.level.unlock_produce_card": {
+    "japanese": "プロデュースで以下が解放されました",
+    "chinese": "在培育中解锁以下内容"
+  },
+  "produce.customize.remain_customize_count.text": {
+    "japanese": "合計あと{0}回",
+    "chinese": "总共还剩{0}次"
+  },
+  "produce.customize.message.result": {
+    "japanese": "{0}をカスタマイズしました",
+    "chinese": "已自定义{0}"
+  },
+  "photography.photo.button.gyro.disabled": {
+    "japanese": "ご利用の端末ではジャイロモードがつかえません",
+    "chinese": "您的设备无法使用陀螺仪模式"
+  },
+  "produce.business.folder.reward_icon.hover.produce_drink": {
+    "japanese": "Pドリンクを選んで獲得",
+    "chinese": "选择P饮料并获得"
+  },
+  "angya.point_progress.progress.retrieved_point": {
+    "japanese": "獲得イベントPt",
+    "chinese": "获得活动Pt"
+  },
+  "produce.lesson.grow_effect.description": {
+    "japanese": "レッスン終了まで、スキルカードの性能を変化させる",
+    "chinese": "直到课程结束，技能卡的性能会发生变化"
+  },
+  "produce.lesson.grow_effect": {
+    "japanese": "成長効果",
+    "chinese": "成长效果"
+  },
+  "angya.stage_detail.list.cell.button.disabled.is_cleared": {
+    "japanese": "クリア済みのステージは挑戦できません",
+    "chinese": "已完成的关卡无法挑战"
+  },
+  "produce.schedule.detail_final_audition2": {
+    "japanese": "最終",
+    "chinese": "最终"
+  },
+  "setting.preference.other.daily_exchange.default_max.title": {
+    "japanese": "デイリー交換所",
+    "chinese": "每日兑换所"
+  },
+  "produce.filter.common.produce_card_name.title": {
+    "japanese": "スキルカード名検索",
+    "chinese": "技能卡名搜索"
+  },
+  "produce.reward.exclude.sheet.description.empty": {
+    "japanese": "スキルカードを選んでください",
+    "chinese": "请选择技能卡"
+  },
+  "memory.inherit.candidate": {
+    "japanese": "候補",
+    "chinese": "候选"
+  },
+  "photography.photo.look_target.disabled.pose": {
+    "japanese": "今の状態では指定できません",
+    "chinese": "当前状态下无法指定"
+  },
+  "produce.schedule.step_fan_present_description": {
+    "japanese": "ファン投票数に応じて\nPポイントやアイテムを獲得できます。",
+    "chinese": "根据粉丝投票数"
+  },
+  "produce.schedule.refresh.remain_count.suffix": {
+    "japanese": "回",
+    "chinese": "次"
+  },
+  "setting.preference.photography.random_head.description": {
+    "japanese": "髪型設定をランダムにする場合の確認メッセージを表示します。",
+    "chinese": "显示随机设置发型时的确认消息。"
+  },
+  "memory.inherit.select_produce_card.before_select.message": {
+    "japanese": "入れ替えるスキルカードを選択してください",
+    "chinese": "请选择要替换的技能卡"
+  },
+  "story_event.guild_mission.join_sheet.main_task_description": {
+    "japanese": "連携ミッションはサークルに加入することで参加できます。\n<color=#u:Negative>{0}</color>",
+    "chinese": "通过加入社团可以参与协作任务。"
+  },
+  "produce.shop.reroll.count": {
+    "japanese": "リフレッシュ可能回数",
+    "chinese": "刷新可用次数"
+  },
+  "memory.inherit.confirm.sheet.notice": {
+    "japanese": "「メニュー＞設定」からいつでも変更できます",
+    "chinese": "可随时通过“菜单＞设置”进行更改"
+  },
+  "produce.prepare.challenge.item_select_cancel.title": {
+    "japanese": "キャンセル確認",
+    "chinese": "取消确认"
+  },
+  "exchange.setting.daily_exchange_default_max.title": {
+    "japanese": "デフォルト交換回数変更",
+    "chinese": "默认兑换次数修改"
+  },
+  "meishi.edit_custom.layer.base_asset_common_background": {
+    "japanese": "背景",
+    "chinese": "背景"
+  },
+  "produce.log.detail.title.business.success_big": {
+    "japanese": "大成功",
+    "chinese": "大成功"
+  },
+  "produce.schedule.step_exam_final_audition2": {
+    "japanese": "最終オーディション",
+    "chinese": "最终试镜"
+  },
+  "produce.schedule.step_self_vocal_sp_description": {
+    "japanese": "ボーカルが上昇します。\n消費も高いですが報酬も豪華です。",
+    "chinese": "声乐会提升。"
+  },
+  "produce.schedule.step_business": {
+    "japanese": "営業",
+    "chinese": "业务"
+  },
+  "memory.inherit.disable.card.toast": {
+    "japanese": "合成候補となるスキルカードがありません",
+    "chinese": "没有可合成的技能卡"
+  },
+  "guild.leader.dissolve.restricted_event.description": {
+    "japanese": "イベント期間中は解散できません",
+    "chinese": "活动期间无法解散"
+  },
+  "produce.schedule.step_self_visual_description": {
+    "japanese": "ビジュアルが上昇します。",
+    "chinese": "视觉会提升。"
+  },
+  "common.100million_unit": {
+    "japanese": "億",
+    "chinese": "亿"
+  },
+  "meishi.edit_custom.menu.support_card": {
+    "japanese": "サポート",
+    "chinese": "支持卡"
+  },
+  "meishi.edit_custom.layer_button.forward": {
+    "japanese": "前面",
+    "chinese": "前方"
+  },
+  "common.produce_card_unlock.description": {
+    "japanese": "スキルカード「{0}」がプロデュースで出現するようになります",
+    "chinese": "技能卡“{0}”将在培育中出现"
+  },
+  "produce.schedule.step_self_dance_sp_description": {
+    "japanese": "ダンスが上昇します。\n消費も高いですが報酬も豪華です。",
+    "chinese": "舞蹈会提升。"
+  },
+  "angya.stage_detail.list.cell.button.disabled.is_not_open": {
+    "japanese": "イベントは終了しました",
+    "chinese": "活动已结束"
+  },
+  "produce.schedule.category.present": {
+    "japanese": "プレゼント：",
+    "chinese": "礼物："
+  },
+  "memory.inherit.confirm.add_description": {
+    "japanese": "※現在のメモリーと合成後のメモリーのどちらを獲得するか選ぶことが\n　できます",
+    "chinese": "※可以选择获得当前回忆或合成后的回忆"
+  },
+  "audition.config.rank_description.nia": {
+    "japanese": "{0}位",
+    "chinese": "{0}位"
+  },
+  "produce.card.move_position.hold.description": {
+    "japanese": "全力に変更時、手札に移動するスキルカードを2枚まで保留でき、2枚を超えると古い順に捨札に送る",
+    "chinese": "全力更改时，可以保留最多2张手牌中的技能卡，超过2张的按顺序丢到弃牌堆"
+  },
+  "produce.schedule.category.school_activities": {
+    "japanese": "学園活動：",
+    "chinese": "学园活动："
+  },
+  "produce.schedule.step_self_visual.short": {
+    "japanese": "Vi.自主レッスン",
+    "chinese": "Vi.自主训练"
+  },
+  "produce.schedule.step_self_vocal.short": {
+    "japanese": "Vo.自主レッスン",
+    "chinese": "Vo.自主训练"
+  },
+  "common.menu.button_type.PhotographyPrepare": {
+    "japanese": "撮影",
+    "chinese": "摄影"
+  },
+  "photography.photo.look_target.disabled.layout": {
+    "japanese": "この立ち位置では指定できません",
+    "chinese": "无法在此站位指定"
+  },
+  "audition.unlock_overlay.title": {
+    "japanese": "オーディション解放",
+    "chinese": "试镜解锁"
+  },
+  "produce_prepare.music_change.sheet.nia_warning": {
+    "japanese": "<color=#u:Negative>※「NEXT IDOL AUDITION」にてTrue Endを達成したアイドルのみ対象となります\n※アイドルごとに設定できます。設定はプロデュース開始前にいつでも変更可能です</color>",
+    "chinese": "<color=#u:Negative>※仅限在“NEXT IDOL AUDITION”中达成True End的偶像"
+  },
+  "meishi.qr_code.read": {
+    "japanese": "名刺読み取り",
+    "chinese": "名片读取"
+  },
+  "produce.filter.common.produce_card_name.disabled.over_selected": {
+    "japanese": "同時に検索できるスキルカードは最大6枚です",
+    "chinese": "同时可搜索的技能卡最多为6张"
+  },
+  "produce.schedule.step_self_dance": {
+    "japanese": "ダンス自主レッスン",
+    "chinese": "舞蹈自主训练"
+  },
+  "picturebook.live.select.skin.lock": {
+    "japanese": "プロデュースアイドル未登場",
+    "chinese": "培育偶像未出现"
+  },
+  "home.gasha.detail.idol.extra_text.music": {
+    "japanese": "楽曲",
+    "chinese": "乐曲"
+  },
+  "memory.inherit.after_memory": {
+    "japanese": "合成後",
+    "chinese": "合成后"
+  },
+  "produce_prepare.edit.title": {
+    "japanese": "NEXT IDOL AUDITION 編成",
+    "chinese": "NEXT IDOL AUDITION 编成"
+  },
+  "meishi.edit_custom.sub_menu.profile.total_fan_count": {
+    "japanese": "ファン数",
+    "chinese": "粉丝数"
+  },
+  "produce.shop.reroll.description2": {
+    "japanese": "※交換済みの強化/削除も更新されます\n※強化/削除が交換済みの場合、必要Pポイントも更新されます\n※スキルカード、Pドリンクのレアリティも再抽選に\nなります\n※プロデュース中のリフレッシュ可能回数には制限があります",
+    "chinese": "※已交换的强化/删除也会更新"
+  },
+  "produce.filter.common.produce_card_name.button": {
+    "japanese": "カード名検索",
+    "chinese": "卡名搜索"
+  },
+  "photobackground.filter.time.evening": {
+    "japanese": "夕",
+    "chinese": "黄昏"
+  },
+  "produce.schedule.step_fan_customize": {
+    "japanese": "特別指導",
+    "chinese": "特别指导"
+  },
+  "meishi_edit_custom.sub_menu.shape_detail.outline_width": {
+    "japanese": "枠線サイズ",
+    "chinese": "框线大小"
+  },
+  "memory.detail.produce_only": {
+    "japanese": "プロデュース専用",
+    "chinese": "培育专用"
+  },
+  "card.support_card.upgrade_level_limit_rank_overlay.description_with_common_resource": {
+    "japanese": "サポートカードを{0}枚と{1}を{2}消費して上限解放を行います",
+    "chinese": "消耗{0}张支持卡和{1}共计{2}进行上限解放"
+  },
+  "upload_movie_error_sheet.cancel": {
+    "japanese": "キャンセル",
+    "chinese": "取消"
+  },
+  "photography.setting.layout.random_confirm_sheet.title": {
+    "japanese": "撮影",
+    "chinese": "拍摄"
+  },
+  "produce.schedule.step_exam_mid2_audition2": {
+    "japanese": "2次オーディション",
+    "chinese": "二次试镜"
+  },
+  "produce.shop.reroll.setting.description": {
+    "japanese": "相談リフレッシュするときに確認メッセージを\n表示します。",
+    "chinese": "刷新时会显示确认消息。"
+  },
+  "produce.filter.common.quick_exam_memory_search.title": {
+    "japanese": "メモリー検索",
+    "chinese": "回忆搜索"
+  },
+  "meishi.edit_custom.timeline.reset_button": {
+    "japanese": "動きを初期化",
+    "chinese": "重置动作"
+  },
+  "produce.filter.common.produce_card_name.label.not_found": {
+    "japanese": "該当のスキルカードがありません",
+    "chinese": "没有找到对应的技能卡"
+  },
+  "meishi.edit_custom.layer.achievement": {
+    "japanese": "アチーブ",
+    "chinese": "成就"
+  },
+  "pvp.rate.same_character_confirm_sheet.warning_sub": {
+    "japanese": "※サブに編成されているメモリーも外れます",
+    "chinese": "※副编成中的回忆也会被移除"
+  },
+  "produce_prepare.music_change.sheet.live_original": {
+    "japanese": "Pアイドル楽曲のライブ演出",
+    "chinese": "P偶像歌曲的现场演出"
+  },
+  "produce.filter.common.exam_effect.label": {
+    "japanese": "効果",
+    "chinese": "效果"
+  },
+  "meishi.edit_custom.sub_menu.profile.public_user_id": {
+    "japanese": "PID",
+    "chinese": "PID"
+  },
+  "produce.schedule.step_self_vocal_sp": {
+    "japanese": "SPボーカル自主レッスン",
+    "chinese": "SP声乐自主课程"
+  },
+  "photo.save.toast.success.local": {
+    "japanese": "フォトを端末に保存しました",
+    "chinese": "照片已保存到设备"
+  },
+  "produce.lesson.hand.empty": {
+    "japanese": "手札のスキルカードが0枚です",
+    "chinese": "手牌中的技能卡为0张"
+  },
+  "angya.rank.empty": {
+    "japanese": "-",
+    "chinese": "-"
+  },
+  "picturebook.live.unlock_hint.sheet.title": {
+    "japanese": "解放条件",
+    "chinese": "解锁条件"
+  },
+  "meishi.edit_custom.layer.profile_fan_count": {
+    "japanese": "ファン数",
+    "chinese": "粉丝数"
+  },
+  "angya.reward.tab.guild_rank_list.rank_label": {
+    "japanese": "位",
+    "chinese": "位"
+  },
+  "memory.inherit.confirm.sheet.warning": {
+    "japanese": "※合成に使用したメモリーは無くなります\n※合成後のスキルカード内容で確定した場合、そのメモリーは合成済みとなり、合成先メモリーとして選択することはできなくなります\n※この操作は元には戻せません",
+    "chinese": "※用于合成的回忆将消失"
+  },
+  "angya.receive_clear_stage_reward_overlay.description": {
+    "japanese": "報酬は自動で受け取られます",
+    "chinese": "奖励会自动领取"
+  },
+  "produce.card.phase_type.produce_start": {
+    "japanese": "開始時獲得",
+    "chinese": "开始时获得"
+  },
+  "story.story_campaign.term.until": {
+    "japanese": "まで",
+    "chinese": "截止到"
+  },
+  "card.idol_card.info.detail": {
+    "japanese": "詳細",
+    "chinese": "详情"
+  },
+  "produce.customize.customize_button.text": {
+    "japanese": "カスタマイズ",
+    "chinese": "自定义"
+  },
+  "produce_prepare.memory.deck_name_edit_sheet.description": {
+    "japanese": "メモリー編成名を入力してください",
+    "chinese": "请输入回忆编成名称"
+  },
+  "photography_prepare.stage_select.motion_button": {
+    "japanese": "ポーズ一覧",
+    "chinese": "动作列表"
+  },
+  "photography.look_target.self_eye": {
+    "japanese": "目線向けて",
+    "chinese": "看向自己"
+  },
+  "memory.inherit.select_produce_card.title": {
+    "japanese": "メモリー合成",
+    "chinese": "回忆合成"
+  },
+  "meishi_edit_custom.sub_menu.mask.description": {
+    "japanese": "切り抜きたい形を選んでください",
+    "chinese": "请选择裁剪形状"
+  },
+  "angya.top.button.reward_list": {
+    "japanese": "報酬一覧",
+    "chinese": "奖励列表"
+  },
+  "meishi.qr_code.scan_description": {
+    "japanese": "名刺コードを枠に合わせてください",
+    "chinese": "请将名片代码对准框对齐"
+  },
+  "angya.transition.not_guild_joined.description": {
+    "japanese": "地方行脚イベントはサークルに加入することで参加できます。\nサークルトップへ移動しますか？",
+    "chinese": "地方巡演活动需要加入社团后才能参加。"
+  },
+  "produce.card.select_cancel.description": {
+    "japanese": "選択せずスキップしますか？",
+    "chinese": "不选择并跳过吗？"
+  },
+  "photography_prepare.stage_select.title": {
+    "japanese": "アイドル撮影",
+    "chinese": "偶像拍摄"
+  },
+  "meishi.edit_custom.sub_menu.produce.produce_drink": {
+    "japanese": "Pドリンク",
+    "chinese": "P饮料"
+  },
+  "produce.nia.audition_name.mid1normal": {
+    "japanese": "ハーモニーToNight",
+    "chinese": "Harmony To Night"
+  },
+  "photography.photo.focus.move_forward": {
+    "japanese": "アイドルの\n前に移動",
+    "chinese": "移动到偶像前面"
+  },
+  "story.idol.dearness_extra_number": {
+    "japanese": "10.5",
+    "chinese": "10.5"
+  },
+  "setting.preference.photography.idol_photo.gesture.angle.top_bottom": {
+    "japanese": "上下アングルの反転",
+    "chinese": "上下角度反转"
+  },
+  "home.gasha.select_pickup.select_label": {
+    "japanese": "選択中",
+    "chinese": "选择中"
+  },
+  "produce.card.select_not_max.description": {
+    "japanese": "まだ選択可能な枚数が残っています\n上限まで選択せず実行してよろしいですか？",
+    "chinese": "还有可选择的数量没有用完"
+  },
+  "produce.challenge.slot.unlock_overlay.description": {
+    "japanese": "チャレンジPアイテムを設定できる\n枠が増えました",
+    "chinese": "挑战P道具可设置的格子已增加"
+  },
+  "angya.guild_detail_overlay.tab.member_ranking_list.empty": {
+    "japanese": "ランキング情報はありません",
+    "chinese": "没有排名信息"
+  },
+  "photography.setting.dress.button.head_random": {
+    "japanese": "髪型ランダム",
+    "chinese": "随机发型"
+  },
+  "produce.schedule.step_exam_mid1_audition2": {
+    "japanese": "1次オーディション",
+    "chinese": "一次试镜"
+  },
+  "produce.skip_refresh.title": {
+    "japanese": "スケジュール選択不可",
+    "chinese": "无法选择日程"
+  },
+  "angya.transition.feature_locked.description": {
+    "japanese": "地方行脚イベントはサークルに加入することで参加できます。\nサークルは初星課題{0}で解放されます",
+    "chinese": "地方巡演活动需要加入社团后才能参加。"
+  },
+  "memory.change_photo.sheet.title": {
+    "japanese": "メモリー更新確認",
+    "chinese": "回忆更新确认"
+  },
+  "produce.log.detail.title.vote_count_bonus_trigger": {
+    "japanese": "ファン投票数ボーナス発動",
+    "chinese": "粉丝投票数奖励发动"
+  },
+  "produce.business.no_cost": {
+    "japanese": "消費なし",
+    "chinese": "无消耗"
+  },
+  "memory.inherit.disable.pvp.toast": {
+    "japanese": "コンテストに編成中のメモリーは選択できません",
+    "chinese": "正在用于竞赛编成中的回忆无法选择"
+  },
+  "produce.nia.audition_name.mid2easy": {
+    "japanese": "MELODY Journey",
+    "chinese": "MELODY Journey"
+  },
+  "produce.schedule.detail_mid1_audition": {
+    "japanese": "中間",
+    "chinese": "中间"
+  },
+  "produce.customize.upgrade.empty_text": {
+    "japanese": "メニューを選択してください",
+    "chinese": "请选择菜单"
+  },
+  "produce.lesson.pre_extra_turn.plus": {
+    "japanese": "ターン数増加+{0}",
+    "chinese": "回合数增加+{0}"
+  },
+  "memory.inherit.select_memory.support_disable.toast": {
+    "japanese": "サポートイベントで獲得したカードは合成できません",
+    "chinese": "通过支援活动获得的卡片无法合成"
+  },
+  "picturebook.live.unlock_hint.sheet.description1": {
+    "japanese": "条件1.\n<size=36>『{0}』を獲得する</size>",
+    "chinese": "条件1."
+  },
+  "memory.to_photo.sheet.title": {
+    "japanese": "フォトアルバム保存",
+    "chinese": "保存到相册"
+  },
+  "produce.schedule.step_business_description": {
+    "japanese": "営業先により様々な効果が発生します。\nPポイントや体力を消費します。",
+    "chinese": "根据营业地点会产生各种效果。"
+  },
+  "produce.challenge.slot.unlock_overlay.slot": {
+    "japanese": "チャレンジPアイテム{0}枠目",
+    "chinese": "挑战P道具第{0}格"
+  },
+  "produce.lesson.hand.draw.empty": {
+    "japanese": "ターン開始時に引けるスキルカードが0枚です",
+    "chinese": "回合开始时无法抽取技能卡"
+  },
+  "produce.reward.exclude.sheet.title": {
+    "japanese": "スキルカード除去確認",
+    "chinese": "技能卡移除确认"
+  },
+  "story_event.guild_mission.history_overlay.title": {
+    "japanese": "ミッション進捗履歴",
+    "chinese": "任务进度记录"
+  },
+  "produce.lesson.no_diff": {
+    "japanese": "増加なし",
+    "chinese": "无增加"
+  },
+  "photobackground.filter.time.title": {
+    "japanese": "時間帯",
+    "chinese": "时间段"
+  },
+  "produce.info.status.excluded_card": {
+    "japanese": "除去済みスキルカード",
+    "chinese": "已移除技能卡"
+  },
+  "produce.lesson.grow_effect_short": {
+    "japanese": "成長",
+    "chinese": "成长"
+  },
+  "produce.schedule.audition_remain_week": {
+    "japanese": "{0}まで",
+    "chinese": "剩余至{0}"
+  },
+  "produce.info.status.active_buff": {
+    "japanese": "発動中効果",
+    "chinese": "正在生效的效果"
+  },
+  "photobackground.filter.category.other": {
+    "japanese": "その他",
+    "chinese": "其他"
+  },
+  "angya.no_organized_confirm_sheet.execute": {
+    "japanese": "挑戦する",
+    "chinese": "进行挑战"
+  },
+  "angya.top.button.story": {
+    "japanese": "コミュ",
+    "chinese": "剧情"
+  },
+  "memory.inherit.get_memory.warning": {
+    "japanese": "※合成前を選択した場合でも、{0}と合成に使用したメモリーは無くなります\n※合成後を選択した場合、メモリーは合成済みとなり、以降合成先メモリーとして選択することはできなくなります",
+    "chinese": "※即使选择了合成前，{0}和用于合成的记忆也会消失。\n※如果选择了合成后，记忆将被标记为已合成，此后无法再作为合成目标记忆进行选择。"
+  },
+  "meishi.edit_custom.save_sheet.description": {
+    "japanese": "編集内容を保存しますか？",
+    "chinese": "是否保存编辑内容？"
+  },
+  "meishi.edit_custom.sub_menu.character.full": {
+    "japanese": "アイドル",
+    "chinese": "偶像"
+  },
+  "memory.review_photo_select.label.new": {
+    "japanese": "変更後",
+    "chinese": "修改后"
+  },
+  "meishi.create_confirm_sheet.type.template": {
+    "japanese": "テンプレート",
+    "chinese": "模板"
+  },
+  "produce.customize.sheet.title": {
+    "japanese": "カスタマイズ実行確認",
+    "chinese": "自定义执行确认"
+  },
+  "produce.exclude.message.result": {
+    "japanese": "{0}を除去しました",
+    "chinese": "已移除{0}"
+  },
+  "story_event.guild_mission.progress.detail_description.ellipsis": {
+    "japanese": "…",
+    "chinese": "…"
+  },
+  "produce.info.status.exclude": {
+    "japanese": "スキルカード除去可能回数 残り{0}",
+    "chinese": "剩余技能卡可移除次数{0}"
+  },
+  "produce.audition.dearness_lock": {
+    "japanese": "親愛度{0}で開放",
+    "chinese": "亲密度达到{0}解锁"
+  },
+  "produce.nia.audition_name.finalnormal": {
+    "japanese": "IDOL Big Up！",
+    "chinese": "IDOL Big Up！"
+  },
+  "common.network.error.data_updated.title": {
+    "japanese": "情報更新",
+    "chinese": "信息更新"
+  },
+  "produce.reference_detail.title.card_upgrade": {
+    "japanese": "スキルカード強化後",
+    "chinese": "技能卡强化后"
+  },
+  "meishi.create_confirm_sheet.title": {
+    "japanese": "名刺作成",
+    "chinese": "名片制作"
+  },
+  "memory.inherit.disable.profile.toast": {
+    "japanese": "プロフィールに設定中のメモリーは選択できません",
+    "chinese": "设为资料中的回忆无法选择"
+  },
+  "produce.nia.audition.dearness_condition": {
+    "japanese": "親愛度Lv.{0}以上",
+    "chinese": "亲密度Lv.{0}以上"
+  },
+  "story_event.guild_mission.detail.description": {
+    "japanese": "上記の条件を達成してプロデュースを完了する",
+    "chinese": "达成上述条件并完成培育"
+  },
+  "common.produce_card_unlock.name": {
+    "japanese": "スキルカード解放「{0}」",
+    "chinese": "技能卡解锁「{0}」"
+  },
+  "meishi.top.list.type.template": {
+    "japanese": "テンプレート",
+    "chinese": "模板"
+  },
+  "photobackground.sort.order": {
+    "japanese": "デフォルト",
+    "chinese": "默认"
+  },
+  "produce.audition.result.continue_confirm_sheet.nia.description_warning": {
+    "japanese": "※初回挑戦時より上位の難易度には挑戦できません",
+    "chinese": "※无法挑战比首次挑战难度更高的等级"
+  },
+  "photography.photo.renderer_setting.description": {
+    "japanese": "表示・非表示の設定を変更できます",
+    "chinese": "可更改显示/隐藏设置"
+  },
+  "common.deeplink": {
+    "japanese": "idolmastergakuen-universallinks://com.bandainamcoent.idolmaster_gakuen?{0}",
+    "chinese": "idolmastergakuen-universallinks://com.bandainamcoent.idolmaster_gakuen?{0}"
+  },
+  "story_event.guild_mission.detail.condition_label": {
+    "japanese": "条件{0}：",
+    "chinese": "条件{0}："
+  },
+  "angya.reward.tab.guild_rank_list.cell.count_range": {
+    "japanese": "{0:N0} ~ {1:N0}",
+    "chinese": "{0:N0} ~ {1:N0}"
+  },
+  "common.all_close": {
+    "japanese": "すべて閉じる",
+    "chinese": "关闭全部"
+  },
+  "meishi.edit_custom.reset_sheet.title": {
+    "japanese": "確認",
+    "chinese": "确认"
+  },
+  "common.count.people_unit": {
+    "japanese": "人",
+    "chinese": "人"
+  },
+  "produce.lesson.no_effect.block_restriction": {
+    "japanese": "元気増加無効状態のため効果が発動しません。",
+    "chinese": "因元气增长无效状态效果未激活"
+  },
+  "produce.business.folder.reward_icon.hover.produce_card": {
+    "japanese": "スキルカードを選んで獲得",
+    "chinese": "选择并获取技能卡"
+  },
+  "story.header.story_type.campaign": {
+    "japanese": "キャンペーンコミュ",
+    "chinese": "活动剧情"
+  },
+  "photography.photo.pose.disabled.look_target": {
+    "japanese": "今の状態では指定できません",
+    "chinese": "当前状态下无法指定"
+  },
+  "produce.shop.reroll": {
+    "japanese": "リフレッシュ",
+    "chinese": "刷新"
+  },
+  "photography.photo.button.setting": {
+    "japanese": "表示設定",
+    "chinese": "显示设置"
+  },
+  "produce.schedule.step_self_dance_description": {
+    "japanese": "ダンスが上昇します。",
+    "chinese": "舞蹈能力提升"
+  },
+  "common.and": {
+    "japanese": "AND",
+    "chinese": "AND"
+  },
+  "photography.setting.button.idol_change": {
+    "japanese": "アイドル変更",
+    "chinese": "更换偶像"
+  },
+  "memory.inherit.result.decide_confirm_sheet.description": {
+    "japanese": "<color=#u:Negative>{0}</color>の内容でメモリーを確定します。\nよろしいですか？",
+    "chinese": "以<color=#u:Negative>{0}</color>的内容确认回忆，可以吗？"
+  },
+  "photography.setting.button.execute_idol": {
+    "japanese": "決定",
+    "chinese": "确定"
+  },
+  "memory.inherit.confirm.sheet.title": {
+    "japanese": "メモリー合成確認",
+    "chinese": "回忆合成确认"
+  },
+  "produce.customize.button.select": {
+    "japanese": "カスタマイズするスキルカードを選択してください",
+    "chinese": "请选择要自定义的技能卡"
+  },
+  "memory.filter.inherited": {
+    "japanese": "合成済みメモリー",
+    "chinese": "已合成回忆"
+  },
+  "limit.unti": {
+    "japanese": "",
+    "chinese": ""
   }
 }
