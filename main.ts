@@ -109,7 +109,7 @@ function parseCsvFormatLocalization(txt: string): { [key: string]: string } {
 function countUntranslatedLines(lFile: LocalizatonObj) {
   let count = 0
   for (const key of Object.keys(lFile)) {
-    if (key !== "" && lFile[key].chinese === "") {
+    if (key !== "" && lFile[key].chinese === "" && lFile[key].japanese !== "") {
       count += 1
     }
   }
