@@ -19366,5 +19366,189 @@
   "limit.unti": {
     "japanese": "",
     "chinese": ""
+  },
+  "standalone.window.size.m_label": {
+    "japanese": "1080x1920",
+    "chinese": "1080x1920"
+  },
+  "jewel_buy_limit_sheet.amount_pc": {
+    "japanese": "{0:N0}ptまで",
+    "chinese": "最多可购买{0:N0}pt"
+  },
+  "setting.produce.card_effect_revert": {
+    "japanese": "サポートイベント効果確認",
+    "chinese": "支持活动效果确认"
+  },
+  "setting.preference.purchase_limit.alert.description_pc": {
+    "japanese": "この項目をONにすると、毎月合計で{0:N0}ptを超える購入をしようとした場合に、アラートが表示されるようになります。",
+    "chinese": "开启此选项后，当尝试购买超过每月合计{0:N0}pt时，将显示警报。"
+  },
+  "setting.preference.noti.contest.description": {
+    "japanese": "この項目をONにすると、コンテストに挑戦していない場合、{0}に通知されます。",
+    "chinese": "开启此选项后，如果未参加比赛，将通知{0}。"
+  },
+  "standalone.window.size.ss_label": {
+    "japanese": "540x960",
+    "chinese": "540x960"
+  },
+  "achievement.true_end.receive.initial_stamina": {
+    "japanese": "初期体力",
+    "chinese": "初始体力"
+  },
+  "achievement.true_end.receive.lesson_bonus": {
+    "japanese": "レッスンボーナス",
+    "chinese": "课程奖励"
+  },
+  "achievement.true_end.receive.initial_status": {
+    "japanese": "初期ステータス",
+    "chinese": "初始状态"
+  },
+  "achievement.true_end.receive.title": {
+    "japanese": "上昇ステータス",
+    "chinese": "状态提升"
+  },
+  "standalone.window.size.title": {
+    "japanese": "画面サイズ",
+    "chinese": "屏幕尺寸"
+  },
+  "shop.purchase.confirm_price.description_pc": {
+    "japanese": "今月の購入金額が{0:N0}ptを超えます\n購入を続けますか？",
+    "chinese": "本月购买金额超过{0:N0}pt"
+  },
+  "shop.label.price_pc": {
+    "japanese": "{0:N0}pt",
+    "chinese": "{0:N0}pt"
+  },
+  "dmm.service.init.unknown.error": {
+    "japanese": "初期化に失敗しました",
+    "chinese": "初始化失败"
+  },
+  "dmm.service.init.error.title": {
+    "japanese": "初期化エラー",
+    "chinese": "初始化错误"
+  },
+  "card.filter.true_end.label.nextidolaudition": {
+    "japanese": "NEXT IDOL AUDITION",
+    "chinese": "NEXT IDOL AUDITION"
+  },
+  "data.migrate.start.warning_pc": {
+    "japanese": "※有償ジュエルは異なるプラットフォームに連携することはできません。購入したプラットフォームでのみ使用することが可能です。\n※無償ジュエルは異なるプラットフォームに連携することが可能です。",
+    "chinese": "※付费宝石无法链接到不同的平台。仅可在购买的平台上使用。"
+  },
+  "produce.business.great_success_bonus.description_sheet.description": {
+    "japanese": "・ボーカル、ダンス、ビジュアルのパラメータ合計が高ければ高いほど、営業の大成功確率が上昇します\n\n・営業が大成功すると、大成功ボーナスに記載されたファン投票数を追加で獲得することができます",
+    "chinese": "・声乐、舞蹈、视觉参数的总和越高，业务大成功的概率越高"
+  },
+  "card.filter.true_end.label.firststar": {
+    "japanese": "定期公演『初』",
+    "chinese": "定期演出『初』"
+  },
+  "produce.audition.result.nia.clear": {
+    "japanese": "オーディションクリア",
+    "chinese": "试镜通过"
+  },
+  "dmm.service.init.network.error": {
+    "japanese": "初期化に失敗しました。DMM GAME PLAYERから再起動してください",
+    "chinese": "初始化失败。请从DMM GAME PLAYER重新启动"
+  },
+  "standalone.window.rotate.disable": {
+    "japanese": "対応していないモニターサイズです",
+    "chinese": "不支持的显示器尺寸"
+  },
+  "produce.revert.message.result": {
+    "japanese": "の{0}を戻しました",
+    "chinese": "已恢复{0}"
+  },
+  "produce.card_effect.revert_confirm.title": {
+    "japanese": "サポートイベント効果確認",
+    "chinese": "支持活动效果确认"
+  },
+  "home.gasha.draw_button.free.first_only": {
+    "japanese": "初回無料",
+    "chinese": "首次免费"
+  },
+  "produce.business.great_success_bonus.description_sheet.bonus": {
+    "japanese": "大成功ボーナス",
+    "chinese": "大成功奖励"
+  },
+  "produce.result.memory_select.label.auto": {
+    "japanese": "自動撮影",
+    "chinese": "自动拍摄"
+  },
+  "produce.audition.result.clear": {
+    "japanese": "試験クリア",
+    "chinese": "考试通过"
+  },
+  "shop.age_registration_sheet.age_limit.right_pc": {
+    "japanese": "1ヶ月{0:N0}ptまで\n1ヶ月{1:N0}ptまで\n限度なし",
+    "chinese": "每月最多{0:N0}pt"
+  },
+  "dmm.service.init.no_args.error": {
+    "japanese": "DMM GAME PLAYERから起動してください",
+    "chinese": "请从DMM GAME PLAYER启动"
+  },
+  "standalone.window.size.s_label": {
+    "japanese": "720x1280",
+    "chinese": "720x1280"
+  },
+  "data.migrate.last_confirm.warning_pc": {
+    "japanese": "※有償ジュエルは異なるプラットフォームに連携することはでき\nません。購入したプラットフォームでのみ使用することが可能で\nす。\n※無償ジュエルは異なるプラットフォームに連携することが可能\nです。",
+    "chinese": "※付费宝石无法链接到不同的平台。仅可在购买的平台上使用。"
+  },
+  "produce.card_effect.revert_confirm.message": {
+    "japanese": "サポートイベントの効果を戻しますか？",
+    "chinese": "是否恢复支持活动的效果？"
+  },
+  "setting.produce.card_effect_revert.description": {
+    "japanese": "スキルカードに影響するサポートイベント効果を戻す時\nに確認メッセージを表示します。",
+    "chinese": "在恢复影响技能卡的支持活动效果时，显示确认消息。"
+  },
+  "produce.business.great_success_bonus.description_sheet.number": {
+    "japanese": "{0}<size=48>%</size>",
+    "chinese": "{0}<size=48>%</size>"
+  },
+  "setting.preference.noti.contest_challenge": {
+    "japanese": "コンテスト未挑戦",
+    "chinese": "比赛未挑战"
+  },
+  "produce.card_effect.revert_confirm.execute": {
+    "japanese": "戻す",
+    "chinese": "恢复"
+  },
+  "produce.business.great_success_bonus.description_sheet.percent": {
+    "japanese": "大成功確率",
+    "chinese": "大成功概率"
+  },
+  "produce.concat_newline": {
+    "japanese": "。\n",
+    "chinese": "。"
+  },
+  "standalone.window.size.setting_label": {
+    "japanese": "画面のサイズを変更できます。\n※PC版のみ",
+    "chinese": "可以更改屏幕尺寸。"
+  },
+  "standalone.window.size.l_label": {
+    "japanese": "1440x2560",
+    "chinese": "1440x2560"
+  },
+  "produce.card_effect.revert": {
+    "japanese": "戻す",
+    "chinese": "恢复"
+  },
+  "standalone.window.size.disable": {
+    "japanese": "ご利用の環境ではお使いいただけません",
+    "chinese": "在您当前的环境中无法使用"
+  },
+  "produce.business.great_success_bonus.description_sheet.title": {
+    "japanese": "大成功ボーナス詳細",
+    "chinese": "大成功奖励详情"
+  },
+  "produce.card_effect.revert_confirm.cancel": {
+    "japanese": "戻さない",
+    "chinese": "不恢复"
+  },
+  "pc.waring_disable_feature": {
+    "japanese": "PC版ではご利用いただけません",
+    "chinese": "PC版无法使用"
   }
 }
