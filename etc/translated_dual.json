@@ -19550,5 +19550,413 @@
   "pc.waring_disable_feature": {
     "japanese": "PC版ではご利用いただけません",
     "chinese": "PC版无法使用"
+  },
+  "tower.ranking.season_select_overlay.cell.disabled.calculation": {
+    "japanese": "集計期間中です",
+    "chinese": "集计期间中"
+  },
+  "setting.preference.noti.daily.time": {
+    "japanese": "{0}:00",
+    "chinese": "{0}:00"
+  },
+  "memory.sell.detail.sell_confirm_text": {
+    "japanese": "このメモリーを変換してアイテムを入手します。\nよろしいですか？",
+    "chinese": "将此回忆转换为道具获取。可以吗？"
+  },
+  "common.infinity": {
+    "japanese": "∞",
+    "chinese": "∞"
+  },
+  "common.network.error.dmm_game_id_has_user.title": {
+    "japanese": "ゲームデータ変更",
+    "chinese": "游戏数据更改"
+  },
+  "pvp.rate.rate_provide_disabled.description": {
+    "japanese": "当日に開始した対戦ではないため、レートPtの獲得はありません。",
+    "chinese": "不是当天开始的对战，无法获得评分Pt。"
+  },
+  "tower.ranking.stage_list.term_label": {
+    "japanese": "{0}~\n{1}",
+    "chinese": "{0}~"
+  },
+  "tower.ranking.stage.title.past": {
+    "japanese": "ステージ別過去ランキング",
+    "chinese": "阶段别过去排名"
+  },
+  "memory.sell.detail.sell_button": {
+    "japanese": "メモリー変換",
+    "chinese": "回忆转换"
+  },
+  "produce_prepare.top.label.term_end": {
+    "japanese": "まで",
+    "chinese": "为止"
+  },
+  "produce.high_score_rush.gold.description": {
+    "japanese": "ハイスコアイベントで獲得できるアイテム。イベント画面でガシャが引けます。",
+    "chinese": "在高分活动中可获得的道具。可在活动画面中进行抽卡。"
+  },
+  "produce.high_score_rush.gold": {
+    "japanese": "星々のきらめき",
+    "chinese": "星星的闪耀"
+  },
+  "produce.filter.common.produce_item_name.title": {
+    "japanese": "Pアイテム名検索",
+    "chinese": "P道具名搜索"
+  },
+  "setting.produce.story_skip2": {
+    "japanese": "【プロデュース】演出スキップ設定",
+    "chinese": "【培育】演出跳过设置"
+  },
+  "produce.high_score_rush.item": {
+    "japanese": "イベントPアイテム",
+    "chinese": "活动P道具"
+  },
+  "produce.filter.common.exam_effect.heading": {
+    "japanese": "検索設定中：効果",
+    "chinese": "搜索设置中：效果"
+  },
+  "produce.card.category.event": {
+    "japanese": "イベント",
+    "chinese": "活动"
+  },
+  "setting.produce.story_skip2.after_adv": {
+    "japanese": "定期公演『初』の「気になる\n様子」コミュスキップ",
+    "chinese": "定期公演『初』的「令人关注的情况」社团跳过"
+  },
+  "produce.filter.common.produce_item_name.button": {
+    "japanese": "Pアイテム名検索",
+    "chinese": "P道具名搜索"
+  },
+  "produce.filter.common.produce_item_name.label.none_selected": {
+    "japanese": "選択されていません",
+    "chinese": "未选择"
+  },
+  "produce.filter.common.produce_item_name.label.not_found": {
+    "japanese": "該当のPアイテムがありません",
+    "chinese": "没有符合的P道具"
+  },
+  "shop.need_init.description": {
+    "japanese": "情報の取得に失敗しました。\n更新してください。",
+    "chinese": "获取信息失败。请更新。"
+  },
+  "story_event.filter.story_event_type.angya": {
+    "japanese": "地方行脚イベント",
+    "chinese": "地方巡演活动"
+  },
+  "produce.filter.common.produce_item_name.disabled.over_selected": {
+    "japanese": "同時に検索できるPアイテムは最大6枚です",
+    "chinese": "同时可搜索的P道具最多为6个"
+  },
+  "produce.filter.common.produce_card_name.heading": {
+    "japanese": "検索設定中：スキルカード名",
+    "chinese": "搜索设置中：技能卡名称"
+  },
+  "produce.filter.common.produce_item_name.heading": {
+    "japanese": "検索設定中：Pアイテム名",
+    "chinese": "搜索设置中：P道具名称"
+  },
+  "story_event.filter.story_event_type.story_event": {
+    "japanese": "ストーリーイベント",
+    "chinese": "故事活动"
+  },
+  "produce.lesson.no_effect.stance_over_preservation": {
+    "japanese": "指針がのんびりであるため、指針を温存にする効果が発動しません。",
+    "chinese": "由于方针是悠闲，方针保存的效果未触发。"
+  },
+  "shop.need_init.title": {
+    "japanese": "情報取得に失敗",
+    "chinese": "信息获取失败"
+  },
+  "produce.lesson.item_limit_count_add": {
+    "japanese": "発動回数増加",
+    "chinese": "发动次数增加"
+  },
+  "tower.battle_confirm.ranking.button": {
+    "japanese": "ランキング",
+    "chinese": "排名"
+  },
+  "produce.lesson.log.detail.buff.remove": {
+    "japanese": "{0}が解除",
+    "chinese": "{0}已解除"
+  },
+  "home.user_guide.title": {
+    "japanese": "ご案内",
+    "chinese": "指南"
+  },
+  "produce_prepare.idol_select.label.event_target_only": {
+    "japanese": "イベント対象アイドルのみ選択可能です",
+    "chinese": "仅可选择活动目标偶像"
+  },
+  "tower.top.ranking.button": {
+    "japanese": "総合ランキング",
+    "chinese": "综合排名"
+  },
+  "produce_prepare.top.label.high_score_rush_event": {
+    "japanese": "イベントモード",
+    "chinese": "活动模式"
+  },
+  "setting.produce.story_skip2.dearness_adv_movie.description": {
+    "japanese": "※親愛度コミュ自体はスキップされません",
+    "chinese": "※亲密度社团本身不会跳过"
+  },
+  "produce_prepare.top.label.term": {
+    "japanese": "開催期間",
+    "chinese": "举办期间"
+  },
+  "setting.produce.skip_produce_story_setting.description": {
+    "japanese": "演出スキップ設定の確認メッセージを表示します。",
+    "chinese": "显示演出跳过设置的确认信息。"
+  },
+  "produce_prepare.top.toast.ranking_disabled": {
+    "japanese": "イベントモードではランキングはありません",
+    "chinese": "活动模式下没有排名"
+  },
+  "produce_prepare.top.toast.ranking_locked": {
+    "japanese": "未解放です",
+    "chinese": "未解锁"
+  },
+  "produce.history.label_text.event": {
+    "japanese": "イベント",
+    "chinese": "活动"
+  },
+  "shop.need_init.retry": {
+    "japanese": "更新",
+    "chinese": "更新"
+  },
+  "setting.produce.skip_produce_story_setting": {
+    "japanese": "演出スキップ設定",
+    "chinese": "演出跳过设置"
+  },
+  "standalone.window.vsync.setting_label": {
+    "japanese": "・ONにするとフレームレートの選択ができません。\n※DMM GAMES版のみ",
+    "chinese": "・开启时无法选择帧率。※仅适用于DMM GAMES版"
+  },
+  "story_event.filter.story_event_type.other": {
+    "japanese": "その他",
+    "chinese": "其他"
+  },
+  "pvp.rate.rate_provide_disabled.title": {
+    "japanese": "対戦終了確認",
+    "chinese": "对战结束确认"
+  },
+  "memory.filter.event": {
+    "japanese": "イベント",
+    "chinese": "活动"
+  },
+  "memory.filter.event.only_event": {
+    "japanese": "イベントメモリーを表示",
+    "chinese": "显示活动回忆"
+  },
+  "tower.stage.ranking.button": {
+    "japanese": "ステージ別\nランキング",
+    "chinese": "阶段别"
+  },
+  "memory.filter.event.not_event": {
+    "japanese": "イベントメモリー以外を表示",
+    "chinese": "显示非活动回忆"
+  },
+  "memory.filter.customize.on": {
+    "japanese": "カスタマイズ済み",
+    "chinese": "已定制"
+  },
+  "memory.sell.detail.sell_confirm_title": {
+    "japanese": "変換確認",
+    "chinese": "转换确认"
+  },
+  "memory.sell.detail.sell_confirm_annotation_text": {
+    "japanese": "※このメモリーはなくなります",
+    "chinese": "※此回忆将消失"
+  },
+  "memory.sell.detail.sell_confirm_produce_annotation_text": {
+    "japanese": "※変換を実行すると自動でプロデュース完了になります\n※変換で入手したアイテムはプロデュース終了時の獲得アイテムに加算されます",
+    "chinese": "※执行转换后自动完成培育"
+  },
+  "story_event.filter.story_event_type.season_event": {
+    "japanese": "シーズンイベント",
+    "chinese": "季节活动"
+  },
+  "setting.preference.other.guild_setting.title": {
+    "japanese": "サークル設定",
+    "chinese": "社团设置"
+  },
+  "item.transition.high_score_event": {
+    "japanese": "ハイスコア\nイベントへ",
+    "chinese": "前往高分"
+  },
+  "picturebook.live.select.live_user.lock": {
+    "japanese": "プロデュース内閲覧で解放",
+    "chinese": "培育内查看后解锁"
+  },
+  "setting.produce.story_skip2.dearness_adv_movie": {
+    "japanese": "親愛度コミュ内の\n映像スキップ",
+    "chinese": "亲爱度交流内的视频跳过"
+  },
+  "picturebook.live.select.live_master.lock": {
+    "japanese": "プロデュース内閲覧で解放",
+    "chinese": "培育内浏览解锁"
+  },
+  "setting.preference.noti.contest_challenge.time": {
+    "japanese": "{0}:00",
+    "chinese": "{0}:00"
+  },
+  "setting.produce.story_skip2.description": {
+    "japanese": "みたことのある演出のスキップが設定できます\n※みたことのない演出の場合、ONになっていても\nスキップされません",
+    "chinese": "可以设置跳过已看过的演出"
+  },
+  "setting.produce.story_skip2.support_adv": {
+    "japanese": "サポートイベントの\nコミュスキップ",
+    "chinese": "支援活动的交流跳过"
+  },
+  "setting.produce.story_skip2.support_adv.description": {
+    "japanese": "サポートイベントの効果までスキップする\n※サポートイベントの効果に影響はありません",
+    "chinese": "跳过至支援活动的效果"
+  },
+  "setting.produce.story_skip2.introduction_adv": {
+    "japanese": "各プロデュース開始時の\n説明コミュスキップ",
+    "chinese": "各培育开始时的说明交流跳过"
+  },
+  "setting.preference.other.guild_setting.guild_donation_confirm.title": {
+    "japanese": "寄付確認",
+    "chinese": "捐赠确认"
+  },
+  "setting.preference.other.guild_setting.guild_donation_confirm.description": {
+    "japanese": "サークルメンバーにアイテムを寄付する際に確認メッセージを表示します。",
+    "chinese": "向社团成员捐赠物品时会显示确认消息。"
+  },
+  "maintenance.release.description_standalone": {
+    "japanese": "DMM GAMES版サービス開始までもうしばらくお待ちください",
+    "chinese": "DMM GAMES版服务开始前请稍等片刻"
+  },
+  "tower.battle_confirm.ranking.current_season": {
+    "japanese": "今シーズン",
+    "chinese": "本赛季"
+  },
+  "tower.battle_confirm.ranking.score": {
+    "japanese": "{0} <size=30>Pt</size>",
+    "chinese": "{0} <size=30>Pt</size>"
+  },
+  "tower.disable_produce_item_detail_button.toast": {
+    "japanese": "メモリーを編成してください",
+    "chinese": "请编成回忆"
+  },
+  "tower.ranking.error.no_seasons": {
+    "japanese": "ランキング準備中",
+    "chinese": "排行榜准备中"
+  },
+  "tower.ranking.error.profile.delete_user": {
+    "japanese": "削除されたユーザーです",
+    "chinese": "已删除的用户"
+  },
+  "tower.ranking.character.title.current": {
+    "japanese": "総合ランキング",
+    "chinese": "综合排行榜"
+  },
+  "tower.ranking.character.title.past": {
+    "japanese": "総合過去ランキング",
+    "chinese": "综合过去排行榜"
+  },
+  "tower.ranking.character.sub_title.self": {
+    "japanese": "マイスコア総合",
+    "chinese": "我的综合得分"
+  },
+  "tower.ranking.character.sub_title.ranking": {
+    "japanese": "総合ランキング　TOP100",
+    "chinese": "综合排行榜 TOP100"
+  },
+  "tower.ranking.stage.title.current": {
+    "japanese": "ステージ別ランキング",
+    "chinese": "分阶段排行榜"
+  },
+  "tower.ranking.stage_top.sub_title": {
+    "japanese": "STAGE{0}",
+    "chinese": "STAGE{0}"
+  },
+  "tower.ranking.stage_top.term_label": {
+    "japanese": "{0}~\n{1}",
+    "chinese": "{0}~"
+  },
+  "tower.ranking.stage_top.history.button": {
+    "japanese": "履歴",
+    "chinese": "历史记录"
+  },
+  "tower.ranking.stage_list.title": {
+    "japanese": "ステージ別ランキング",
+    "chinese": "分阶段排行榜"
+  },
+  "tower.ranking.stage_list.sub_title.self": {
+    "japanese": "STAGE{0}　マイスコア",
+    "chinese": "STAGE{0} 我的得分"
+  },
+  "tower.ranking.stage_list.sub_title.ranking": {
+    "japanese": "STAGE{0}ランキング　TOP100",
+    "chinese": "STAGE{0}排行榜 TOP100"
+  },
+  "tower.ranking.stage_number_list.cell.title": {
+    "japanese": "STAGE",
+    "chinese": "STAGE"
+  },
+  "tower.ranking.season_select_overlay.title.character": {
+    "japanese": "総合ランキング履歴",
+    "chinese": "综合排行榜历史"
+  },
+  "tower.ranking.season_select_overlay.title.stage": {
+    "japanese": "ステージ別ランキング履歴",
+    "chinese": "分阶段排行榜历史"
+  },
+  "tower.ranking.season_select_overlay.cell.current": {
+    "japanese": "開催中",
+    "chinese": "正在进行"
+  },
+  "tower.ranking.season_select_overlay.cell.calculation": {
+    "japanese": "集計期間中です",
+    "chinese": "正在计算期间"
+  },
+  "tower.ranking.season_select_overlay.cell.term": {
+    "japanese": "{0}  ~  {1}",
+    "chinese": "{0}  ~  {1}"
+  },
+  "tower.ranking.season_select_overlay.cell.disabled.calculation_term": {
+    "japanese": "集計期間中です　{0}まで",
+    "chinese": "正在计算期间 至 {0}"
+  },
+  "tower.ranking.list.cell.score": {
+    "japanese": "{0:N0}<size=36>Pt</size>",
+    "chinese": "{0:N0}<size=36>Pt</size>"
+  },
+  "tower.ranking.list.cell.highest_rank.title": {
+    "japanese": "過去最高順位",
+    "chinese": "过去最高排名"
+  },
+  "tower.ranking.list.cell.highest_rank.unit": {
+    "japanese": "位",
+    "chinese": "位"
+  },
+  "tower.ranking.list.cell.detail_button.title": {
+    "japanese": "詳細確認",
+    "chinese": "详细确认"
+  },
+  "tower.ranking.list.empty": {
+    "japanese": "ランキングが開催されていません",
+    "chinese": "排行榜未举行"
+  },
+  "tower.ranking.list.unset": {
+    "japanese": "ランキング情報がまだありません",
+    "chinese": "尚无排行榜信息"
+  },
+  "tower.ranking.deck_detail_sheet.title": {
+    "japanese": "STAGE{0}　スコア獲得編成確認",
+    "chinese": "STAGE{0} 得分编成确认"
+  },
+  "tower.ranking.deck_detail_sheet.error.empty": {
+    "japanese": "スコア獲得編成はありません",
+    "chinese": "无得分编成"
+  },
+  "standalone.window.vsync.title": {
+    "japanese": "垂直同期",
+    "chinese": "垂直同步"
+  },
+  "standalone.window.vsync.disable_frame_rate": {
+    "japanese": "fpsを変更できません",
+    "chinese": "无法更改fps"
   }
 }
