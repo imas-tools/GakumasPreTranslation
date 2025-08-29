@@ -509,7 +509,7 @@
   },
   "produce.schedule.step_exam_mid_audition": {
     "japanese": "中間試験",
-    "chinese": "中期考试"
+    "chinese": "期中考试"
   },
   "present.receipt.empty": {
     "japanese": "受取可能なプレゼントはありません",
@@ -825,7 +825,7 @@
   },
   "common.space": {
     "japanese": " ",
-    "chinese": "\"\""
+    "chinese": " "
   },
   "common.menu.button_type.Media": {
     "japanese": "メディア",
@@ -1977,7 +1977,7 @@
   },
   "produce.schedule.detail_mid2_audition2": {
     "japanese": "2次",
-    "chinese": "第二轮"
+    "chinese": "第二次"
   },
   "master_file_download_confirm_sheet.title": {
     "japanese": "データダウンロード",
@@ -2669,7 +2669,7 @@
   },
   "produce.schedule.audition_remain_week": {
     "japanese": "{0}まで",
-    "chinese": "剩余至{0}"
+    "chinese": "{0}剩余"
   },
   "octo.error.other.retry": {
     "japanese": "アセット取得に失敗",
@@ -3465,7 +3465,7 @@
   },
   "produce.schedule.detail_mid1_audition": {
     "japanese": "中間",
-    "chinese": "中间"
+    "chinese": "期中"
   },
   "produce_prepare.nia_master_ranking.idol_select.title": {
     "japanese": "N.I.Aマスターランキング",
@@ -3941,7 +3941,7 @@
   },
   "produce.schedule.step_exam_mid2_audition2": {
     "japanese": "2次オーディション",
-    "chinese": "二次试镜"
+    "chinese": "第二次试镜"
   },
   "produce.deck_guide.tab.mydeck": {
     "japanese": "所持スキルカード",
@@ -4761,7 +4761,7 @@
   },
   "produce.schedule.step_exam_mid1_audition2": {
     "japanese": "1次オーディション",
-    "chinese": "一次试镜"
+    "chinese": "第一次试镜"
   },
   "produce.schedule.step_exam_final_audition2": {
     "japanese": "最終オーディション",
@@ -4969,7 +4969,7 @@
   },
   "produce.schedule.animation.mid": {
     "japanese": "中間まで",
-    "chinese": "到中间"
+    "chinese": "到期中"
   },
   "home.produce.campaign": {
     "japanese": "キャンペーン中",
@@ -5509,7 +5509,7 @@
   },
   "home.gasha.draw_button.with": {
     "japanese": "で",
-    "chinese": " "
+    "chinese": ""
   },
   "produce.nia.audition_name.finalhard": {
     "japanese": "QUARTET",
@@ -7549,7 +7549,7 @@
   },
   "roster.idol_detail.fan.format": {
     "japanese": "{0:#,0}",
-    "chinese": "\"{0:#,0}\""
+    "chinese": "{0:#,0}"
   },
   "memory.tag.untagged": {
     "japanese": "タグ\n設定",
@@ -9101,7 +9101,7 @@
   },
   "shop.label.limit.count": {
     "japanese": "あと {0}回",
-    "chinese": "还剩 {0}次"
+    "chinese": "还剩{0}次"
   },
   "card.idol_card.upgrade_level_limit_confirm_sheet.message": {
     "japanese": "アイテムを消費して指定段階まで特訓を行いますか？",
@@ -9737,7 +9737,7 @@
   },
   "pvp.rate.term": {
     "japanese": "{0} 〜 {1}",
-    "chinese": "\"{0} 〜 {1}\""
+    "chinese": "{0} 〜 {1}"
   },
   "meishi.create_confirm_sheet.toast.custom_disable": {
     "japanese": "2024/9/1 メンテナンス終了後に解放",
@@ -10593,7 +10593,7 @@
   },
   "pvp.rate.point5": {
     "japanese": "{0:N0}<size=30>Pt",
-    "chinese": "\"{0:N0}<size=30>Pt\""
+    "chinese": "{0:N0}<size=30>Pt"
   },
   "produce.ranking.filter.empty": {
     "japanese": "表示できるアイドルはありません",
@@ -13585,7 +13585,7 @@
   },
   "main_task.detail.first_chapter": {
     "japanese": "初星コミュ 1章",
-    "chinese": "\"初星交流 第1章\""
+    "chinese": "初星交流 第1章"
   },
   "main_task.detail.group.lock": {
     "japanese": "{0}クリアで解放",
@@ -16553,7 +16553,7 @@
   },
   "tour.stage_detail.list.cell.button": {
     "japanese": "挑戦する",
-    "chinese": "舞台"
+    "chinese": "开始挑战"
   },
   "photography.photo.pose.disabled.look_target": {
     "japanese": "今の状態では指定できません",
@@ -16841,7 +16841,7 @@
   },
   "app_tracking_transparency_sheet.info_link": {
     "japanese": "https://legal.bandainamcoent.co.jp/privacy/Trackingdetail",
-    "chinese": "\"https://legal.bandainamcoent.co.jp/privacy/Trackingdetail\""
+    "chinese": "https://legal.bandainamcoent.co.jp/privacy/Trackingdetail"
   },
   "guild.member_dismiss.confirm.title": {
     "japanese": "メンバー除名",
@@ -17701,7 +17701,7 @@
   },
   "tour.top.button.story.unread_story_number": {
     "japanese": "{0}話解放",
-    "chinese": "{0}话解锁"
+    "chinese": "第{0}话解锁"
   },
   "research_event.white_list_sheet.rate_up.sub_title.tag": {
     "japanese": "確率UP",
@@ -18177,7 +18177,7 @@
   },
   "tour.battle_confirm.rehearsal.warning": {
     "japanese": "※報酬は獲得できません",
-    "chinese": "※奖励无法获得"
+    "chinese": "※无法获得奖励"
   },
   "invite.progress.mission_sheet.description": {
     "japanese": "招待したフレンドのPLvが上がるごとに招待Ptを獲得できます。",
@@ -19161,7 +19161,7 @@
   },
   "invite.reward_confirm_list.description": {
     "japanese": "{0}Pt 達成報酬",
-    "chinese": "\"{0}Pt 达成奖励\""
+    "chinese": "{0}Pt 达成奖励"
   },
   "invite.reward_sheet.label": {
     "japanese": "累計獲得Pt",
@@ -21213,7 +21213,7 @@
   },
   "angya.stage_detail.list.cell.gimmick": {
     "japanese": "応援/トラブル",
-    "chinese": "助力/麻烦"
+    "chinese": "应援/干扰"
   },
   "angya.stage_detail.list.cell.idol": {
     "japanese": "アイドル指定",
