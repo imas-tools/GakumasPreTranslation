@@ -269,7 +269,7 @@
     "tour.exam.continue.title": "重试确认",
     "tour.exam.continue.description": "是否重试挑战？\n技能卡的抽取顺序将被重新抽选",
     "tour.exam.continue.auto.description": "是否跳过重试挑战？\n技能卡的抽取顺序将被重新抽选",
-    "tour.exam.continue.warning": "※重试后，本次结果将被清除\n※重试次数上限为{0}次",
+    "tour.exam.continue.warning": "※重试后，本次结果将被清除\n※每消耗一张{0}，最多可以重试{1}次",
     "tour.exam.continue.button": "重试",
     "tour.exam.to_home.title": "中断确认",
     "tour.exam.to_home.description": "是否保存中断数据并返回主页？",

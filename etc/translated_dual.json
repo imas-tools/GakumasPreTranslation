@@ -21669,7 +21669,7 @@
   },
   "tour.exam.continue.warning": {
     "japanese": "<indent=1em><line-indent=-1em>※やりなおした場合、今回の結果は破棄されます\n※やりなおしは1回の{0}消費につき{1}回までできます",
-    "chinese": "※重试后，本次结果将被清除\n※重试次数上限为{0}次"
+    "chinese": "※重试后，本次结果将被清除\n※每消耗一张{0}，最多可以重试{1}次"
   },
   "tour.exam.continue.button": {
     "japanese": "やりなおす",
