@@ -2681,7 +2681,7 @@
   },
   "common.mission_point.description": {
     "japanese": "ミッションの累計ポイント報酬を獲得するために必要なポイント",
-    "chinese": "获得任务累积点数奖励所需的点数"
+    "chinese": "获得任务累计点数奖励所需的点数"
   },
   "home.other_profile_move_confirm_sheet.execute": {
     "japanese": "移動する",
