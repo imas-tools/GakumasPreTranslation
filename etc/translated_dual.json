@@ -5509,7 +5509,7 @@
   },
   "home.gasha.draw_button.with": {
     "japanese": "で",
-    "chinese": " "
+    "chinese": ""
   },
   "produce.nia.audition_name.finalhard": {
     "japanese": "QUARTET",
@@ -6205,7 +6205,7 @@
   },
   "home.gasha.detail_overlay.history": {
     "japanese": "ガシャ履歴",
-    "chinese": "扭蛋历史"
+    "chinese": "扭蛋记录"
   },
   "home.gasha.probability_detail_overlay.title": {
     "japanese": "提供割合",
@@ -6509,7 +6509,7 @@
   },
   "present.top.tab.button.history": {
     "japanese": "受取履歴",
-    "chinese": "领取历史"
+    "chinese": "领取记录"
   },
   "present.receipt.result.title": {
     "japanese": "受取完了",
@@ -7193,7 +7193,7 @@
   },
   "mission.pass.name": {
     "japanese": "{0}Pt",
-    "chinese": "{0}点"
+    "chinese": "{0}Pt"
   },
   "mission.progress.point_reward_consition": {
     "japanese": "{0}ポイント達成で以下の報酬を獲得できます",
@@ -7337,7 +7337,7 @@
   },
   "mission.pass.season_pt": {
     "japanese": "ミッションパスPt",
-    "chinese": "任务通行证点数"
+    "chinese": "任务通行证Pt"
   },
   "pvp.rate.stamina.extra_large": {
     "japanese": "特大",
@@ -7389,7 +7389,7 @@
   },
   "produce.ranking.list.history.button": {
     "japanese": "詳細履歴",
-    "chinese": "详细历史"
+    "chinese": "详细记录"
   },
   "meishi.unfollow.toast": {
     "japanese": "名刺を名刺フォルダから削除しました",
@@ -8317,7 +8317,7 @@
   },
   "card.sort.produce_plan_type": {
     "japanese": "プラン",
-    "chinese": "培育计划"
+    "chinese": "培育方案"
   },
   "meishi.edit.scale": {
     "japanese": "サイズ",
@@ -8965,7 +8965,7 @@
   },
   "mission.pass.receive.multi": {
     "japanese": "アイテムをまとめて受け取りました",
-    "chinese": "已批量领取道具"
+    "chinese": "已一键领取道具"
   },
   "exchange.confirm.consumption.label": {
     "japanese": "所持数",
@@ -9597,7 +9597,7 @@
   },
   "card.filter.show_unreleased_show": {
     "japanese": "未解放アイドルを表示",
-    "chinese": "显示"
+    "chinese": "显示未解锁偶像"
   },
   "item.transition.jewel_gasha": {
     "japanese": "ジュエル\nガシャへ",
@@ -10969,7 +10969,7 @@
   },
   "card.filter.produce_plan_type": {
     "japanese": "プラン",
-    "chinese": "培育计划"
+    "chinese": "培育方案"
   },
   "card.filter.produce_plan_type_support": {
     "japanese": "編成可能プラン",
@@ -11765,7 +11765,7 @@
   },
   "memory.detail.produce_history.button": {
     "japanese": "プロデュース履歴",
-    "chinese": "培育履历"
+    "chinese": "培育记录"
   },
   "memory.detail.produce_review.button": {
     "japanese": "プロデュース振り返り",
@@ -12097,7 +12097,7 @@
   },
   "memory.history.none": {
     "japanese": "プロデュース履歴がありません",
-    "chinese": "没有培育履历"
+    "chinese": "没有培育记录"
   },
   "memory.gift.idol_none_label": {
     "japanese": "プロデュース専用メモリー",
@@ -12477,7 +12477,7 @@
   },
   "pvp.rate.match.history": {
     "japanese": "対戦履歴",
-    "chinese": "对战履历"
+    "chinese": "对战记录"
   },
   "pvp.rate.unit.edit": {
     "japanese": "ユニット編成",
@@ -14189,7 +14189,7 @@
   },
   "mission.receive_many": {
     "japanese": "以下の報酬をまとめて受け取りました",
-    "chinese": "以下报酬已批量领取"
+    "chinese": "以下报酬已一键领取"
   },
   "mission.button.event_mission": {
     "japanese": "イベント限定",
@@ -16473,7 +16473,7 @@
   },
   "tower.ranking.stage_top.history.button": {
     "japanese": "履歴",
-    "chinese": "历史"
+    "chinese": "记录"
   },
   "live.ui.button.skip": {
     "japanese": "SKIP",
@@ -18581,7 +18581,7 @@
   },
   "tower.ranking.season_select_overlay.title.character": {
     "japanese": "総合ランキング履歴",
-    "chinese": "综合排行榜历史"
+    "chinese": "综合排行榜记录"
   },
   "guild.join.user_request_max": {
     "japanese": "加入申請の上限に達しています",
@@ -20753,7 +20753,7 @@
   },
   "tower.ranking.stage_list.sub_title.ranking": {
     "japanese": "STAGE{0}ランキング　TOP100",
-    "chinese": "STAGE{0}排行榜 TOP100"
+    "chinese": "STAGE{0}排行榜　TOP100"
   },
   "tower.ranking.stage_list.term_label": {
     "japanese": "{0}~\n{1}",
@@ -20761,7 +20761,7 @@
   },
   "tower.ranking.season_select_overlay.title.stage": {
     "japanese": "ステージ別ランキング履歴",
-    "chinese": "分舞台排行榜历史"
+    "chinese": "分舞台排行榜记录"
   },
   "tower.ranking.season_select_overlay.cell.calculation": {
     "japanese": "集計期間中です",
