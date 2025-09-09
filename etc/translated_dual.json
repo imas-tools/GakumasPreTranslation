@@ -121,7 +121,7 @@
   },
   "common.decide": {
     "japanese": "決定",
-    "chinese": "决定"
+    "chinese": "确定"
   },
   "octo.error.network.cancel": {
     "japanese": "アセット取得をキャンセルしました",
@@ -1949,7 +1949,7 @@
   },
   "download.video.title": {
     "japanese": "動画ダウンロード確認",
-    "chinese": "确认视频下载"
+    "chinese": "视频下载确认"
   },
   "produce.drink.cannot_use.notarget": {
     "japanese": "対象のスキルカードがありません。",
@@ -2181,7 +2181,7 @@
   },
   "produce.shop.end_warning.title": {
     "japanese": "相談終了確認",
-    "chinese": "确认结束咨询"
+    "chinese": "结束咨询确认"
   },
   "loading.photography.vertex.text": {
     "japanese": "撮影準備中",
@@ -5989,7 +5989,7 @@
   },
   "home.character_random_remove_sheet.title": {
     "japanese": "ランダム設定解除確認",
-    "chinese": "确认解除随机设定"
+    "chinese": "解除随机设定确认"
   },
   "home.character_random_remove_sheet.description": {
     "japanese": "ランダム設定中です\nランダム設定を解除し、アイドルを変更しますか？",
@@ -6381,7 +6381,7 @@
   },
   "home.gasha.pickup_list_overlay.unit_button": {
     "japanese": "ユニット確認",
-    "chinese": "确认组合"
+    "chinese": "组合确认"
   },
   "home.gasha.line_up_list_overlay.title": {
     "japanese": "ラインナップ",
@@ -7089,7 +7089,7 @@
   },
   "producer.level.produce_plan_type.plan1": {
     "japanese": "センスのみ",
-    "chinese": "仅感性"
+    "chinese": "仅限感性"
   },
   "mission.category.daily": {
     "japanese": "デイリー",
@@ -7793,7 +7793,7 @@
   },
   "card.filter.produce_plan_type_support.plan1": {
     "japanese": "センスのみ",
-    "chinese": "仅感性"
+    "chinese": "仅限感性"
   },
   "card.support_card.enhance_overlay.button.execute": {
     "japanese": "Lv強化",
@@ -8589,7 +8589,7 @@
   },
   "meishi.exchange.title": {
     "japanese": "名刺追加確認",
-    "chinese": "确认名片添加"
+    "chinese": "名片添加确认"
   },
   "meishi.edit_custom.toast.reset_disable": {
     "japanese": "新しく追加されたものはありません",
@@ -8609,7 +8609,7 @@
   },
   "card.filter.produce_plan_type_support.plan2": {
     "japanese": "ロジックのみ",
-    "chinese": "仅理性"
+    "chinese": "仅限理性"
   },
   "mission.pass.list.sheet.title": {
     "japanese": "ミッションパスリスト",
@@ -8785,7 +8785,7 @@
   },
   "card.idol_card.info.detail_customize": {
     "japanese": "カスタマイズ確認",
-    "chinese": "确认自定义"
+    "chinese": "自定义确认"
   },
   "card.idol_card.upgrade.potential_rank.description": {
     "japanese": "{0}を使用して才能開花を行います",
@@ -9049,7 +9049,7 @@
   },
   "card.filter.produce_plan_type_support.plan3": {
     "japanese": "アノマリーのみ",
-    "chinese": "仅异类"
+    "chinese": "仅限异类"
   },
   "main_task.detail.button.top": {
     "japanese": "章一覧",
@@ -9193,7 +9193,7 @@
   },
   "exchange.list.event.confirm.content": {
     "japanese": "イベントTOPに移動しますか？",
-    "chinese": "确认要移动到活动主页吗？"
+    "chinese": "要移动到活动TOP吗？"
   },
   "profile.common.memory": {
     "japanese": "メモリー",
@@ -10713,7 +10713,7 @@
   },
   "producer.level.produce_plan_type.plan2": {
     "japanese": "ロジックのみ",
-    "chinese": "仅理性"
+    "chinese": "仅限理性"
   },
   "achievement.true_end.receive.initial_status": {
     "japanese": "初期ステータス",
@@ -10721,7 +10721,7 @@
   },
   "producer.level.produce_plan_type.plan3": {
     "japanese": "アノマリーのみ",
-    "chinese": "仅异类"
+    "chinese": "仅限异类"
   },
   "meishi.edit_custom.sub_menu.movie.empty_movie": {
     "japanese": "保存中の動画がありません",
@@ -11397,11 +11397,11 @@
   },
   "card.idol_card.skin_unit_detail.button_label": {
     "japanese": "ユニット\n確認",
-    "chinese": "确认\n组合"
+    "chinese": "组合\n确认"
   },
   "card.idol_card.skin_unit_detail_sheet.title": {
     "japanese": "ユニット確認",
-    "chinese": "确认组合"
+    "chinese": "组合确认"
   },
   "card.support_card.list.user_card.empty": {
     "japanese": "サポートカードを所持していません",
@@ -13045,7 +13045,7 @@
   },
   "story_event.box_gasha.reset_result.sheet.title": {
     "japanese": "イベントガシャ確認",
-    "chinese": "确认重置BOX"
+    "chinese": "活动扭蛋确认"
   },
   "story_event.box_gasha.reset_result.sheet.description": {
     "japanese": "ラインナップ更新条件を達成しました\nイベントガシャを更新します",
@@ -20953,7 +20953,7 @@
   },
   "research_event.ability_reroll_confirm.title": {
     "japanese": "メモリーアビリティ再抽選確認",
-    "chinese": "确认回忆能力再抽选"
+    "chinese": "回忆能力再抽选确认"
   },
   "research_event.ability_reroll_confirm.description": {
     "japanese": "あさり先生シールを消費して、固定中以外のメモリーアビリティを再抽選しますか？",
@@ -21037,7 +21037,7 @@
   },
   "startup.gasha_point_expire_sheet.title": {
     "japanese": "交換期限確認",
-    "chinese": "确认兑换期限"
+    "chinese": "兑换期限确认"
   },
   "tour.battle_confirm.start.description": {
     "japanese": "{0}を消費して挑戦します",
@@ -21057,7 +21057,7 @@
   },
   "startup.exchange_item_expire_sheet.title": {
     "japanese": "使用期限確認",
-    "chinese": "确认使用期限"
+    "chinese": "使用期限确认"
   },
   "angya.reward.tab.clear_stage_list.count_label": {
     "japanese": "周目",
