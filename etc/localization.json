@@ -1987,7 +1987,7 @@
     "home.gasha.draw_button.item": "票据",
     "home.gasha.draw_button.item.count": "持有",
     "home.gasha.draw_button.jewel.paid": "付费",
-    "home.gasha.draw_button.with": "",
+    "home.gasha.draw_button.with": " ",
     "home.gasha.draw_jewel_confirm_sheet.commercial_transaction": "特定商取引法表示",
     "home.gasha.draw_jewel_confirm_sheet.description": "消耗<color=#u:Negative>{1:N0}</color>个{0}\n抽取{2}吗？",
     "home.gasha.draw_jewel_confirm_sheet.description.multiple_button": "消耗<color=#u:Negative>{1:N0}</color>个{0}\\n抽取{2}吗？",
