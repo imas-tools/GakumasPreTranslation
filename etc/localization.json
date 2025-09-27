@@ -5140,7 +5140,7 @@
     "story_event.box_gasha.reset_description.EmptyAll": "获得所有奖励后，BOX扭蛋的内容将自动更新。",
     "story_event.box_gasha.reset_description.EmptyFeature": "获得所有PICK UP奖励后，BOX扭蛋的内容将自动更新。",
     "story_event.box_gasha.reset_description.Optional": "通过执行奖励重置，可以随时更新BOX的列表。※执行后立即更新",
-    "story_event.box_gasha.reset_result.sheet.description": "已获得第{0}箱的所有奖励\n将更新到下一箱",
+    "story_event.box_gasha.reset_result.sheet.description": "已达成更新条件\n将会更新活动扭蛋",
     "story_event.box_gasha.reset_result.sheet.title": "活动扭蛋确认",
     "story_event.box_gasha.story_reward_gasha_count_sheet.condition": "抽取{0}次BOX扭蛋后解锁",
     "story_event.box_gasha.story_reward_gasha_count_sheet.title": "故事活动对话解锁条件",

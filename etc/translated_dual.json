@@ -13049,7 +13049,7 @@
   },
   "story_event.box_gasha.reset_result.sheet.description": {
     "japanese": "ラインナップ更新条件を達成しました\nイベントガシャを更新します",
-    "chinese": "已获得第{0}箱的所有奖励\n将更新到下一箱"
+    "chinese": "已达成更新条件\n将会更新活动扭蛋"
   },
   "story_event.box_gasha.draw.sheet.title": {
     "japanese": "イベントガシャ確認",
