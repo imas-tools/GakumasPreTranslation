@@ -6265,7 +6265,7 @@
   },
   "produce_prepare.effect_confirm_overlay.produce_card_empty": {
     "japanese": "編成中のスキルカードがありません。",
-    "chinese": " 编成中没有技能卡"
+    "chinese": "编成中没有技能卡"
   },
   "produce_prepare.deck.memory.label.rental": {
     "japanese": "レンタル",
@@ -6477,15 +6477,15 @@
   },
   "produce.audition.clear": {
     "japanese": "{0}で{1}突破",
-    "chinese": "排名在{0}名以上通过{1}"
+    "chinese": "排名在第{0}以上通过{1}"
   },
   "produce.audition.force_clear": {
     "japanese": "{0}またはスコア{1}以上で{2}突破",
-    "chinese": "排名在{0}名以上或分数在{1}以上通过{2}"
+    "chinese": "排名在第{0}以上或分数在{1}以上通过{2}"
   },
   "produce.tower.clear": {
     "japanese": "{0}で合格",
-    "chinese": "达到{0}名以上合格"
+    "chinese": "达到第{0}名合格"
   },
   "produce.audition.result.continue_count_free": {
     "japanese": "本日あと{0}回無料",
@@ -7693,7 +7693,7 @@
   },
   "produce_prepare.select_info.tab_button_3": {
     "japanese": "イベント",
-    "chinese": "事件"
+    "chinese": "活动"
   },
   "produce_prepare.select_info.resource_list.initial": {
     "japanese": "プロデュース開始時から所持",
@@ -7813,7 +7813,7 @@
   },
   "produce_prepare.effect_confirm_overlay.tab.button.event": {
     "japanese": "イベント",
-    "chinese": "事件"
+    "chinese": "活动"
   },
   "produce_prepare.effect_confirm_overlay.playing_produce_resource": {
     "japanese": "プロデュース中獲得",
@@ -10965,7 +10965,7 @@
   },
   "card.idol_card.high_score": {
     "japanese": "強化月間対象",
-    "chinese": "高分对象"
+    "chinese": "强化月对象"
   },
   "story_event.box_gasha.baloon.potential_rank_up": {
     "japanese": "ピースを集めて才能開花しよう",
