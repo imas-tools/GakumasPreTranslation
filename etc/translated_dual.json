@@ -1153,7 +1153,7 @@
   },
   "common.rule.commercial_transaction.title": {
     "japanese": "特定商取引法に基づく表示",
-    "chinese": "根据特定商业交易法案的声明"
+    "chinese": "根据特定商业交易法的声明"
   },
   "common.slash": {
     "japanese": "{0:N0}/{1:N0}",
@@ -3805,7 +3805,7 @@
   },
   "produce.high_score_rush.gold.description": {
     "japanese": "「十王邦夫のアイドル強化月間・改」で獲得できるアイテム。イベントガシャで使用できます。",
-    "chinese": "在高分活动中可获得的道具。可在活动画面中进行抽卡。"
+    "chinese": "在高分活动中可获得的道具。可在活动画面中进行抽取。"
   },
   "produce.schedule.step_exam_audition": {
     "japanese": "試験",
@@ -3997,7 +3997,7 @@
   },
   "home.gasha.free_noti.label": {
     "japanese": "無料ガシャ",
-    "chinese": "免费抽卡"
+    "chinese": "免费抽取"
   },
   "common.menu.button_type.SeminarRetry": {
     "japanese": "最初から",
@@ -7177,7 +7177,7 @@
   },
   "home.gasha.draw_jewel_confirm_sheet.commercial_transaction": {
     "japanese": "特定商取引法表示",
-    "chinese": "特定商业交易法案声明"
+    "chinese": "特定商业交易法声明"
   },
   "home.gasha.draw_jewel_confirm_sheet.select_pickup.description": {
     "japanese": "以下がピックアップに選択されています",
@@ -11001,7 +11001,7 @@
   },
   "shop.top.law2.short": {
     "japanese": "資金決済法表示",
-    "chinese": "资金结算法表示"
+    "chinese": "资金结算法声明"
   },
   "producer.level.rerole_name": {
     "japanese": "スキルカード再抽選",
@@ -11529,7 +11529,7 @@
   },
   "shop.top.law1": {
     "japanese": "特定商取引法に基づく表示",
-    "chinese": "根据特定商业交易法案的声明"
+    "chinese": "根据特定商业交易法的声明"
   },
   "produce.history.label_text.idolcard": {
     "japanese": "Pアイドル",
@@ -14569,7 +14569,7 @@
   },
   "shop.top.law1.short": {
     "japanese": "特定商取引法表示",
-    "chinese": "特定商业交易法案声明"
+    "chinese": "特定商业交易法声明"
   },
   "shop.top.law2": {
     "japanese": "資金決済法に基づく表示",
@@ -16409,11 +16409,11 @@
   },
   "story.support_card.title": {
     "japanese": "サポートコミュ",
-    "chinese": "支援回忆"
+    "chinese": "支援交流"
   },
   "story.support_card_detail.title": {
     "japanese": "サポートコミュ",
-    "chinese": "支援回忆"
+    "chinese": "支援交流"
   },
   "story.support_card_unlock_sheet.title": {
     "japanese": "使用確認",
@@ -18001,7 +18001,7 @@
   },
   "high_score_event.top.reward_character": {
     "japanese": "{0:N0}Pt\nで獲得",
-    "chinese": "获得{0:N0}Pt"
+    "chinese": "{0:N0}Pt\n可获得"
   },
   "dearness.dearness_level_detail_sheet.first_story_unlock_hint": {
     "japanese": "プロデュースを開始する",
@@ -18773,7 +18773,7 @@
   },
   "others.top.button.commercial_transaction": {
     "japanese": "特定商取引法に基づく表示",
-    "chinese": "根据特定商业交易法案的声明"
+    "chinese": "根据特定商业交易法的声明"
   },
   "seminar.sheet.retire_description": {
     "japanese": "<color=#u:Negative>リタイアすると進行中の研修データは削除されます</color>\nリタイアして研修TOPに戻りますか？",
