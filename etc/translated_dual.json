@@ -3596,7 +3596,7 @@
         "japanese": "大成功確率"
     },
     "produce.shop.delete_description": {
-        "chinese": "可以消除一张持有的技能卡。",
+        "chinese": "可以删除一张持有的技能卡。",
         "japanese": "所持しているスキルカードを\n1枚削除できます。"
     },
     "common.network.error.in_maintenance.description": {
@@ -4376,7 +4376,7 @@
         "japanese": "編成中のメモリーです"
     },
     "produce_plan_type_condition_sheet.description.plan3": {
-        "chinese": "仅限方案：异类的培育用偶像时可以编成",
+        "chinese": "仅限方案：非凡的培育用偶像时可以编成",
         "japanese": "プラン：アノマリーのプロデュースアイドルのプロデュース時のみ編成可能です"
     },
     "common.produce_item": {
@@ -4784,7 +4784,7 @@
         "japanese": "レジェンドダンスレッスン"
     },
     "common.plan3": {
-        "chinese": "异类",
+        "chinese": "非凡",
         "japanese": "アノマリー"
     },
     "produce_prepare.effect_confirm_overlay.tab.button.ability": {
@@ -6540,7 +6540,7 @@
         "japanese": "チェンジ不可能なスキルカードです"
     },
     "card.info.idol_card.plan_condition.plan3": {
-        "chinese": "仅限异类",
+        "chinese": "仅限非凡",
         "japanese": "アノマリー限定"
     },
     "produce.card.select_none_title": {
@@ -6720,7 +6720,7 @@
         "japanese": "引く"
     },
     "card.filter.produce_plan_type_support.plan3": {
-        "chinese": "仅限异类",
+        "chinese": "仅限非凡",
         "japanese": "アノマリーのみ"
     },
     "produce.lesson.log.detail.turn.add": {
@@ -9680,7 +9680,7 @@
         "japanese": "プロデュースで以下が解放されました"
     },
     "producer.level.idol_plan3": {
-        "chinese": "异类偶像",
+        "chinese": "非凡偶像",
         "japanese": "アノマリーのアイドル"
     },
     "producer.level.header_reward_complete": {
@@ -9720,7 +9720,7 @@
         "japanese": "ロジックのみ"
     },
     "producer.level.produce_plan_type.plan3": {
-        "chinese": "仅限异类",
+        "chinese": "仅限非凡",
         "japanese": "アノマリーのみ"
     },
     "producer.level.button.conversion_setting": {
