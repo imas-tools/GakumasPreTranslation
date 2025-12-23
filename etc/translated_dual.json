@@ -13,7 +13,7 @@
   },
   "common.menu.button_type.TowerHighScore": {
     "japanese": "最高スコア",
-    "chinese": "最高分数"
+    "chinese": "最高得分"
   },
   "common.ranking.reward_list.cell.shortfall_point": {
     "japanese": "あと{0:N0}Pt",
@@ -357,7 +357,7 @@
   },
   "research_event.ranking.my_character_score": {
     "japanese": "{0}　マイスコア",
-    "chinese": "{0}　个人分数"
+    "chinese": "{0}　个人得分"
   },
   "research_event.ranking.character_rank": {
     "japanese": "{0}　TOP100",
@@ -1629,7 +1629,7 @@
   },
   "produce.lesson.no_diff.contest": {
     "japanese": "スコア上昇なし",
-    "chinese": "分数无提升"
+    "chinese": "得分无提升"
   },
   "produce.lesson.remain_turn_passed": {
     "japanese": "ターン前",
@@ -3189,7 +3189,7 @@
   },
   "common.menu.button_type.DataLinkage": {
     "japanese": "データ連携",
-    "chinese": "数据连携"
+    "chinese": "数据关联"
   },
   "produce.schedule.step_shop": {
     "japanese": "相談",
@@ -3409,7 +3409,7 @@
   },
   "produce.log.detail.title.audition_npc_enhance": {
     "japanese": "ライバルのスコア増加",
-    "chinese": "对手分数增加"
+    "chinese": "对手得分增加"
   },
   "home.character_random_select_sheet.random_costume": {
     "japanese": "衣装のみ",
@@ -3497,7 +3497,7 @@
   },
   "title.data_link": {
     "japanese": "データ連携",
-    "chinese": "数据连携"
+    "chinese": "数据关联"
   },
   "common.ranking.reward_list.cell.detail.label": {
     "japanese": "もっとみる",
@@ -4081,7 +4081,7 @@
   },
   "produce.log.audition_result.detail": {
     "japanese": "スコア <color=#u:Positive>{0}</color>",
-    "chinese": "分数 <color=#u:Positive>{0}</color>"
+    "chinese": "得分 <color=#u:Positive>{0}</color>"
   },
   "home.gasha.costume_button.head_only": {
     "japanese": "髪型",
@@ -5693,7 +5693,7 @@
   },
   "produce.audition.force_clear": {
     "japanese": "{0}またはスコア{1}以上で{2}突破",
-    "chinese": "排名在第{0}以上或分数在{1}以上通过{2}"
+    "chinese": "排名在第{0}以上或得分在{1}以上通过{2}"
   },
   "produce.tower.clear": {
     "japanese": "{0}で合格",
@@ -7205,7 +7205,7 @@
   },
   "produce.ranking.list.cell.ranking_score": {
     "japanese": "最高スコア",
-    "chinese": "最高分数"
+    "chinese": "最高得分"
   },
   "home.money_received_sheet.max": {
     "japanese": "MAX",
@@ -8569,7 +8569,7 @@
   },
   "produce.ranking.sort.score": {
     "japanese": "スコア",
-    "chinese": "分数"
+    "chinese": "得分"
   },
   "produce_prepare.support_card.deck_name_edit_sheet.description": {
     "japanese": "サポートカード編成名を入力してください",
@@ -9713,7 +9713,7 @@
   },
   "produce.ranking.list.subtitle.myscore": {
     "japanese": "マイスコア",
-    "chinese": "个人分数"
+    "chinese": "个人得分"
   },
   "shop.label.jewel_free": {
     "japanese": "所持無償ジュエル",
@@ -14209,11 +14209,11 @@
   },
   "story_event.guild_mission.join_sheet.confirm": {
     "japanese": "連携ミッション",
-    "chinese": "联动任务"
+    "chinese": "连携任务"
   },
   "story_event.guild_mission.join_sheet.guild_description": {
     "japanese": "連携ミッションはサークルに加入することで参加できます。\nサークルへ移動しますか？",
-    "chinese": "加入社团即可参与联动任务。\n要移动至社团吗？"
+    "chinese": "加入社团即可参与连携任务。\n要移动至社团吗？"
   },
   "story.main.title": {
     "japanese": "初星コミュ",
@@ -17473,7 +17473,7 @@
   },
   "competition.unit_slot_edit.score_bonus": {
     "japanese": "スコアボーナス",
-    "chinese": "分数加成"
+    "chinese": "得分加成"
   },
   "friend.delete_follower_confirm_sheet.description": {
     "japanese": "フォロワーを解除してよろしいですか？",
@@ -17545,7 +17545,7 @@
   },
   "high_score_event.ranking.my_character_score": {
     "japanese": "{0}　マイスコア",
-    "chinese": "{0}　个人分数"
+    "chinese": "{0}　个人得分"
   },
   "competition.unit.win_count": {
     "japanese": "勝",
@@ -17629,7 +17629,7 @@
   },
   "competition.ranking.label.own_score": {
     "japanese": "マイスコア",
-    "chinese": "个人分数"
+    "chinese": "个人得分"
   },
   "guild.donation.receive": {
     "japanese": "リクエスト受け取り",
@@ -18945,7 +18945,7 @@
   },
   "high_score_event.ranking.my_total_score": {
     "japanese": "マイスコア合計",
-    "chinese": "累计个人分数"
+    "chinese": "累计个人得分"
   },
   "competition.unit_edit.reset": {
     "japanese": "リセット",
@@ -19081,7 +19081,7 @@
   },
   "tour.ranking.sub_title.my_score": {
     "japanese": "マイスコア",
-    "chinese": "个人分数"
+    "chinese": "个人得分"
   },
   "tower.no_organized_confirm_sheet.alert": {
     "japanese": "※自動でデフォルトメモリーが編成されます",
@@ -19369,7 +19369,7 @@
   },
   "high_score_event.ranking.total_rank": {
     "japanese": "スコア合計　TOP100",
-    "chinese": "累计分数 TOP100"
+    "chinese": "累计得分 TOP100"
   },
   "data.linkage.first_confirm.description": {
     "japanese": "ゲームデータとバンダイナムコIDを連携させることで異なる端末や異なるプラットフォームでも引き続き同じデータでゲームをプレイすることができます。\nバンダイナムコIDへログインしデータ連携を行いますか？",
@@ -19565,7 +19565,7 @@
   },
   "angya.stage_detail.list.cell.play_reward.notes": {
     "japanese": "※スコアにより報酬量変化",
-    "chinese": "※奖励量根据分数变化。"
+    "chinese": "※奖励量根据得分变化。"
   },
   "startup.shop.update.day": {
     "japanese": "あと{0}日で終了",
@@ -19573,7 +19573,7 @@
   },
   "producer_ranking.character_detail.produce_evaluation": {
     "japanese": "最高スコア",
-    "chinese": "最高分数"
+    "chinese": "最高得分"
   },
   "setting.quality.param.high": {
     "japanese": "高",
@@ -20077,7 +20077,7 @@
   },
   "data.linkage.first_confirm.title": {
     "japanese": "データ連携",
-    "chinese": "数据连携"
+    "chinese": "数据关联"
   },
   "others.top.title": {
     "japanese": "その他",
@@ -21157,7 +21157,7 @@
   },
   "competition.battle_log.score": {
     "japanese": "スコア",
-    "chinese": "分数"
+    "chinese": "得分"
   },
   "costume.select.tab.home": {
     "japanese": "ホーム",
@@ -22077,7 +22077,7 @@
   },
   "producer_ranking.character_detail_sheet.tower_highscore.label": {
     "japanese": "最高スコア",
-    "chinese": "最高分数"
+    "chinese": "最高得分"
   },
   "setting.preference.fullscreen.disable_portrait_monitor.toast": {
     "japanese": "ご利用のモニターではお使いいただけません",
@@ -22277,7 +22277,7 @@
   },
   "data.migrate.start.title": {
     "japanese": "データ連携",
-    "chinese": "数据连携"
+    "chinese": "数据关联"
   },
   "data.migrate.start.description": {
     "japanese": "すでに学園アイドルマスターをプレイしているアカウントがある場合は連携を選択してください。",
@@ -22625,7 +22625,7 @@
   },
   "tower.ranking.character.sub_title.self": {
     "japanese": "マイスコア総合",
-    "chinese": "个人分数总和"
+    "chinese": "个人得分总和"
   },
   "tower.ranking.character.sub_title.ranking": {
     "japanese": "総合ランキング　TOP100",
@@ -22657,7 +22657,7 @@
   },
   "tower.ranking.stage_list.sub_title.self": {
     "japanese": "STAGE{0}　マイスコア",
-    "chinese": "STAGE{0} 个人分数"
+    "chinese": "STAGE{0} 个人得分"
   },
   "tower.ranking.stage_list.sub_title.ranking": {
     "japanese": "STAGE{0}ランキング　TOP100",
@@ -23353,7 +23353,7 @@
   },
   "competition.unit_edit.support_card_bonus_sheet.description": {
     "japanese": "コンテストのボーカル・ダンス・ビジュアルの各スコアボーナスに対してかかるボーナスです。",
-    "chinese": "作用于竞技场歌唱・舞蹈・视觉的各项分数加成上的额外加成"
+    "chinese": "作用于竞技场歌唱・舞蹈・视觉的各项得分加成上的额外加成"
   },
   "competition.unit_edit.support_card_bonus_sheet.percentage30": {
     "japanese": "{0}<size=30>%</size>",
@@ -23365,7 +23365,7 @@
   },
   "competition.unit_edit.support_card_bonus_sheet.after_description2": {
     "japanese": "・所持しているサポートカードのボーナスの\n　合計がコンテストのスコアボーナスに対して\n　かかるボーナスになります",
-    "chinese": "・持有的辅助技能卡加成会进行累积，并作为\n  作用于竞技场各项分数加成上的额外加成"
+    "chinese": "・持有的辅助技能卡加成会进行累积，并作为\n  作用于竞技场各项得分加成上的额外加成"
   },
   "competition.unit_slot_edit.change": {
     "japanese": "変更",
@@ -23937,7 +23937,7 @@
   },
   "angya.stage_challenge_reward_sheet.description": {
     "japanese": "獲得スコアによって報酬が増加します",
-    "chinese": "根据获得的分数增加奖励"
+    "chinese": "根据获得的得分增加奖励"
   },
   "angya.guild_detail_overlay.tab.guild_rank_list": {
     "japanese": "サークルランキング",
@@ -24005,7 +24005,7 @@
   },
   "angya.result.score": {
     "japanese": "獲得スコア",
-    "chinese": "获得分数"
+    "chinese": "获得得分"
   },
   "angya.result.score_remain": {
     "japanese": "あと",
@@ -24037,7 +24037,7 @@
   },
   "angya.point_progress.progress.score": {
     "japanese": "獲得スコア",
-    "chinese": "获得分数"
+    "chinese": "获得得分"
   },
   "angya.point_progress.progress.label": {
     "japanese": "イベント報酬進捗",
@@ -24133,7 +24133,7 @@
   },
   "producer_ranking.ranking_list.subtitle.self": {
     "japanese": "{0} マイスコア",
-    "chinese": "{0} 个人分数"
+    "chinese": "{0} 个人得分"
   },
   "upload_meishi_error_sheet.title": {
     "japanese": "エラー",
@@ -24233,7 +24233,7 @@
   },
   "tour.stage.best_score_label": {
     "japanese": "最高スコア",
-    "chinese": "最高分数"
+    "chinese": "最高得分"
   },
   "tour.stage.judging_trend": {
     "japanese": "審査基準",
