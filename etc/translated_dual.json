@@ -21,7 +21,7 @@
   },
   "home.gasha.continuos.title": {
     "japanese": "最大継続記録",
-    "chinese": "最大继续记录"
+    "chinese": "最大续抽记录"
   },
   "tower.high_score_confirm_sheet.stage_number": {
     "japanese": "STAGE{0}",
@@ -53,7 +53,7 @@
   },
   "home.produce_card_convert": {
     "japanese": "スキルカードスイッチ",
-    "chinese": "技能卡转换"
+    "chinese": "技能卡替换"
   },
   "produce.item.card_count_confirm.title": {
     "japanese": "スキルカード枚数詳細",
@@ -125,7 +125,7 @@
   },
   "home.idol.produce.list": {
     "japanese": "プロデュース編成・スキルカード",
-    "chinese": "培育编成・技能卡"
+    "chinese": "培育编成・技能卡替换"
   },
   "home.idol.produce.edit": {
     "japanese": "編成",
@@ -137,7 +137,7 @@
   },
   "home.gasha.result.continuous.continuing_suffix": {
     "japanese": "回継続中",
-    "chinese": "次继续中"
+    "chinese": "次续抽中"
   },
   "home.gasha.result.continuous.draw_suffix": {
     "japanese": "連引く",
@@ -149,7 +149,7 @@
   },
   "home.gasha.continuous_share.continuing": {
     "japanese": "継続!",
-    "chinese": "继续!"
+    "chinese": "续抽!"
   },
   "home.gasha.continuous_share_overlay.toast.no_permissions": {
     "japanese": "端末に保存が許可されていません",
@@ -161,7 +161,7 @@
   },
   "home.idol.produce.produce_card.card_convert": {
     "japanese": "スキルカードスイッチ",
-    "chinese": "技能卡转换"
+    "chinese": "技能卡替换"
   },
   "home.idol.produce.produce_card.card_convert.locked_label": {
     "japanese": "PLv{0}で解放",
@@ -197,7 +197,7 @@
   },
   "home.gasha.continuos.total_continued_count.suffix": {
     "japanese": "回継続",
-    "chinese": "次继续"
+    "chinese": "次续抽"
   },
   "home.gasha.continuos.total_draw_count.prefix": {
     "japanese": "(合計",
@@ -241,7 +241,7 @@
   },
   "home.gasha.result.continuous.ending_suffix": {
     "japanese": "回継続",
-    "chinese": "次继续"
+    "chinese": "次续抽"
   },
   "home.gasha.result.continuous.total_draw_count_suffix": {
     "japanese": "連）",
@@ -249,7 +249,7 @@
   },
   "home.gasha.result.continuous.new_record": {
     "japanese": "継続記録更新！",
-    "chinese": "继续记录更新！"
+    "chinese": "续抽记录更新！"
   },
   "home.gasha.continuous_share.p_id": {
     "japanese": "P-ID",
@@ -1993,7 +1993,7 @@
   },
   "produce.card.other_type.producecardconvert": {
     "japanese": "スキルカードスイッチ",
-    "chinese": "技能卡转换"
+    "chinese": "技能卡替换"
   },
   "common.support_card.category": {
     "japanese": "サポートカード",
@@ -2121,7 +2121,7 @@
   },
   "produce.contest.toggle.end.toast": {
     "japanese": "視点の切り替えができません",
-    "chinese": "无法切换视点"
+    "chinese": "无法切换视角"
   },
   "produce.remove.select.title": {
     "japanese": "削除",
@@ -2624,7 +2624,7 @@
     "chinese": "跳过这个视频吗？"
   },
   "produce.select.restrict": {
-    "japanese": "使用不可能なスキルカードです。",
+    "japanese": "不可使用<nobr>"能なスキルカードです。",
     "chinese": "无法使用的技能卡"
   },
   "common.jewel_owned": {
@@ -4540,7 +4540,7 @@
     "chinese": "已达到选择卡牌上限"
   },
   "produce.select.restrict.name": {
-    "japanese": "使用不可",
+    "japanese": "不可使用",
     "chinese": "不可使用"
   },
   "produce.card.filter.unlock_type": {
@@ -5953,7 +5953,7 @@
   },
   "produce.legend.release.overlay.description": {
     "japanese": "難易度:レジェンド",
-    "chinese": "难易度:传奇"
+    "chinese": "难易度:Legend"
   },
   "home.top.title": {
     "japanese": "ホーム",
@@ -6633,7 +6633,7 @@
   },
   "memory.inherit.select_produce_card.description": {
     "japanese": "選択したコンテスト用スキルカードを、合成に使用したメモリーが持つコンテスト用スキルカードの中からランダムに選ばれたカードと入れ替えます。",
-    "chinese": "将选择的竞技场技能卡，与用于合成的回忆所拥有的随机一个竞技场技能卡进行替换。"
+    "chinese": "将选择的竞技场技能卡，与用于合成的回忆所拥有的随机一个竞技场技能卡进行更换。"
   },
   "story.voice_setting_sheet.title": {
     "japanese": "ボイス再生確認",
@@ -6797,7 +6797,7 @@
   },
   "memory.inherit.select_memory.no_select": {
     "japanese": "入れ替えるメモリーを選択してください",
-    "chinese": "请选择要替换的回忆"
+    "chinese": "请选择要更换的回忆"
   },
   "support_card.filter.produce_event.producecarddelete": {
     "japanese": "スキルカード削除",
@@ -8137,7 +8137,7 @@
   },
   "memory.inherit.select_produce_card.unselected.toast": {
     "japanese": "入れ替えるスキルカードを選択してください",
-    "chinese": "请选择要替换的技能卡"
+    "chinese": "请选择要更换的技能卡"
   },
   "meishi.top.toast.cant_delete_profile_meishi": {
     "japanese": "設定中の名刺は削除できません",
@@ -8465,7 +8465,7 @@
   },
   "producer.level.conversion": {
     "japanese": "スイッチ対象",
-    "chinese": "转换目标"
+    "chinese": "替换目标"
   },
   "exchange.product.menu.list.cell.reset.month": {
     "japanese": "月更新",
@@ -9305,7 +9305,7 @@
   },
   "produce_prepare.top.button.conversion": {
     "japanese": "スキルカード\nスイッチ",
-    "chinese": "技能卡\n转换"
+    "chinese": "技能卡\n替换"
   },
   "story.story_event_unlock_sheet.unlock_toast": {
     "japanese": "コミュを解放しました",
@@ -9605,7 +9605,7 @@
   },
   "producer.level.label.conversion": {
     "japanese": "スキルカードスイッチ",
-    "chinese": "技能卡转换"
+    "chinese": "技能卡替换"
   },
   "picturebook.live.select.hover.arranger": {
     "japanese": "編曲：{0}",
@@ -10837,7 +10837,7 @@
   },
   "produce_prepare.support_card_deck_edit.change_execute": {
     "japanese": "入れ替える",
-    "chinese": "替换"
+    "chinese": "更换"
   },
   "produce_prepare.memory_deck_name": {
     "japanese": "メモリー編成 {0}",
@@ -10913,7 +10913,7 @@
   },
   "produce_prepare.select_info.skill_list.button.conversion": {
     "japanese": "スキルカードスイッチ設定",
-    "chinese": "技能卡转换设置"
+    "chinese": "技能卡替换设置"
   },
   "produce_prepare.template_copy.copy_complete_message": {
     "japanese": "コピーしました",
@@ -11061,7 +11061,7 @@
   },
   "produce_prepare.memory_select_list.label.disabled_conversion": {
     "japanese": "スイッチ制限",
-    "chinese": "转换限制"
+    "chinese": "替换限制"
   },
   "meishi.edit_custom.sub_menu.photo.album": {
     "japanese": "アルバム",
@@ -11553,7 +11553,7 @@
   },
   "producer.level.button.conversion_setting": {
     "japanese": "スイッチ設定へ",
-    "chinese": "前往转换设置"
+    "chinese": "前往替换设置"
   },
   "produce_plan_type_detail_sheet.description": {
     "japanese": "プロデュースの方向性を示すもので、プロデュースアイドルごとに決められています。登場するスキルカードやPアイテムの種類がプランごとに異なります。",
@@ -12709,7 +12709,7 @@
   },
   "conversion.top.label.title": {
     "japanese": "スキルカードスイッチ",
-    "chinese": "技能卡转换"
+    "chinese": "技能卡替换"
   },
   "photo.filter.sheet.description": {
     "japanese": "※撮影時に選択したアイドルで絞り込みができます",
@@ -12717,7 +12717,7 @@
   },
   "conversion.top.label.description": {
     "japanese": "プロデュース中に登場するスキルカードを切り替えることができます\n※進行中や中断中のプロデュースに、変更は適用されません",
-    "chinese": "可以切换培育过程中登场的技能卡\n※此变更不适用于正在进行中或中断中的培育"
+    "chinese": "可以替换培育过程中登场的技能卡\n※此变更不适用于正在进行中或处于中断中的培育"
   },
   "conversion.top.label.lock_level": {
     "japanese": "PLv{0}で解放",
@@ -12741,23 +12741,23 @@
   },
   "conversion.top.confirm.title": {
     "japanese": "スキルカードスイッチ確認",
-    "chinese": "技能卡转换确认"
+    "chinese": "技能卡替换确认"
   },
   "conversion.top.confirm.description": {
     "japanese": "スイッチが保存されていません\nスキルカードをスイッチせず、戻りますか？",
-    "chinese": "转换未保存\n是否不转换技能卡并返回？"
+    "chinese": "替换未保存\n是否不替换技能卡并返回？"
   },
   "conversion.detail_sheet.title": {
     "japanese": "スキルカードスイッチ詳細",
-    "chinese": "技能卡转换详情"
+    "chinese": "技能卡替换详情"
   },
   "conversion.detail_sheet.label.button": {
     "japanese": "スイッチ設定",
-    "chinese": "转换设置"
+    "chinese": "替换设置"
   },
   "conversion.detail_sheet.toast.locked": {
     "japanese": "未解放のスキルカードはスイッチできません",
-    "chinese": "无法转换未解锁的技能卡"
+    "chinese": "无法替换未解锁的技能卡"
   },
   "memory.live_place.unknown": {
     "japanese": "---",
@@ -13305,7 +13305,7 @@
   },
   "memory.inherit.select_memory.conversion_disable.toast": {
     "japanese": "同じスイッチグループを複数枚もつように合成はできません",
-    "chinese": "同じ转换グループを複数枚もつように合成はできません"
+    "chinese": "同じ替换グループを複数枚もつように合成はできません"
   },
   "shop.coin_gasha.line_up_list_overlay.reset_remain_time_text": {
     "japanese": "報酬リセットまで",
@@ -13721,7 +13721,7 @@
   },
   "pvp.rate.produce_card_label.disabled_conversion": {
     "japanese": "スイッチ",
-    "chinese": "转换"
+    "chinese": "替换"
   },
   "guild.description": {
     "japanese": "サークル紹介文",
@@ -13733,7 +13733,7 @@
   },
   "pvp.rate.skill_card.disabled_conversion.toast": {
     "japanese": "スイッチ設定がOFFのスキルカードです",
-    "chinese": "转换设置为关闭的技能卡"
+    "chinese": "替换设置为关闭的技能卡"
   },
   "pvp.rate.bonus.percent": {
     "japanese": "{0}<size=24>%",
@@ -14201,7 +14201,7 @@
   },
   "picturebook.produce_collection.conversion": {
     "japanese": "スイッチで入手",
-    "chinese": "通过转换获得"
+    "chinese": "通过替换获得"
   },
   "story_event.result.expired.description": {
     "japanese": "イベントは終了しました",
@@ -19465,7 +19465,7 @@
   },
   "competition.unit_edit.converted_card": {
     "japanese": "スイッチ設定が無効状態のスキルカードです",
-    "chinese": "这是转换设置为无效状态的技能卡"
+    "chinese": "这是替换设置为无效状态的技能卡"
   },
   "angya.receive_clear_stage_reward_overlay.title": {
     "japanese": "ステージクリア報酬獲得",
