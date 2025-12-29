@@ -655,7 +655,7 @@
     "produce.reward.exclude.sheet.description": "このスキルカードを除去しますか？",
     "common.jewel": "ジュエル",
     "common.video.startup.stop_confirm": "この動画をスキップしますか？",
-    "produce.select.restrict": "不可使用<nobr>"能なスキルカードです。",
+    "produce.select.restrict": "使用不可能なスキルカードです。",
     "common.jewel_owned": "所持ジュエル",
     "common.jewel_paid_only": "有償ジュエル",
     "produce.lesson.phase_remain_turn": "残り{0}ターン",

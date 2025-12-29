@@ -2624,7 +2624,7 @@
     "chinese": "跳过这个视频吗？"
   },
   "produce.select.restrict": {
-    "japanese": "不可使用<nobr>"能なスキルカードです。",
+    "japanese": "使用不可能なスキルカードです。",
     "chinese": "无法使用的技能卡"
   },
   "common.jewel_owned": {
