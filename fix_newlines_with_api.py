@@ -26,7 +26,7 @@ def validate_translation(original_text, translated_text, target_newline_count):
     要求：
     1. \n 数量必须与原文一致
     2. \n 不能出现在译文的头尾
-    3. \n 不能把完整的词语切断（检查 \n 前后是否有合理的断句）
+    3. \n 不能把英文单词切断
     """
     # 检查 \n 数量
     actual_count = count_newlines(translated_text)
@@ -37,15 +37,22 @@ def validate_translation(original_text, translated_text, target_newline_count):
     if translated_text.startswith('\\n') or translated_text.endswith('\\n'):
         return False, "\\n 不应出现在译文的头尾"
     
-    # 检查 \n 是否合理分隔（简单检查：\n 前后应该是完整的字符，不是字母数字的中间）
+    # 检查 \n 是否切断了英文单词（只检查英文字母，不检查中文和数字）
     parts = translated_text.split('\\n')
     for i, part in enumerate(parts):
-        if i > 0 and part and part[0].isalnum():
-            # 检查是否可能是单词中间被切断
+        if i > 0 and part:
             prev_part = parts[i-1]
-            if prev_part and prev_part[-1].isalnum() and prev_part[-1].encode('utf-8').isalpha() == part[0].encode('utf-8').isalpha():
-                # 如果前后都是字母或都是数字，可能是切断了单词
-                return False, f"\\n 可能切断了完整词语: ...{prev_part[-10:]}\\n{part[:10]}..."
+            if prev_part:
+                # 获取 \n 前后的字符
+                char_before = prev_part[-1] if prev_part else ''
+                char_after = part[0] if part else ''
+                
+                # 只检查英文字母：如果 \n 前后都是英文字母（a-z, A-Z），则可能切断了单词
+                is_english_before = char_before.isascii() and char_before.isalpha()
+                is_english_after = char_after.isascii() and char_after.isalpha()
+                
+                if is_english_before and is_english_after:
+                    return False, f"\\n 切断了英文单词: ...{prev_part[-10:]}\\n{part[:10]}..."
     
     return True, "验证通过"
 
