@@ -22461,7 +22461,7 @@
   },
   "tower.stage.achieve.until.rankup": {
     "japanese": "アチーブメント\nランクアップまで",
-    "chinese": "成就\n升级为止"
+    "chinese": "距成就升级剩余"
   },
   "producer_ranking.top.rank.not_challenge_label": {
     "japanese": "未参加",
