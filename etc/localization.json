@@ -5614,7 +5614,7 @@
     "tower.top.reward_confirm_description_3": "可以获得奖励",
     "tower.top.ranking.button": "综合排行榜",
     "competition.unit_slot_edit.status": "状态",
-    "tower.stage.achieve.until.rankup": "成就\n升级为止",
+    "tower.stage.achieve.until.rankup": "距成就升级剩余",
     "producer_ranking.top.rank.not_challenge_label": "未参加",
     "angya.stage_detail.list.cell.judging_trend": "审查基准",
     "tower.stage.achieve.disable": "未满足升级条件",
