@@ -4309,7 +4309,7 @@
   },
   "produce.select.max": {
     "japanese": "{0}枚まで好きな数選択してください",
-    "chinese": "请选择不超过 {0} 张"
+    "chinese": "请选择不超过{0}张"
   },
   "produce.select.back": {
     "japanese": "選択に戻る",
