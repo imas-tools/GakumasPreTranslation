@@ -1076,7 +1076,7 @@
     "produce.lesson.log.detail.card_force_play": "使用「{0}」",
     "produce.select.min": "请选择至少 {0} 张",
     "produce.filter.common.exam_effect.title": "搜索效果",
-    "produce.select.max": "请选择不超过 {0} 张",
+    "produce.select.max": "请选择不超过{0}张",
     "produce.select.back": "返回选择",
     "produce.select.limit": "已达到选择卡牌上限",
     "produce.select.restrict.name": "不可使用",
