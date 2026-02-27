@@ -2025,7 +2025,7 @@
   },
   "resume.confirm.tap": {
     "japanese": "画面タップで再開",
-    "chinese": "轻触画面重新开始"
+    "chinese": "点击屏幕继续"
   },
   "produce.log.detail.title.business.success": {
     "japanese": "成功",
@@ -3509,7 +3509,7 @@
   },
   "produce.item.card_count_confirm.default": {
     "japanese": "名前に「基本」を含むスキルカード",
-    "chinese": "名称中包含「基本」的技能卡"
+    "chinese": "名称中包含「基础」的技能卡"
   },
   "produce.item.card_count_confirm.count_suffix": {
     "japanese": "枚",
