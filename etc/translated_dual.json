@@ -85,7 +85,7 @@
   },
   "tour.event_bonus.support_card_bonus.description": {
     "japanese": "対象のサポートカードを所持しているとイベントボーナスがつき、イベントステージから獲得するイベントPtの獲得数が増えます。\nまた解放段階が上がるほどボーナスの値が大きくなります。",
-    "chinese": "持有目标支援卡时会获得活动加成，从活动舞台中获得的活动Pt获得数量会增加。\n此外，支援卡的解放阶段越高，加成的值越大。"
+    "chinese": "持有目标支援卡时会获得活动加成，从活动舞台中获得的活动Pt获得数量会增加。\n此外，支援卡的解锁阶段越高，加成的值越大。"
   },
   "meishi_block.button.block": {
     "japanese": "名刺ブロック",
@@ -861,7 +861,7 @@
   },
   "produce.schedule.step_exam_vi_sp": {
     "japanese": "SP ビジュアルレッスン",
-    "chinese": "SP Vi.课程"
+    "chinese": "SP Vi.训练"
   },
   "common.100million_unit": {
     "japanese": "億",
@@ -1061,7 +1061,7 @@
   },
   "produce.lesson": {
     "japanese": "レッスン",
-    "chinese": "课程"
+    "chinese": "训练"
   },
   "common.link.text": {
     "japanese": "<link=\"{0}\">{1}</link>",
@@ -1197,7 +1197,7 @@
   },
   "produce.schedule.step_exam_vi.short": {
     "japanese": "Vi.レッスン",
-    "chinese": "Vi.课程"
+    "chinese": "Vi.训练"
   },
   "common.deeplink": {
     "japanese": "idolmastergakuen-universallinks://com.bandainamcoent.idolmaster_gakuen?{0}",
@@ -1285,7 +1285,7 @@
   },
   "produce.log.detail.title.lesson_present_produce_card_reward_count_up": {
     "japanese": "レッスン報酬カード数",
-    "chinese": "课程奖励卡数量"
+    "chinese": "训练奖励卡数量"
   },
   "time.mdhm": {
     "japanese": "{0}/{1} {2}:{3}",
@@ -2097,7 +2097,7 @@
   },
   "produce.log.detail.title.exam_permanent_lesson_status_enchant": {
     "japanese": "レッスン時効果（累積）の追加",
-    "chinese": "课程时效果（累计）的追加"
+    "chinese": "训练时效果（累计）的追加"
   },
   "produce.lesson.max_stamina": {
     "japanese": "最大体力",
@@ -2517,7 +2517,7 @@
   },
   "produce.confirm_limit_parameter_sheet.lesson.title": {
     "japanese": "レッスンパラメータ上限",
-    "chinese": "课程属性值上限"
+    "chinese": "训练属性值上限"
   },
   "common.user.level": {
     "japanese": "PLv{0}",
@@ -2617,7 +2617,7 @@
   },
   "produce.schedule.step_exam_da_legend": {
     "japanese": "レジェンドダンスレッスン",
-    "chinese": "传奇舞蹈课程"
+    "chinese": "传奇舞蹈训练"
   },
   "common.common": {
     "japanese": "共通",
@@ -2737,7 +2737,7 @@
   },
   "produce.schedule.step_exam_vo.short": {
     "japanese": "Vo.レッスン",
-    "chinese": "Vo.课程"
+    "chinese": "Vo.训练"
   },
   "produce.shop.confirm_title": {
     "japanese": "交換確認",
@@ -3253,7 +3253,7 @@
   },
   "produce.schedule.step_exam_da_legend_sp": {
     "japanese": "SP レジェンドダンスレッスン",
-    "chinese": "SP 传奇舞蹈课程"
+    "chinese": "SP 传奇舞蹈训练"
   },
   "produce.audition": {
     "japanese": "試験",
@@ -3305,7 +3305,7 @@
   },
   "produce.confirm_stamina_sheet.title": {
     "japanese": "レッスン開始確認",
-    "chinese": "课程开始确认"
+    "chinese": "训练开始确认"
   },
   "produce.info.status.button": {
     "japanese": "編成詳細",
@@ -3341,7 +3341,7 @@
   },
   "produce.schedule.step_exam_vi_legend": {
     "japanese": "レジェンドビジュアルレッスン",
-    "chinese": "传奇视觉课程"
+    "chinese": "传奇视觉训练"
   },
   "produce.memory_money_shortage.close_button": {
     "japanese": "メモリーを\n再選択する",
@@ -3517,7 +3517,7 @@
   },
   "produce.confirm_limit_parameter_sheet.lesson.description": {
     "japanese": "選択したレッスンで上昇するパラメータは\nすでに上限に到達しています。\nレッスンを開始してよろしいですか？",
-    "chinese": "选择的课程所提升的能力值\n已经达到上限。\n确定开始课程吗？"
+    "chinese": "选择的训练所提升的能力值\n已经达到上限。\n确定开始训练吗？"
   },
   "produce.multi_device.confirm.title": {
     "japanese": "プロデュースデータの確認",
@@ -3533,7 +3533,7 @@
   },
   "produce.multi_device.confirm.description3": {
     "japanese": "他の端末でプレイ中のプロデュースデータが存在します。プレイ中のプロデュースデータを破棄してプロデュースを開始しますか？\n\n<color=#u:Negative>プロデュースデータを破棄するともとの端末の中断データも破棄されます\n\n レッスン、試験、オーディション以外の画面で、右下メニューから「保存して中断」を選択してプロデュースを中断することで、他の端末で中断したプロデュースでも再開可能になります</color>\n\n※端末のキャッシュクリアをおこなった場合にも、「保存して中断」を選択したデータ以外の進行中のプロデュースデータは破棄されるためこのメッセージが表示されることがあります",
-    "chinese": "在其他设备上存在游玩中的培育数据。是否要废弃游玩中的培育数据并开始新的培育？\n\n<color=#u:Negative>如果废弃培育数据，那么原设备上的中断数据也会被废弃。\n\n 在课程、考试、试镜以外的画面中，从右下角菜单中选择「保存并中断」来中断培育，也能在其他设备上继续原先中断的培育。</color>\n\n※如果设备进行了缓存清理，除选择了「保存并中断」的数据以外的游玩中的培育数据将会被废弃，因此可能会显示此消息"
+    "chinese": "在其他设备上存在游玩中的培育数据。是否要废弃游玩中的培育数据并开始新的培育？\n\n<color=#u:Negative>如果废弃培育数据，那么原设备上的中断数据也会被废弃。\n\n 在训练、考试、试镜以外的画面中，从右下角菜单中选择「保存并中断」来中断培育，也能在其他设备上继续原先中断的培育。</color>\n\n※如果设备进行了缓存清理，除选择了「保存并中断」的数据以外的游玩中的培育数据将会被废弃，因此可能会显示此消息"
   },
   "produce.business.decrement_number.red": {
     "japanese": "<color=#u:Negative>-{0}</color>",
@@ -3597,7 +3597,7 @@
   },
   "produce.log.detail.title.lesson_present_produce_card_reward_count_down": {
     "japanese": "レッスン報酬カード数",
-    "chinese": "课程奖励卡数量"
+    "chinese": "训练奖励卡数量"
   },
   "produce.log.detail.title.produce_point_addition_value_up": {
     "japanese": "Pポイント獲得量",
@@ -3749,7 +3749,7 @@
   },
   "produce.drink.cannot_use.noneproduceeffect": {
     "japanese": "レッスン・試験・オーディション以外では使用できません",
-    "chinese": "不能在课程・考试・试镜之外使用"
+    "chinese": "不能在训练・考试・试镜之外使用"
   },
   "produce.drink.cannot_use.staminamax": {
     "japanese": "体力がすでに最大です",
@@ -3805,7 +3805,7 @@
   },
   "produce.confirm_stamina_sheet.description": {
     "japanese": "体力が低下しています\nレッスンを開始しますか？",
-    "chinese": "体力已下降\n开始课程吗？"
+    "chinese": "体力已下降\n开始训练吗？"
   },
   "produce.confirm_stamina_sheet.button": {
     "japanese": "開始する",
@@ -3921,7 +3921,7 @@
   },
   "produce.schedule.step_exam_hard_description": {
     "japanese": "重点的にレッスンをするパラメータが上昇します。\n目標クリア後はすべてのパラメータが上昇します。",
-    "chinese": "有重点地进行课程，能力值将会上升。\n完成目标后所有能力值都会上升。"
+    "chinese": "有重点地进行训练，能力值将会上升。\n完成目标后所有能力值都会上升。"
   },
   "produce.filter.common.unlocked": {
     "japanese": "解放済",
@@ -3961,7 +3961,7 @@
   },
   "produce.schedule.step_exam_vo": {
     "japanese": "ボーカルレッスン",
-    "chinese": "Vo.课程"
+    "chinese": "Vo.训练"
   },
   "produce.lesson.log.detail.card_force_play": {
     "japanese": "「{0}」を使用",
@@ -4017,7 +4017,7 @@
   },
   "produce.card.category.lesson": {
     "japanese": "レッスン",
-    "chinese": "课程"
+    "chinese": "训练"
   },
   "produce.card.category.skill": {
     "japanese": "スキル",
@@ -4053,7 +4053,7 @@
   },
   "produce.schedule.step_exam_vo_sp": {
     "japanese": "SP ボーカルレッスン",
-    "chinese": "SP Vo.课程"
+    "chinese": "SP Vo.训练"
   },
   "produce.drink.filter.empty": {
     "japanese": "対象のPドリンクがありません",
@@ -4293,23 +4293,23 @@
   },
   "produce.schedule.step_exam_da": {
     "japanese": "ダンスレッスン",
-    "chinese": "Da.课程"
+    "chinese": "Da.训练"
   },
   "produce.schedule.step_exam_vi": {
     "japanese": "ビジュアルレッスン",
-    "chinese": "Vi.课程"
+    "chinese": "Vi.训练"
   },
   "produce.schedule.step_exam_da_sp": {
     "japanese": "SP ダンスレッスン",
-    "chinese": "SP Da.课程"
+    "chinese": "SP Da.训练"
   },
   "produce.schedule.step_exam_hard": {
     "japanese": "追い込みレッスン",
-    "chinese": "冲刺课程"
+    "chinese": "冲刺训练"
   },
   "produce.schedule.step_exam_vo_hard": {
     "japanese": "ボーカル追い込みレッスン",
-    "chinese": "歌唱冲刺课程"
+    "chinese": "歌唱冲刺训练"
   },
   "produce.schedule.step_exam_da_hard": {
     "japanese": "ダンス追い込みレッスン",
@@ -4321,15 +4321,15 @@
   },
   "produce.schedule.step_exam_vo_legend": {
     "japanese": "レジェンドボーカルレッスン",
-    "chinese": "传奇歌唱课程"
+    "chinese": "传奇歌唱训练"
   },
   "produce.schedule.step_exam_vo_legend_sp": {
     "japanese": "SP レジェンドボーカルレッスン",
-    "chinese": "SP 传奇歌唱课程"
+    "chinese": "SP 传奇歌唱训练"
   },
   "produce.schedule.step_exam_vi_legend_sp": {
     "japanese": "SP レジェンドビジュアルレッスン",
-    "chinese": "SP 传奇视觉课程"
+    "chinese": "SP 传奇视觉训练"
   },
   "produce.lesson.log.detail.card_grow": {
     "japanese": "「{0}」を成長",
@@ -4373,7 +4373,7 @@
   },
   "produce.schedule.step_exam_da.short": {
     "japanese": "Da.レッスン",
-    "chinese": "Da.课程"
+    "chinese": "Da.训练"
   },
   "produce.schedule.step_self_vocal.short": {
     "japanese": "Vo.自主レッスン",
@@ -4561,7 +4561,7 @@
   },
   "produce.lesson.grow_effect.description": {
     "japanese": "レッスン終了まで、スキルカードの性能を変化させる",
-    "chinese": "课程结束为止，技能卡的性能将变化"
+    "chinese": "训练结束为止，技能卡的性能将变化"
   },
   "produce.lesson.stamina_less": {
     "japanese": "体力が不足しています",
@@ -4733,7 +4733,7 @@
   },
   "produce.lesson.log.title": {
     "japanese": "レッスンログ",
-    "chinese": "课程日志"
+    "chinese": "训练日志"
   },
   "produce.lesson.log.title.item": {
     "japanese": "Pアイテム「{0}」",
@@ -5445,7 +5445,7 @@
   },
   "card.support_card.upgrade_level_limit_confirm_sheet.button.execute": {
     "japanese": "上限解放",
-    "chinese": "上限解放"
+    "chinese": "解锁上限"
   },
   "card.idol_card.detail.button.costume": {
     "japanese": "衣装",
@@ -5553,7 +5553,7 @@
   },
   "produce.prepare.challenge.lesson_limit_up_title": {
     "japanese": "通常・SPレッスン上限",
-    "chinese": "普通・SP课程上限"
+    "chinese": "普通・SP训练上限"
   },
   "pvp.rate.stamina.extra_large": {
     "japanese": "特大",
@@ -6309,7 +6309,7 @@
   },
   "card.support_card.upgrade_level_limit_rank_overlay.description_with_common_resource": {
     "japanese": "サポートカードを{0}枚と{1}を{2}消費して上限解放を行います",
-    "chinese": "消耗{0}张支援卡和{1}共计{2}进行上限解放"
+    "chinese": "消耗{0}张支援卡和{2}张{1}来解锁上限"
   },
   "home.gasha.result.continuous.draw_suffix": {
     "japanese": "連引く",
@@ -7517,7 +7517,7 @@
   },
   "card.support_card.detail.level_limit.execute_already_max": {
     "japanese": "最大まで上限解放されています",
-    "chinese": "上限已解锁到最大"
+    "chinese": "已解锁上限到最大"
   },
   "produce.support_select.button.enter": {
     "japanese": "次へ",
@@ -9621,7 +9621,7 @@
   },
   "card.support_card.upgrade_level_limit_rank_overlay.description": {
     "japanese": "サポートカードを{0}枚消費して上限解放を行います",
-    "chinese": "消耗{0}张支援卡进行上限解放"
+    "chinese": "消耗{0}张支援卡来解锁上限"
   },
   "produce_prepare.ap_less_sheet.description_1": {
     "japanese": "APが<color=#u:Negative>{0:N0}</color>不足しています",
@@ -9769,7 +9769,7 @@
   },
   "produce.challenge.detail_sheet.description": {
     "japanese": "チャレンジPアイテムを設定した状態でプロデュースを開始すると、レッスン・SPレッスンのPERFECT上限が上がります。",
-    "chinese": "在设置了挑战P道具的状态下开始培育时，课程和SP课程的PERFECT上限会提高。"
+    "chinese": "在设置了挑战P道具的状态下开始培育时，训练和SP训练的PERFECT上限会提高。"
   },
   "produce.challenge.detail_sheet.nia_description": {
     "japanese": "チャレンジPアイテムを設定した状態でプロデュースを開始すると、オーディションボーナスで獲得するパラメータの値が増加します",
@@ -10121,7 +10121,7 @@
   },
   "card.sort.support_card_level_limit_rank": {
     "japanese": "上限解放",
-    "chinese": "上限解放"
+    "chinese": "解锁上限"
   },
   "card.sort.support_card_type": {
     "japanese": "タイプ",
@@ -10273,7 +10273,7 @@
   },
   "card.info.support_card.level_limit": {
     "japanese": "上限解放",
-    "chinese": "上限解放"
+    "chinese": "解锁上限"
   },
   "memory.detail.title": {
     "japanese": "メモリー詳細",
@@ -10309,7 +10309,7 @@
   },
   "card.upgrade_status_list.parameter": {
     "japanese": "パラメータ・パラメータボーナスアップ",
-    "chinese": "能力值・课程加成提升"
+    "chinese": "能力值・训练加成提升"
   },
   "item.exchange.title": {
     "japanese": "ピース変換",
@@ -10617,7 +10617,7 @@
   },
   "card.support_card.list.label.upgradable_level_limit_rank": {
     "japanese": "上限解放可能",
-    "chinese": "可上限解放"
+    "chinese": "可解锁上限"
   },
   "main_task.detail.button.execute": {
     "japanese": "課題挑戦",
@@ -10625,27 +10625,27 @@
   },
   "card.support_card.detail.button.level_limit": {
     "japanese": "上限解放",
-    "chinese": "上限解放"
+    "chinese": "解锁上限"
   },
   "card.support_card.detail.button.preview_max": {
     "japanese": "Lv/上限解放が最大の時",
-    "chinese": "Lv/上限解放最大时"
+    "chinese": "Lv/解锁上限最大时"
   },
   "card.support_card.detail.lesson_support_vo": {
     "japanese": "ボーカルレッスン",
-    "chinese": "Vo.课程"
+    "chinese": "Vo.训练"
   },
   "card.support_card.detail.lesson_support_da": {
     "japanese": "ダンスレッスン",
-    "chinese": "Da.课程"
+    "chinese": "Da.训练"
   },
   "card.support_card.detail.lesson_support_vi": {
     "japanese": "ビジュアルレッスン",
-    "chinese": "Vi.课程"
+    "chinese": "Vi.训练"
   },
   "card.support_card.detail.lesson_support_all": {
     "japanese": "すべてのレッスン",
-    "chinese": "所有课程"
+    "chinese": "所有训练"
   },
   "card.support_card.detail.produce_event": {
     "japanese": "サポートイベント",
@@ -10685,11 +10685,11 @@
   },
   "card.support_card.upgrade.level_limit.message.max": {
     "japanese": "最大まで上限解放しました",
-    "chinese": "已上限解放到最大"
+    "chinese": "已解锁上限到最大"
   },
   "card.support_card.exchange_select.button.ignore_require": {
     "japanese": "上限解放分を含まない",
-    "chinese": "不含上限解放"
+    "chinese": "不显示可解锁上限"
   },
   "card.support_card.exchange_select.button.execute": {
     "japanese": "変換する",
@@ -10713,7 +10713,7 @@
   },
   "card.support_card.exchange.confirm.sheet.alert.level_limit": {
     "japanese": "は上限解放分が含まれているサポートカードです",
-    "chinese": "包含已上限解放的支援卡"
+    "chinese": "包含已解锁上限的支援卡"
   },
   "card.support_card.exchange.level_limit.confirm.sheet.title": {
     "japanese": "変換確認",
@@ -10721,7 +10721,7 @@
   },
   "card.support_card.exchange.level_limit.confirm.sheet.message": {
     "japanese": "上限解放分（　）のサポートカードが含まれています。本当に変換しますか？",
-    "chinese": "包含上限解放（　）的支援卡，确定要变换吗？"
+    "chinese": "包含已解锁上限（　）的支援卡，确定要变换吗？"
   },
   "card.support_card.enhance.used_point_text": {
     "japanese": "-{0:N0}",
@@ -10753,7 +10753,7 @@
   },
   "card.support_card.upgrade_level_limit_rank_overlay.title": {
     "japanese": "上限解放",
-    "chinese": "上限解放"
+    "chinese": "解锁上限"
   },
   "item.sheet.detail.quantity": {
     "japanese": "所持数",
@@ -10777,7 +10777,7 @@
   },
   "card.support_card.upgrade_level_limit_confirm_sheet.title": {
     "japanese": "上限解放確認",
-    "chinese": "上限解放确认"
+    "chinese": "解锁上限确认"
   },
   "pvp.rate.slot.unlock.condition": {
     "japanese": "グレード{0}以降解放",
@@ -10785,7 +10785,7 @@
   },
   "card.support_card.upgrade_level_limit_confirm_sheet.message": {
     "japanese": "アイテムを消費して指定段階まで上限解放を行いますか？",
-    "chinese": "消耗道具进行上限解放，确定吗？"
+    "chinese": "消耗道具解锁上限到指定阶段，确定吗？"
   },
   "card.support_card.event.produce_card.upgrade_ability": {
     "japanese": "このスキルカードは、獲得後すぐに強化されます",
@@ -11157,15 +11157,15 @@
   },
   "memory.filter.produce_effect.vocalgrowthrateaddition": {
     "japanese": "ボーカルレッスン\nボーナス増加",
-    "chinese": "增加Vo.课程加成"
+    "chinese": "增加Vo.训练加成"
   },
   "memory.filter.produce_effect.dancegrowthrateaddition": {
     "japanese": "ダンスレッスン\nボーナス増加",
-    "chinese": "增加Da.课程加成"
+    "chinese": "增加Da.训练加成"
   },
   "memory.filter.produce_effect.visualgrowthrateaddition": {
     "japanese": "ビジュアルレッスン\nボーナス増加",
-    "chinese": "增加Vi.课程加成"
+    "chinese": "增加Vi.训练加成"
   },
   "memory.filter.produce_effect.producepointaddition": {
     "japanese": "Pポイント獲得",
@@ -14925,7 +14925,7 @@
   },
   "exchange.ticket_list.support_card.level_limit": {
     "japanese": "上限解放",
-    "chinese": "上限解放"
+    "chinese": "解锁上限"
   },
   "profile.top.tab.activity": {
     "japanese": "活動履歴",
@@ -16505,7 +16505,7 @@
   },
   "achievement.true_end.receive.lesson_bonus": {
     "japanese": "レッスンボーナス",
-    "chinese": "课程加成"
+    "chinese": "训练加成"
   },
   "profile.common.fan.count": {
     "japanese": "{0:N0}人",
@@ -20065,7 +20065,7 @@
   },
   "setting.produce.lesson_stamina_low_alert": {
     "japanese": "レッスン開始確認",
-    "chinese": "课程开始确认"
+    "chinese": "训练开始确认"
   },
   "setting.produce.turn_end": {
     "japanese": "ターン終了確認",
