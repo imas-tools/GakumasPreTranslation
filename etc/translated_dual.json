@@ -1109,7 +1109,7 @@
   },
   "common.sheet.setting.sub_description": {
     "japanese": "「メニュー＞設定」からいつでも変更できます。",
-    "chinese": "随时可在「菜单＞设定」中进行更改。"
+    "chinese": "随时可在「菜单＞设定」中进行变更。"
   },
   "produce.card.no_deck_duplicate": {
     "japanese": "コピー不可",
@@ -1309,7 +1309,7 @@
   },
   "common.network.error.dmm_game_id_has_user.title": {
     "japanese": "ゲームデータ変更",
-    "chinese": "游戏数据更改"
+    "chinese": "变更游戏数据"
   },
   "limit.day": {
     "japanese": "あと{0}日",
@@ -1501,7 +1501,7 @@
   },
   "common.network.error.date_changed.description": {
     "japanese": "日付が変わりました。",
-    "chinese": "日期已更改。"
+    "chinese": "日期已变更。"
   },
   "produce.effect.convert.value1": {
     "japanese": "<value_1>",
@@ -3929,7 +3929,7 @@
   },
   "produce.change.select.title": {
     "japanese": "チェンジ",
-    "chinese": "变更"
+    "chinese": "变换"
   },
   "produce.duplicate.select.title": {
     "japanese": "コピー",
@@ -3941,7 +3941,7 @@
   },
   "produce.change_upgrade.select.title": {
     "japanese": "チェンジして強化",
-    "chinese": "变更并强化"
+    "chinese": "变换并强化"
   },
   "produce.effect.convert.value2": {
     "japanese": "<value_2>",
@@ -3997,7 +3997,7 @@
   },
   "produce.select.restrict.change": {
     "japanese": "チェンジ不可能なスキルカードです",
-    "chinese": "无法变更的技能卡"
+    "chinese": "无法变换的技能卡"
   },
   "produce.card.select_none_title": {
     "japanese": "使用スキップ確認",
@@ -4181,7 +4181,7 @@
   },
   "produce.change.result": {
     "japanese": "{0}枚のスキルカードを変化させました。",
-    "chinese": "{0}枚的技能卡已变更。"
+    "chinese": "已变换{0}张技能卡。"
   },
   "produce.filter.common.produce_item_name.title": {
     "japanese": "Pアイテム名検索",
@@ -4653,7 +4653,7 @@
   },
   "produce.lesson.trigger.stance_change_count": {
     "japanese": "変更回数{0}",
-    "chinese": "更改次数{0}"
+    "chinese": "变更次数{0}"
   },
   "produce.lesson.trigger.sum": {
     "japanese": "累計{0}",
@@ -5389,7 +5389,7 @@
   },
   "card.idol_card.skin_change_sheet.button_label": {
     "japanese": "Pアイドル\n変更",
-    "chinese": "P偶像更换"
+    "chinese": "变更P偶像"
   },
   "produce.prepare.challenge.item_title": {
     "japanese": "チャレンジ\nPアイテム",
@@ -5453,7 +5453,7 @@
   },
   "home.gasha.select_pickup.already_draw.toast": {
     "japanese": "ガシャを引いた後のピックアップ対象の変更はできません",
-    "chinese": "抽完后无法再更改选择的PICK UP目标"
+    "chinese": "抽取后无法再更改已选择的PICK UP目标"
   },
   "card.detail.enhance.invalid.point.skill.short": {
     "japanese": "スキル強化アイテムが足りません",
@@ -6021,7 +6021,7 @@
   },
   "produce_prepare.memory.deck_name_edit_sheet.title": {
     "japanese": "メモリー編成名変更",
-    "chinese": "回忆编组名更改"
+    "chinese": "变更回忆编成名称"
   },
   "home.gasha.line_up_list_overlay.box_reset_button": {
     "japanese": "報酬リセット",
@@ -6821,7 +6821,7 @@
   },
   "conversion.top.toast.produce_in_progress": {
     "japanese": "プロデュース中は設定を変更できません",
-    "chinese": "培育中无法更改设置"
+    "chinese": "培育中无法变更设置"
   },
   "home.friend_coin_received_sheet.title": {
     "japanese": "フレンドコイン獲得",
@@ -6941,7 +6941,7 @@
   },
   "produce_prepare.support_card.deck_name_edit_sheet.title": {
     "japanese": "サポートカード編成名変更",
-    "chinese": "支援卡组名称更改"
+    "chinese": "变更支援编成名称"
   },
   "card.support_card.upgrade_level_limit_rank_overlay.lack": {
     "japanese": "枚数が足りません",
@@ -8177,7 +8177,7 @@
   },
   "home.character_change_sheet.change": {
     "japanese": "変更",
-    "chinese": "更换"
+    "chinese": "变更"
   },
   "present.filter.label_memory": {
     "japanese": "メモリー",
@@ -8225,7 +8225,7 @@
   },
   "home.character_random_remove_sheet.description": {
     "japanese": "ランダム設定中です\nランダム設定を解除し、アイドルを変更しますか？",
-    "chinese": "当前处于随机设置中\n要解除随机设置，并更换偶像吗？"
+    "chinese": "当前处于随机设置中\n要解除随机设置，并变更偶像吗？"
   },
   "audition.config.score_description": {
     "japanese": "もしくはスコア{0}以上",
@@ -8469,7 +8469,7 @@
   },
   "produce_prepare.music_change.sheet.nia_description": {
     "japanese": "プロデュース「NEXT IDOL AUDITION」でのライブ演出を変更出来ます。",
-    "chinese": "可以更改培育“NEXT IDOL AUDITION”中的现场演出。"
+    "chinese": "可以变更培育「NEXT IDOL AUDITION」中的现场演出。"
   },
   "home.gasha.draw_button.free": {
     "japanese": "無料",
@@ -8941,7 +8941,7 @@
   },
   "home.gasha.select_pickup_sheet.precaution": {
     "japanese": "※ピックアップする対象はいつでも変更可能です",
-    "chinese": "※随时可以更改PICK UP对象"
+    "chinese": "※随时可以变更PICK UP对象"
   },
   "item.tab.button.consumption_enhance": {
     "japanese": "消費・強化",
@@ -9489,7 +9489,7 @@
   },
   "memory.detail.update_name": {
     "japanese": "メモリーの名前を変更しました",
-    "chinese": "更改了回忆的名称"
+    "chinese": "已变更回忆的名称"
   },
   "card.filter.story_character": {
     "japanese": "コミュ登場アイドル",
@@ -10225,7 +10225,7 @@
   },
   "conversion.detail_sheet.toast.produce_in_progress": {
     "japanese": "プロデュース中は設定を変更できません",
-    "chinese": "培育中无法更改设置"
+    "chinese": "培育中无法变更设置"
   },
   "card.filter.support_card_invalid": {
     "japanese": "条件に当てはまるサポートカードがありません",
@@ -10249,7 +10249,7 @@
   },
   "memory.detail.name_edit.complete": {
     "japanese": "メモリー名変更を完了しました",
-    "chinese": "回忆名称更改完成"
+    "chinese": "回忆名称变更完成"
   },
   "card.info.idol_card.level_limit": {
     "japanese": "特訓",
@@ -10565,7 +10565,7 @@
   },
   "card.idol_card.skin_change_sheet.title": {
     "japanese": "プロデュースアイドル変更",
-    "chinese": "P偶像变更"
+    "chinese": "变更P偶像"
   },
   "card.idol_card.skin_change_sheet.music": {
     "japanese": "ライブ楽曲",
@@ -10597,7 +10597,7 @@
   },
   "card.idol_card.skin_new_confirm_warning": {
     "japanese": "※ライブ楽曲が変更になります\n※アナザーver.のプロデュースアイドルをプロデュースする場合、プロデュースアイドルコミュは発生しません",
-    "chinese": "※Live歌曲将会更改\n※培育异装偶像的时候，将不会发生偶像交流"
+    "chinese": "※Live歌曲将会变更\n※培育异装偶像的时候，将不会发生偶像交流"
   },
   "card.idol_card.skin_new_confirm_execute": {
     "japanese": "切り替える",
@@ -10969,11 +10969,11 @@
   },
   "memory.detail.name_edit.title": {
     "japanese": "メモリー名変更",
-    "chinese": "更改回忆名称"
+    "chinese": "变更回忆名称"
   },
   "memory.detail.tag_edit.title": {
     "japanese": "タグ名変更",
-    "chinese": "更改标签名称"
+    "chinese": "变更标签名称"
   },
   "memory.detail.tag_edit.description": {
     "japanese": "タグ名を入力してください",
@@ -11021,7 +11021,7 @@
   },
   "memory.tag.modified": {
     "japanese": "タグを変更しました",
-    "chinese": "标签已更改"
+    "chinese": "已变更标签"
   },
   "memory.create.pt_unit": {
     "japanese": "Pt",
@@ -11269,11 +11269,11 @@
   },
   "memory.review_photo_select.label.old": {
     "japanese": "変更前",
-    "chinese": "更改前"
+    "chinese": "变更前"
   },
   "memory.review_photo_select.label.new": {
     "japanese": "変更後",
-    "chinese": "修改后"
+    "chinese": "变更后"
   },
   "memory.review_photo_select.cell_label.auto": {
     "japanese": "自動撮影",
@@ -11285,11 +11285,11 @@
   },
   "memory.review_photo_select.no_change.description": {
     "japanese": "メモリーのフォトを変更せずに終了しますか？",
-    "chinese": "是否在不更改回忆照片的情况下结束？"
+    "chinese": "是否在不变更回忆照片的情况下结束？"
   },
   "memory.review_photo_select.no_change.alert": {
     "japanese": "※変更せずに終了する場合は記録の鍵は消費されません",
-    "chinese": "※如果不进行更改就结束，记录钥匙不会被消耗。"
+    "chinese": "※如果不进行变更就结束，记录钥匙不会被消耗。"
   },
   "memory.change_photo.sheet.description": {
     "japanese": "選択したフォトでメモリーを更新しますか？",
@@ -12657,11 +12657,11 @@
   },
   "costume.select.back_confirm.title": {
     "japanese": "衣装変更確認",
-    "chinese": "服装更改确认"
+    "chinese": "服装变更确认"
   },
   "photo.album.name.input.title": {
     "japanese": "フォト名変更",
-    "chinese": "照片名更改"
+    "chinese": "变更照片名称"
   },
   "guild.create_confirm.title": {
     "japanese": "サークル設立確認",
@@ -12693,7 +12693,7 @@
   },
   "guild.create.approve_flow.description": {
     "japanese": "メンバー加入申請を自動で承認できます。\n後から設定変更も可能です。",
-    "chinese": "可自动批准成员的加入申请。\n之后可更改设置"
+    "chinese": "可自动批准成员的加入申请。\n之后可变更设置"
   },
   "profile.report.count.unit3": {
     "japanese": "{0:N0}Pt",
@@ -12933,7 +12933,7 @@
   },
   "meishi.edit.name_edit": {
     "japanese": "名前変更",
-    "chinese": "更改名称"
+    "chinese": "变更名称"
   },
   "profile.report.count.unit1": {
     "japanese": "{0:N0}回",
@@ -14153,7 +14153,7 @@
   },
   "photography.setting.button.costume_change": {
     "japanese": "衣装変更",
-    "chinese": "服装更换"
+    "chinese": "变更服装"
   },
   "adv.log_overlay.title": {
     "japanese": "会話ログ",
@@ -14445,7 +14445,7 @@
   },
   "photography.setting.costume.confirm_change_sheet.description.head": {
     "japanese": "衣装で制限されている髪型を変更しようとしています。\n現在の設定を解除し、髪型を変更しますか？\n<color=#u:Negative>※変更後の髪型によって衣装が設定されます</color>",
-    "chinese": "正在尝试更换受服装限制的发型。\n是否要解除当前设定并更换发型？\n<color=#u:Negative>※更换后的发型会设定相应服装。</color>"
+    "chinese": "正在尝试变更受服装限制的发型。\n是否要解除当前设定并变更发型？\n<color=#u:Negative>※变更后的发型会设定相应服装。</color>"
   },
   "meishi.create_confirm_sheet.toast.custom_disable": {
     "japanese": "2024/9/1 メンテナンス終了後に解放",
@@ -14453,7 +14453,7 @@
   },
   "guild.edit.approve_flow_modify.description": {
     "japanese": "加入申請の設定を承認制から自動承認に変更すると\n現在未許可の申請がすべて自動で許可されます。\nよろしいですか？",
-    "chinese": "如果将加入申请设置从批准制更改为自动批准，\n当前所有未批准的申请都将自动批准。\n确定吗？"
+    "chinese": "如果将加入申请设置从批准制变更为自动批准，\n当前所有未批准的申请都将自动批准。\n确定吗？"
   },
   "profile.badge_select.list.empty_text": {
     "japanese": "バッジを所持していません",
@@ -14545,7 +14545,7 @@
   },
   "shop.age_confirm.warning": {
     "japanese": "※確定後、後から変更ができません",
-    "chinese": "※确定后，无法再更改"
+    "chinese": "※确定后，无法再变更"
   },
   "setting.preference.other.daily_exchange.default_max.title": {
     "japanese": "デイリー交換所",
@@ -14569,7 +14569,7 @@
   },
   "app_tracking_transparency_sheet.description": {
     "japanese": "たくさんあるアプリの中から本アプリを選んでいただきありがとうございます。「次へ」をタップするとトラッキング許可のダイアログが表示されます。\n許可をすることでゲーム外であなたが興味を示しそうなバンダイナムコグループの広告が表示されるようになります。\n\n【トラッキング許可方法】\n表示されるダイアログで許可する\n※トラッキングの設定は端末の設定からいつでも変更可能です",
-    "chinese": "感谢您选择本应用。在点击“下一步”后，将显示追踪许可对话框。\n允许追踪后，您可能会看到您感兴趣的万代南梦宫集团广告。\n\n【允许追踪方法】\n在显示的对话框中选择允许\n※您可以随时在设备设置中更改追踪设置"
+    "chinese": "感谢您选择本应用。在点击“下一步”后，将显示追踪许可对话框。\n允许追踪后，您可能会看到您感兴趣的万代南梦宫集团广告。\n\n【允许追踪方法】\n在显示的对话框中选择允许\n※您可以随时在设备设置中变更追踪设置"
   },
   "exchange.error.no_exchange.submit": {
     "japanese": "ホームへ",
@@ -14889,7 +14889,7 @@
   },
   "setting.sound.home_bgm_setting.button": {
     "japanese": "変更",
-    "chinese": "更换"
+    "chinese": "变更"
   },
   "shop.purchase.confirm_price.title": {
     "japanese": "購入金額",
@@ -15029,7 +15029,7 @@
   },
   "shop.init.error.unavailable": {
     "japanese": "端末の設定でアプリ内課金が無効になっています。\n設定を変更して許可してください。\n({0})",
-    "chinese": "设备的设置中已禁用应用内购买。\n请更改设置以启用。\n({0})"
+    "chinese": "设备的设置中已禁用应用内购买。\n请变更设置以启用。\n({0})"
   },
   "meishi.edit_custom.layer.achievement": {
     "japanese": "アチーブ",
@@ -15037,7 +15037,7 @@
   },
   "profile.producer_name.input.title": {
     "japanese": "プロデューサー名変更",
-    "chinese": "更改制作人名称"
+    "chinese": "变更制作人名称"
   },
   "picturebook.live.unlock_hint.sheet.description2": {
     "japanese": "条件2.\n<size=36>プロデュース内で閲覧</size>",
@@ -15105,7 +15105,7 @@
   },
   "guild.edit.caption": {
     "japanese": "設定内容は設立後でも変更できます",
-    "chinese": "设定内容在成立后也可以更改"
+    "chinese": "设定内容在成立后也可以变更"
   },
   "setting.produce.story_skip.unread.all": {
     "japanese": "コミュを早送りする",
@@ -15209,7 +15209,7 @@
   },
   "tutorial.name.warning": {
     "japanese": "10文字以内で入力してください\n※プロデューサー名はゲーム内で公開されます\n※プロデューサー名はあとから変更できます\n※本名、メールアドレス、電話番号などの個人情報や\n　個人の特定につながる情報は入力しないでください",
-    "chinese": "请输入10个字符以内\n※制作人名称将在游戏内公开\n※制作人名称可以之后更改\n※请勿输入个人信息如真实姓名、邮箱地址、电话号码等"
+    "chinese": "请输入10个字符以内\n※制作人名称将在游戏内公开\n※制作人名称在之后可以变更\n※请勿输入个人信息如真实姓名、邮箱地址、电话号码等"
   },
   "tutorial.idol.select": {
     "japanese": "アイドル選択",
@@ -15289,7 +15289,7 @@
   },
   "photography.photo.renderer_setting.description": {
     "japanese": "表示・非表示の設定を変更できます",
-    "chinese": "可更改显示/隐藏设置"
+    "chinese": "可变更显示/隐藏设置"
   },
   "mission.pass.pt": {
     "japanese": "{0:N0}Pt",
@@ -15445,7 +15445,7 @@
   },
   "meishi.edit.layout_change": {
     "japanese": "配置変更",
-    "chinese": "布局变更"
+    "chinese": "变更布局"
   },
   "guild.top.board": {
     "japanese": "伝言板",
@@ -15453,7 +15453,7 @@
   },
   "guild.edit.achievement.change": {
     "japanese": "アチーブメント変更",
-    "chinese": "修改成就"
+    "chinese": "变更成就"
   },
   "achievement.true_end_bonus": {
     "japanese": "True Endボーナス",
@@ -15645,7 +15645,7 @@
   },
   "profile.birthday.confirm.description": {
     "japanese": "誕生日設定後{0}日間は変更できません",
-    "chinese": "生日设置后{0}天内无法更改"
+    "chinese": "生日设置后{0}天内无法变更"
   },
   "story.lock.produce.description.step_3": {
     "japanese": "親愛度TOPで閲覧すると解放",
@@ -15973,7 +15973,7 @@
   },
   "exchange.count.change": {
     "japanese": "必要アイテム個数変更",
-    "chinese": "必需道具数量变更"
+    "chinese": "变更必需道具数量"
   },
   "exchange.cost.name": {
     "japanese": "必要{0}",
@@ -16029,7 +16029,7 @@
   },
   "exchange.setting.daily_exchange_default_max.title": {
     "japanese": "デフォルト交換回数変更",
-    "chinese": "默认兑换次数修改"
+    "chinese": "变更默认兑换次数"
   },
   "exchange.setting.daily_exchange_default_max.description": {
     "japanese": "デイリー交換所のデフォルト交換回数を交換できる\n最大値に設定することができます。\nデフォルト交換回数を最大値に指定しますか？",
@@ -16045,11 +16045,11 @@
   },
   "exchange.setting.daily_exchange_default_max.cancel": {
     "japanese": "変更しない",
-    "chinese": "不更改"
+    "chinese": "不变更"
   },
   "profile.birthday.change.button.disabled.text": {
     "japanese": "{0}で変更可能です",
-    "chinese": "{0}后可更改"
+    "chinese": "{0}后可变更"
   },
   "exchange.detail_item_list.piece_name": {
     "japanese": "{0}のピース",
@@ -16161,7 +16161,7 @@
   },
   "guild.edit.approve_flow_modify.title": {
     "japanese": "加入申請設定変更確認",
-    "chinese": "加入申请设置更改确认"
+    "chinese": "变更加入申请设置确认"
   },
   "roster.hold": {
     "japanese": "所持数",
@@ -16473,7 +16473,7 @@
   },
   "picturebook.live.confirm.costume.change": {
     "japanese": "衣装変更",
-    "chinese": "服装更换"
+    "chinese": "变更服装"
   },
   "achievement.reward.get": {
     "japanese": "New",
@@ -16721,7 +16721,7 @@
   },
   "profile.birthday.select.description": {
     "japanese": "誕生日を設定すると、アイドルから誕生日を\n祝ってもらうことができます。\n<color=#u:Negative>誕生日設定後{0}日間は変更ができません</color>",
-    "chinese": "设置生日后，偶像会庆祝你的生日。\n<color=#u:Negative>生日设置后{0}天内无法更改</color>"
+    "chinese": "设置生日后，偶像会庆祝你的生日。\n<color=#u:Negative>生日设置后{0}天内无法变更</color>"
   },
   "profile.birthday.confirm.text1": {
     "japanese": "あなたの誕生日は",
@@ -17457,7 +17457,7 @@
   },
   "meishi.edit.comment.input.warning": {
     "japanese": "※個人情報や、公序良俗に反する内容は\n投稿しないでください。\n※コメントは変更時に保存されます",
-    "chinese": "※请勿发布包含个人信息或违反公序良俗的内容。\n※更改评论后将会保存"
+    "chinese": "※请勿发布包含个人信息或违反公序良俗的内容。\n※变更评论后将会保存"
   },
   "friend.search.execute": {
     "japanese": "検索",
@@ -17897,7 +17897,7 @@
   },
   "picturebook.live.costume.select.title": {
     "japanese": "衣装変更",
-    "chinese": "服装更换"
+    "chinese": "变更服装"
   },
   "picturebook.live.costume.select.description": {
     "japanese": "髪型と衣装を選択してください。",
@@ -18041,7 +18041,7 @@
   },
   "costume.select.back_confirm.description": {
     "japanese": "変更が保存されていません\n衣装を変更せず、戻りますか？",
-    "chinese": "更改未保存\n是否不更改服装并返回？"
+    "chinese": "变更未保存\n是否不变更服装并返回？"
   },
   "photography_prepare.motion_list.title": {
     "japanese": "ポーズ一覧",
@@ -18205,11 +18205,11 @@
   },
   "photography.setting.idol.cancel_confirm.title": {
     "japanese": "撮影アイドル変更確認",
-    "chinese": "拍摄偶像更改确认"
+    "chinese": "变更拍摄偶像确认"
   },
   "photography.setting.idol.cancel_confirm.description": {
     "japanese": "変更が保存されていません。\n撮影するアイドルを変更せず、戻りますか？",
-    "chinese": "更改尚未保存。\n不更改要拍摄的偶像，直接返回吗？"
+    "chinese": "变更尚未保存。\n不变更要拍摄的偶像，直接返回吗？"
   },
   "photography.setting.motion_list.slot_position": {
     "japanese": "立ち位置",
@@ -18253,7 +18253,7 @@
   },
   "photography.setting.costume.confirm_change_sheet.description.body": {
     "japanese": "髪型で制限されている衣装を変更しようとしています。\n現在の設定を解除し、衣装を変更しますか？\n<color=#u:Negative>※変更後の衣装によって髪型が設定されます</color>",
-    "chinese": "正在尝试更换受发型限制的服装。\n是否要解除当前设定并更换服装？\n<color=#u:Negative>※更换后的服装会设定相应发型。</color>"
+    "chinese": "正在尝试变更受发型限制的服装。\n是否要解除当前设定并变更服装？\n<color=#u:Negative>※变更后的服装会设定相应发型。</color>"
   },
   "photography.setting.layout.random_confirm_sheet.title": {
     "japanese": "撮影",
@@ -19437,7 +19437,7 @@
   },
   "costume.produce_setting_sheet.button": {
     "japanese": "変更",
-    "chinese": "更换"
+    "chinese": "变更"
   },
   "costume.produce_setting_sheet.warning": {
     "japanese": "お気に入り衣装が設定されていません",
@@ -19493,7 +19493,7 @@
   },
   "costume.random.setting.execute_button.execute_toast": {
     "japanese": "ランダム衣装設定を変更しました",
-    "chinese": "已更改随机服装设置"
+    "chinese": "已变更随机服装设置"
   },
   "costume.random.setting.cancel_confirm.title": {
     "japanese": "変更確認",
@@ -19633,11 +19633,11 @@
   },
   "tutorial.idol_receive.attention_1": {
     "japanese": "初期状態のプロデュースアイドルを獲得します\n1度獲得すると後から変更できません\nアナザーver.を獲得している場合、オリジナルver.のプロデュースアイドルのピースも獲得できます",
-    "chinese": "将获得初始状态的培育用偶像\n一旦获得后无法更改\n如果已经获得了异装偶像，也可以获得原版培育用偶像的碎片"
+    "chinese": "将获得初始状态的培育用偶像\n一旦获得后无法变更\n如果已经获得了异装偶像，也可以获得原版培育用偶像的碎片"
   },
   "tutorial.idol_receive.attention_2": {
     "japanese": "1度獲得すると後から変更できません",
-    "chinese": "一旦获得后无法更改"
+    "chinese": "一旦获得后无法变更"
   },
   "tutorial.idol_receive.difficulty_low": {
     "japanese": "初級者向け",
@@ -20161,7 +20161,7 @@
   },
   "setting.live_quality_sheet.description_warning": {
     "japanese": "設定を上げると動作が重くなり、消費電力が増える\n可能性があります\n品質を変更した場合、アプリ全体の設定が変更されます",
-    "chinese": "提高设置可能会导致运行变慢和耗电增加。更改画质设置时，应用程序整体设置将被修改。"
+    "chinese": "提高设置可能会导致运行变慢和耗电增加。\n变更画质设置时，应用程序整体设置将被修改。"
   },
   "setting.preference.other.guild_setting.title": {
     "japanese": "サークル設定",
@@ -20177,7 +20177,7 @@
   },
   "setting.preference.fullscreen.dialog.notice": {
     "japanese": "「メニュー＞設定」からいつでも変更できます",
-    "chinese": "「菜单＞设置」中随时可以更改"
+    "chinese": "「菜单＞设置」中随时可以变更"
   },
   "setting.preference.fullscreen.disable_portrait_monitor.toast": {
     "japanese": "ご利用のモニターではお使いいただけません",
@@ -20785,7 +20785,7 @@
   },
   "standalone.window.vsync.disable_frame_rate": {
     "japanese": "fpsを変更できません",
-    "chinese": "无法更改fps"
+    "chinese": "无法变更fps"
   },
   "angya.no_organized_confirm_sheet.title": {
     "japanese": "メモリー未編成",
@@ -21841,7 +21841,7 @@
   },
   "standalone.window.size.setting_label": {
     "japanese": "画面のサイズを変更できます。\n※DMM GAMES版のみ",
-    "chinese": "可以更改屏幕尺寸。\n※仅限PC版"
+    "chinese": "可以变更屏幕尺寸。\n※仅限DMM GAMES版"
   },
   "tour.exam.to_home.description": {
     "japanese": "中断データを保存してホームに戻りますか？",
@@ -23597,7 +23597,7 @@
   },
   "competition.unit_slot_edit.change": {
     "japanese": "変更",
-    "chinese": "更换"
+    "chinese": "变更"
   },
   "competition.unit_slot_edit.unit_detail": {
     "japanese": "ステージ編成確認",
@@ -23705,7 +23705,7 @@
   },
   "competition.overlap_card_sheet.precaution": {
     "japanese": "※有効中ではないスキルカードは山札に含まれません\n※編成変更時、重複カード設定はリセットされます",
-    "chinese": "※未被设置为有效中的技能卡将不会在牌堆中出现\n※编成变更时，重复卡设置将会被重置"
+    "chinese": "※未被设置为有效中的技能卡将不会在牌堆中出现\n※变更编成时，重复卡设置将会被重置"
   },
   "competition.unit_template.overlap_card": {
     "japanese": "重複カード設定",
@@ -23717,7 +23717,7 @@
   },
   "competition.unit_template.description": {
     "japanese": "編成呼び出し時にアイドルの順番を変更できます",
-    "chinese": "调用编成时可以调整偶像的登场顺序"
+    "chinese": "调用编成时可以变更偶像的登场顺序"
   },
   "competition.unit_template.execute.disabled.empty_memory": {
     "japanese": "編成されているメモリーがありません",
@@ -23733,7 +23733,7 @@
   },
   "competition.unit_template_name_edit_sheet.title": {
     "japanese": "マイユニット編成名変更",
-    "chinese": "个人组合编成名变更"
+    "chinese": "变更个人组合编成名称"
   },
   "competition.unit_copy.title.copy_between_template": {
     "japanese": "マイユニットコピー",
