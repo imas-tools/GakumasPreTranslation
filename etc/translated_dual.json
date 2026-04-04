@@ -2825,7 +2825,7 @@
   },
   "common.sort_filter": {
     "japanese": "ソート・フィルタ",
-    "chinese": "排序·筛选"
+    "chinese": "排序・筛选"
   },
   "produce.info.tab.deck": {
     "japanese": "編成",
@@ -3361,7 +3361,7 @@
   },
   "produce.lesson.grow_effect.description_swap": {
     "japanese": "試験・ステージ終了まで、スキルカードの性能を変化させる",
-    "chinese": "试验·舞台结束前，改变技能卡性能"
+    "chinese": "试验・舞台结束前，改变技能卡性能"
   },
   "produce.info.status.excluded_card.hover": {
     "japanese": "除去したスキルカードはプロデュース中に獲得できる報酬の候補として表示されなくなり、報酬として獲得することもなくなります。",
@@ -15445,7 +15445,7 @@
   },
   "costume.random.setting.overlay.description": {
     "japanese": "選択した衣装・髪型がホームでのアイドルの衣装・髪型に\nランダムで適用されます。",
-    "chinese": "所选的服装·发型将会随机应用到主页上偶像的服装·发型。"
+    "chinese": "所选的服装・发型将会随机应用到主页上偶像的服装・发型。"
   },
   "photography.photo.camera_move_speed.normal": {
     "japanese": "ふつう",
@@ -20005,7 +20005,7 @@
   },
   "setting.preference.fullscreen.description": {
     "japanese": "この項目をONにすると、フルスクリーン対応画面の場合自動でフルスクリーンになります。",
-    "chinese": "若此项设置为开启，则适配全屏的画面将自动调整为全屏。"
+    "chinese": "开启此选项后，则适配全屏的画面将自动调整为全屏。"
   },
   "friend.search.title": {
     "japanese": "ID検索",
@@ -20505,7 +20505,7 @@
   },
   "costume.random.setting.confirm_sheet.description": {
     "japanese": "選択している衣装・髪型をランダムで表示します\nよろしいですか？",
-    "chinese": "所选的服装·发型随机将显示\n确定吗？"
+    "chinese": "所选的服装・发型随机将显示\n确定吗？"
   },
   "costume.random.setting.confirm_sheet.alert": {
     "japanese": "※髪型が固定される衣装が選択された場合、髪型は\n　衣装にあわせたものになります",
@@ -21197,7 +21197,7 @@
   },
   "setting.preference.fullscreen.dialog.detail": {
     "japanese": "この項目をONにすると、フルスクリーン対応画面の場合自動でフルスクリーンになります。",
-    "chinese": "若此项设置为开启，则适配全屏的画面将自动调整为全屏。"
+    "chinese": "开启此选项后，则适配全屏的画面将自动调整为全屏。"
   },
   "setting.preference.fullscreen.dialog.notice": {
     "japanese": "「メニュー＞設定」からいつでも変更できます",
