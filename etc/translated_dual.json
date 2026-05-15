@@ -257,7 +257,7 @@
   },
   "produce.shop.reroll.title": {
     "japanese": "相談リフレッシュ確認",
-    "chinese": "商店刷新确认"
+    "chinese": "咨询刷新确认"
   },
   "produce.result.reward_drink_confirm": {
     "japanese": "Pドリンクはこれ以上持てません\n所持しているPドリンクを使用するか\n捨てることで新たに獲得することができます",
@@ -353,7 +353,7 @@
   },
   "produce.schedule.step_self_vocal_description": {
     "japanese": "体力を消費して\nボーカルが上昇します。",
-    "chinese": "歌唱能力值会提升。"
+    "chinese": "消耗体力\n歌唱能力值会提升。"
   },
   "common.plus": {
     "japanese": "+{0}",
@@ -861,7 +861,7 @@
   },
   "produce.lesson.item_count_change": {
     "japanese": "Pアイドル専用Pアイテム使用可能回数",
-    "chinese": "道具可使用次数"
+    "chinese": "P偶像专用道具可使用次数"
   },
   "time.hm": {
     "japanese": "{0}:{1}",
@@ -1113,7 +1113,7 @@
   },
   "produce.event.item": {
     "japanese": "イベント情報",
-    "chinese": "活动P道具"
+    "chinese": "活动信息"
   },
   "pc.waring_disable_feature": {
     "japanese": "DMM GAMES版ではご利用いただけません",
@@ -1325,7 +1325,7 @@
   },
   "produce.result.photo.upload.failed.description": {
     "japanese": "エラーによりフォトを保存できませんでした",
-    "chinese": "由于错误无法保存照片\n需要重试吗？</color>"
+    "chinese": "由于错误无法保存照片"
   },
   "produce.remove.result": {
     "japanese": "{0}枚のスキルカードを削除しました。",
@@ -1521,7 +1521,7 @@
   },
   "common.text.length.error": {
     "japanese": "※プロデューサー名はゲーム内で公開されます\n※プロデューサー名はあとから変更できます\n※本名、メールアドレス、電話番号などの個人情報や\n　個人の特定につながる情報は入力しないでください",
-    "chinese": "※ 制作人姓名将在游戏中公开\n※ 请勿输入姓名、电子邮件地址、电话号码等个人信息或与个人识别相关的信息"
+    "chinese": "※制作人姓名将在游戏中公开\n※制作人名称可在后续进行修改\n※请勿输入姓名、电子邮件地址、电话号码等个人信息或与个人识别相关的信息"
   },
   "common.network.noti.title": {
     "japanese": "通知",
@@ -2869,7 +2869,7 @@
   },
   "produce.schedule.audition_remain_week": {
     "japanese": "{0}まで",
-    "chinese": "{0}剩余"
+    "chinese": "{0}截止"
   },
   "home.gasha.result.continuous.draw_suffix": {
     "japanese": "連引く",
@@ -3537,7 +3537,7 @@
   },
   "produce.confirm_reroll_sheet.description": {
     "japanese": "獲得可能なスキルカードの候補を再抽選しますか？\n<color=#u:Negative>※プロデュース中の再抽選可能回数には制限があります</color>\n<color=#u:Negative>※レアリティも再抽選になります</color>",
-    "chinese": "重新抽选可获得的技能卡候选吗？\n<color=#u:Negative>在培育中对重新抽选有次数限制</color>"
+    "chinese": "重新抽选可获得的技能卡候选吗？\n<color=#u:Negative>在培育中对重新抽选有次数限制</color>\n<color=#u:Negative>※稀有度也会重新抽选</color>"
   },
   "common.parameter.mental": {
     "japanese": "メンタル",
@@ -3621,7 +3621,7 @@
   },
   "produce.interval.end_warning.execute": {
     "japanese": "本戦へ",
-    "chinese": "正赛"
+    "chinese": "前往正赛"
   },
   "common.ranking.reward_list.cell.detail.label": {
     "japanese": "もっとみる",
@@ -3709,7 +3709,7 @@
   },
   "produce.schedule.step_business_description": {
     "japanese": "ファン投票数を獲得します。\n営業先により様々な効果が発生します。",
-    "chinese": "根据营业地点会产生各种效果。\n会消耗P点数或者体力"
+    "chinese": "获得粉丝投票数。\n根据营业地点会产生各种效果。"
   },
   "produce.lesson.log.title.enchant": {
     "japanese": "持続効果「{0}」",
@@ -3781,7 +3781,7 @@
   },
   "produce.schedule.step_customize_description": {
     "japanese": "Pポイントを消費し、強化済みの\nスキルカードをカスタマイズできます。",
-    "chinese": "可以对卡片进行自定义强化。"
+    "chinese": "消耗P点数后，\n可以自定义已强化的技能卡。"
   },
   "produce.interval.customize.button": {
     "japanese": "スキルカード\nカスタマイズ",
@@ -3873,7 +3873,7 @@
   },
   "produce.nia.audition.ranking.text": {
     "japanese": "{0}位",
-    "chinese": " {0} "
+    "chinese": "{0}名"
   },
   "produce.common.no_changeable_card": {
     "japanese": "チェンジ可能なスキルカードがありません",
@@ -3985,7 +3985,7 @@
   },
   "produce.menu.retire_confirm_warning": {
     "japanese": "※進行中のプロデュースデータは削除されます\n※消費したAPは返却されません\n※「プロデュースに挑戦しよう」の課題は達成扱いになりません",
-    "chinese": "※正在进行的培育数据将被删除\n※已消耗的AP将不会返还\n※“开始培育”的挑战将被视为已完成"
+    "chinese": "※正在进行的培育数据将被删除\n※已消耗的AP将不会返还\n※「挑战培育吧」的课题将不被视为已完成"
   },
   "produce.lesson.no_effect.review_zero": {
     "japanese": "好印象の値が０のため効果が発動しません。",
@@ -4097,7 +4097,7 @@
   },
   "produce.menu.detail_dialog.week": {
     "japanese": "{0}{1}目",
-    "chinese": "{0}周目"
+    "chinese": "{0}{1}目"
   },
   "produce_prepare.support_card_deck_name_edit_sheet.title": {
     "japanese": "サポートカード編成",
@@ -4109,7 +4109,7 @@
   },
   "produce.audition_next_info.remain_title": {
     "japanese": "{0}まで",
-    "chinese": "{0}剩余"
+    "chinese": "{0}截止"
   },
   "produce.info.schedule": {
     "japanese": "スケジュール",
@@ -4121,11 +4121,11 @@
   },
   "produce.schedule.step_fan_present_description": {
     "japanese": "Pポイントやアイテムを獲得できます。ファン\n投票数ボーナスが発生することがあります。",
-    "chinese": "根据粉丝投票数\n可以获得P点数和道具。"
+    "chinese": "可获得P点数和道具。\n可能发生粉丝投票数加成。"
   },
   "produce.info.remain_week_prefix": {
     "japanese": "{0}まであと",
-    "chinese": "{0}剩余"
+    "chinese": "{0}截止还有"
   },
   "produce.info.tab.deck_with_event": {
     "japanese": "編成・イベント",
@@ -4181,7 +4181,7 @@
   },
   "produce.change.select": {
     "japanese": "チェンジするスキルカードを",
-    "chinese": "选择要改变的技能卡"
+    "chinese": "选择要变换的技能卡"
   },
   "produce.schedule.step_exam_vi_legend_sp_description": {
     "japanese": "難易度は高いですが、よりビジュアルが上昇します。\nクリア後はすべてのパラメータが上昇します。",
@@ -4645,7 +4645,7 @@
   },
   "produce.hif.audition.ranking.border": {
     "japanese": "突破\nライン",
-    "chinese": "突破\n线"
+    "chinese": "通过线"
   },
   "produce.result.memory_save.title_album": {
     "japanese": "アルバム保存",
@@ -4661,7 +4661,7 @@
   },
   "produce.skip_refresh.description": {
     "japanese": "選択できるスケジュールがないため、次の{0}へ進みます。",
-    "chinese": "由于没有可选的日程，进入下一周。"
+    "chinese": "由于没有可选的日程，进入下一{0}。"
   },
   "produce.confirm_stamina_sheet.description": {
     "japanese": "体力が低下しています\nレッスンを開始しますか？",
@@ -4765,7 +4765,7 @@
   },
   "produce.shop.reroll.setting.description": {
     "japanese": "相談リフレッシュするときに確認メッセージを表示します。",
-    "chinese": "刷新时会显示确认消息。"
+    "chinese": "咨询刷新时会显示确认信息。"
   },
   "produce.result.photo.save_limit.description": {
     "japanese": "保存可能枚数が上限に達しています",
@@ -4853,7 +4853,7 @@
   },
   "produce.lesson.log.detail.card_force_play": {
     "japanese": "「{0}」を使用準備",
-    "chinese": "使用「{0}」"
+    "chinese": "准备使用「{0}」"
   },
   "produce.select.min": {
     "japanese": "{0}枚以上で好きな数選択してください",
@@ -4993,7 +4993,7 @@
   },
   "produce.schedule.step_self_visual_description": {
     "japanese": "体力を消費して\nビジュアルが上昇します。",
-    "chinese": "视觉能力值会提升。"
+    "chinese": "消耗体力\n视觉能力值会提升。"
   },
   "produce.card.sort.staminavalue": {
     "japanese": "消費体力",
@@ -5169,7 +5169,7 @@
   },
   "produce.lesson.log.detail.card_upgrade": {
     "japanese": "「{0}」に強化",
-    "chinese": "强化「{0}」"
+    "chinese": "强化为「{0}」"
   },
   "produce.effect.turn_suffix": {
     "japanese": "ターン",
@@ -5541,7 +5541,7 @@
   },
   "produce.schedule.step_self_dance_description": {
     "japanese": "体力を消費して\nダンスが上昇します。",
-    "chinese": "舞蹈能力值会提升。"
+    "chinese": "消耗体力\n舞蹈能力值会提升。"
   },
   "produce.schedule.step_self_dance_sp_description": {
     "japanese": "ダンスが上昇します。\n体力消費量も多いですが報酬も豪華です。",
@@ -5701,7 +5701,7 @@
   },
   "produce.sheet.drink_max.description": {
     "japanese": "Pドリンク所持数が上限に達しています。\n保持しておくドリンクを{0}つ選んでください。",
-    "chinese": "P饮料持有数量已达上限。\n请选择保留的三瓶饮料。"
+    "chinese": "P饮料持有数量已达上限。\n请选择保留的{0}瓶饮料。"
   },
   "produce.sheet.drink_max.button": {
     "japanese": "残す",
@@ -5937,7 +5937,7 @@
   },
   "home.gasha.point_exchange_confirm_sheet.description.idol_card": {
     "japanese": "{0}を{1:N0}消費してプロデュースアイドルを獲得します",
-    "chinese": "消耗{0:N0}兑换Pt\n获得培育用偶像"
+    "chinese": "消耗{0:N0}个{0}\n获得培育用偶像"
   },
   "home.gasha.point_detail_overlay.idol_card": {
     "japanese": "プロデュースアイドル",
@@ -5973,7 +5973,7 @@
   },
   "produce.lesson.no_effect.hand_limit": {
     "japanese": "手札が既に上限枚数であるため発動しない効果があります。",
-    "chinese": "因选择框已达上限，效果未能发动。"
+    "chinese": "因手牌数量已达上限，效果未能发动。"
   },
   "produce.lesson.no_effect.timer_over": {
     "japanese": "残りターンが少ないため効果が発動しません。",
@@ -6341,7 +6341,7 @@
   },
   "present.history_list.cell.label_received": {
     "japanese": "受取日時",
-    "chinese": "领取日期"
+    "chinese": "领取时间"
   },
   "produce.customize.upgrade.target_count": {
     "japanese": "カスタマイズ可能スキルカード あと{0}枚",
@@ -6437,7 +6437,7 @@
   },
   "produce.nia.audition_name.finalhard": {
     "japanese": "QUARTET",
-    "chinese": "QUALTET"
+    "chinese": "QUARTET"
   },
   "produce.nia.audition.condition_title": {
     "japanese": "条件{0}",
@@ -6477,11 +6477,11 @@
   },
   "produce.audition.clear": {
     "japanese": "{0}で{1}突破",
-    "chinese": "排名在第{0}以上通过{1}"
+    "chinese": "以第{0}名通过{1}"
   },
   "produce.audition.force_clear": {
     "japanese": "{0}またはスコア{1}以上で{2}突破",
-    "chinese": "排名在第{0}以上或得分在{1}以上通过{2}"
+    "chinese": "以第{0}名或得分在{1}以上通过{2}"
   },
   "produce.tower.clear": {
     "japanese": "{0}で合格",
@@ -7017,7 +7017,7 @@
   },
   "produce.hif.custom_item.get.select.description": {
     "japanese": "獲得するPアイテムを選択してください",
-    "chinese": "请选择获得的P道具"
+    "chinese": "请选择要获得的P道具"
   },
   "produce.hif.custom_item.customize.confirm.title": {
     "japanese": "カスタマイズ確認",
@@ -7509,7 +7509,7 @@
   },
   "produce_prepare.support_card_deck_edit.empty_reset": {
     "japanese": "編成されているサポートカードはありません",
-    "chinese": "没有可编成的支援卡"
+    "chinese": "没有已编成的支援卡"
   },
   "home.gasha.item_confirm_sheet.execute.disable_toast": {
     "japanese": "アイテムが不足しています",
@@ -7853,7 +7853,7 @@
   },
   "produce_prepare.idol_select.label.event_target_only": {
     "japanese": "イベント対象アイドルのみ表示されています",
-    "chinese": "仅可选择活动目标偶像"
+    "chinese": "仅显示活动目标偶像"
   },
   "produce_prepare.music_change.sheet.settings": {
     "japanese": "ライブ演出設定",
@@ -8341,7 +8341,7 @@
   },
   "story.voice_setting_sheet.setting_description": {
     "japanese": "プロデュースでボイスがあるコミュのボイス設定を選択してください。",
-    "chinese": "培育过程中是否播放语音。"
+    "chinese": "请选择培育时有语音的对话的语音设置。"
   },
   "memory.filter.produce_effect.visualaddition": {
     "japanese": "ビジュアル増加",
@@ -8509,7 +8509,7 @@
   },
   "meishi.qr_code.description": {
     "japanese": "この名刺コードを相手が読み取ることで\nあなたの名刺が相手に送られます",
-    "chinese": "对方读取这个名片代码后，\n你的名片就将发送给对方"
+    "chinese": "对方读取这个名片码后，\n你的名片就将发送给对方"
   },
   "story_event.event_coin_bonus": {
     "japanese": "イベント交換所用アイテムボーナス",
@@ -8577,7 +8577,7 @@
   },
   "story_event.box_gasha.draw.sheet.description": {
     "japanese": "{0}を消費して\nイベントガシャを引きますか？",
-    "chinese": "消耗{0}来抽取BOX扭蛋吗？"
+    "chinese": "消耗{0}来抽取活动扭蛋吗？"
   },
   "pvp.rate.unit_template_edit.back_confirm.title": {
     "japanese": "ユニット編成確認",
@@ -8717,11 +8717,11 @@
   },
   "produce_prepare.easy_mode.start_produce_sheet.message": {
     "japanese": "かんたんモードでプロデュース開始します\nよろしいですか？",
-    "chinese": "将在辅助模式下开始培育\\n确定吗？"
+    "chinese": "将在简单模式下开始培育\\n确定吗？"
   },
   "produce_prepare.easy_mode.setting_sheet.confirm": {
     "japanese": "かんたん\nモードを適用",
-    "chinese": "启用辅助模式"
+    "chinese": "启用简单模式"
   },
   "achievement.cell.true_end.nia_produce_condition": {
     "japanese": "プロデュース\n「N.I.A」\nで獲得可能",
@@ -8949,7 +8949,7 @@
   },
   "profile.badge_select.title": {
     "japanese": "バッジ一覧",
-    "chinese": "徽章设置"
+    "chinese": "徽章概览"
   },
   "meishi.edit.horizontal": {
     "japanese": "ヨコ",
@@ -9045,7 +9045,7 @@
   },
   "exchange.ticket_confirm.idol_card_skin_to_piece": {
     "japanese": "獲得済みのプロデュースアイドルです。\nピースに変換して獲得します。",
-    "chinese": "已获得的培育用偶像。\n将其变换为碎片。"
+    "chinese": "已获得的培育用偶像。\n将其变换为碎片并获得。"
   },
   "memory.sell.button.execute": {
     "japanese": "変換する",
@@ -9341,7 +9341,7 @@
   },
   "card.idol_card.upgrade_prima_stella_overlay.unlock_legend_skill_card": {
     "japanese": "解放されるレジェンドスキルカード",
-    "chinese": "已解锁的传说技能卡"
+    "chinese": "可解锁的传说技能卡"
   },
   "meishi.edit_custom.layer.profile_pvp_rate_grade": {
     "japanese": "GRADE",
@@ -9537,7 +9537,7 @@
   },
   "produce_prepare.easy_mode.setting_sheet.message": {
     "japanese": "次回プレイする{0}の難易度：{1}にかんたんモードを適用してプロデュースを開始できます",
-    "chinese": "下次游玩{0}的难度：{1}时，可以启用辅助模式并开始培育"
+    "chinese": "下次游玩{0}的难度：{1}时，可以启用简单模式并开始培育"
   },
   "shop.purchase.limit_over": {
     "japanese": "購入上限に達しています",
@@ -9761,7 +9761,7 @@
   },
   "produce_prepare.easy_mode_apply": {
     "japanese": "かんたんモード適用中",
-    "chinese": "辅助模式已启用"
+    "chinese": "简单模式已启用"
   },
   "selection_memory.sort.clearedtime": {
     "japanese": "入手",
@@ -9849,7 +9849,7 @@
   },
   "produce_prepare.edit.description": {
     "japanese": "「{0}」のサポートカード編成、メモリー編成をコピーしました。",
-    "chinese": "已复制“定期公演『初』”的支援卡组与回忆组。"
+    "chinese": "已复制「{0}」的支援卡编成与回忆编成。"
   },
   "card.sort.level": {
     "japanese": "Lv",
@@ -10045,7 +10045,7 @@
   },
   "meishi.edit_custom.sub_menu.character.card.description": {
     "japanese": "追加するプロデュースアイドルの種類を選んでください",
-    "chinese": "请选择要添加的培育偶像类型"
+    "chinese": "请选择要添加的培育用偶像的类型"
   },
   "main_task.pickup_sheet.story": {
     "japanese": "初星コミュ1章　{0}話　解放",
@@ -10273,7 +10273,7 @@
   },
   "story.play_confirm_sheet.dearness.title": {
     "japanese": "親愛度コミュ",
-    "chinese": "亲密度回忆"
+    "chinese": "亲密度交流"
   },
   "exchange.ticket_list.costume.owned": {
     "japanese": "所持済み",
@@ -10569,11 +10569,11 @@
   },
   "profile.badge_select.thumb_empty.empty.toast": {
     "japanese": "バッジを所持していません",
-    "chinese": "以后可在制作人排行榜中获取"
+    "chinese": "未持有徽章"
   },
   "card.upgrade_status_list.produce_card": {
     "japanese": "固有スキルカード強化",
-    "chinese": "固有P卡牌强化"
+    "chinese": "固有技能卡强化"
   },
   "exchange.count.change.description": {
     "japanese": "次回から1回交換あたりの消費アイテム量が以下になります。",
@@ -10629,7 +10629,7 @@
   },
   "produce_prepare.easy_mode.continue_sheet.title": {
     "japanese": "かんたんモード設定確認",
-    "chinese": "辅助模式设置确认"
+    "chinese": "简单模式设置确认"
   },
   "exchange.update.minute": {
     "japanese": "あと{0}分で更新",
@@ -10701,7 +10701,7 @@
   },
   "exchange.label.update": {
     "japanese": "更新 {0}",
-    "chinese": "更新"
+    "chinese": "更新 {0}"
   },
   "pvp.rate.same_character_confirm_sheet.warning": {
     "japanese": "同じステージに同一のアイドルは編成できません\n別のステージであっても、メインメモリーに設定しているプロデュースアイドルと同一のプロデュースアイドルは設定できません",
@@ -10765,7 +10765,7 @@
   },
   "produce_prepare.memory_select_list.label.empty_rental_memory": {
     "japanese": "レンタルできるメモリーがありません\nフォローしたフレンドのメモリーをレンタルできます",
-    "chinese": "没有租借回忆"
+    "chinese": "没有可租借的回忆\n可以租借已关注好友的回忆"
   },
   "profile.other.unfollow": {
     "japanese": "フォロー解除",
@@ -11017,7 +11017,7 @@
   },
   "achievement.idol_skin.description": {
     "japanese": "アチーブメント対象のプロデュースアイドルは以下です",
-    "chinese": "成就目标的培育偶像如下"
+    "chinese": "成就目标的培育用偶像如下"
   },
   "selection_memory.list.label.count": {
     "japanese": "所持数",
@@ -11153,7 +11153,7 @@
   },
   "story.idol.produce.unlocked_count": {
     "japanese": "コミュ解放数",
-    "chinese": "回忆解锁数"
+    "chinese": "交流解锁数"
   },
   "audition.config.rank_description.nia": {
     "japanese": "{0}位",
@@ -11305,7 +11305,7 @@
   },
   "main_task.detail.feature_unlock_sheet.message": {
     "japanese": "以下の機能が解放されます",
-    "chinese": "以下功能已解锁"
+    "chinese": "以下功能将会解锁"
   },
   "pvp.rate.unit_template.label.count": {
     "japanese": "編成済み：",
@@ -12125,7 +12125,7 @@
   },
   "produce_prepare.easy_mode.setting_sheet.title": {
     "japanese": "かんたんモード設定",
-    "chinese": "辅助模式设置"
+    "chinese": "简单模式设置"
   },
   "produce_prepare.easy_mode.start_produce_sheet.title": {
     "japanese": "確認",
@@ -12137,7 +12137,7 @@
   },
   "produce_prepare.easy_mode.continue_sheet.message": {
     "japanese": "かんたんモードの設定を解除しますか？",
-    "chinese": "是否解除已设置的辅助模式？"
+    "chinese": "是否解除已设置的简单模式？"
   },
   "produce.top.button.enter": {
     "japanese": "次へ",
@@ -12217,7 +12217,7 @@
   },
   "produce.prepare.challenge.item_title": {
     "japanese": "チャレンジ\nPアイテム",
-    "chinese": "挑战\n道具"
+    "chinese": "挑战P道具"
   },
   "item.transition.story_event": {
     "japanese": "イベントへ",
@@ -12457,7 +12457,7 @@
   },
   "shop.web_store.confirm.description": {
     "japanese": "Webブラウザを開きますか？\n公式WEB SHOPを利用するには生年月日入力が\n必要になります。\n【メニュー>その他>生年月日入力】から設定できます。",
-    "chinese": "是否打开网页浏览器？\\n出生日期可以在【菜单 > 其他 > 输入出生日期】中进行设置。"
+    "chinese": "是否打开网页浏览器？\n使用官方WEB SHOP必须输入出生日期。\n出生日期可以在【菜单 > 其他 > 输入出生日期】中进行设置。"
   },
   "produce.ranking.label.season_active": {
     "japanese": "開催中",
@@ -12633,7 +12633,7 @@
   },
   "card.idol_card.upgrade_prima_stella_confirm_sheet.message": {
     "japanese": "素材を消費して『一番星』解放を行いますか？",
-    "chinese": "是否消耗素材进行『启明星』解锁？"
+    "chinese": "是否消耗素材去解锁『启明星』？"
   },
   "producer.level.button.conversion_setting": {
     "japanese": "スイッチ設定へ",
@@ -12669,7 +12669,7 @@
   },
   "story.story_event.main_story.move_to_story_list": {
     "japanese": "コミュを\nみよう",
-    "chinese": "读未读的交流"
+    "chinese": "阅读交流"
   },
   "produce_plan_type_condition_sheet.description.common": {
     "japanese": "どのプランのプロデュースアイドルのプロデュース時にも編成可能です",
@@ -13289,7 +13289,7 @@
   },
   "card.idol_card.preview.attention": {
     "japanese": "True Endボーナスは現在の状況が反映されます",
-    "chinese": "不包含True End奖励"
+    "chinese": "True End奖励将反映当前状况"
   },
   "memory.to_photo.sheet.save.description": {
     "japanese": "このメモリーをフォトアルバムに保存しますか？",
@@ -13313,7 +13313,7 @@
   },
   "card.idol_card.info.prima_stella.title.ruby_text": {
     "japanese": "<r=プリマステラ>『一番星』</r>解放",
-    "chinese": "解锁</r><r=Prima Stella>『启明星』"
+    "chinese": "<r=Prima Stella>『启明星』</r>解锁"
   },
   "card.idol_card.info.prima_stella.message.max": {
     "japanese": "『一番星』を解放しました",
@@ -13377,7 +13377,7 @@
   },
   "meishi.sort.followtime": {
     "japanese": "交換日時",
-    "chinese": "兑换日期"
+    "chinese": "兑换时间"
   },
   "card.idol_card.upgrade_level_limit_rank_overlay.button.execute": {
     "japanese": "特訓",
@@ -13773,7 +13773,7 @@
   },
   "picturebook.live.unlock_confirm.sheet.description": {
     "japanese": "{0}を使用して、ライブを解放しますか？\n※{1}の{2}のライブが解放されます",
-    "chinese": "是否使用{0}解锁直播？"
+    "chinese": "是否使用{0}解锁演唱会？\n※{1}的{2}的演唱会将被解锁"
   },
   "card.status.produce.label.produce_card": {
     "japanese": "スキルカード",
@@ -13841,7 +13841,7 @@
   },
   "card.produce_card_customize.detail_sheet.nia_condition": {
     "japanese": "※カスタマイズは「NEXT IDOL AUDITION」の特別指導でおこなえます",
-    "chinese": "※自定义是能够在「NEXT IDOL AUDITION」中进行的特别指导"
+    "chinese": "※可在「NEXT IDOL AUDITION」的特别指导中进行自定义"
   },
   "conversion.top.label.title": {
     "japanese": "スキルカードスイッチ",
@@ -13993,7 +13993,7 @@
   },
   "memory.detail.produce.card.phase.audition_mid": {
     "japanese": "中間試験/1次オーディション後に獲得",
-    "chinese": "通过期中考试后获得"
+    "chinese": "通过期中考试/1次试镜后获得"
   },
   "memory.detail.produce.ability.title": {
     "japanese": "アビリティ",
@@ -14049,7 +14049,7 @@
   },
   "memory.list.sell.max_number.toast": {
     "japanese": "選択できる枚数は最大{0}枚です",
-    "chinese": "可选择的最大数量为{0}人"
+    "chinese": "可选择的最大数量为{0}张"
   },
   "memory.list.sell.empty.toast": {
     "japanese": "変換するメモリーを選択してください",
@@ -14069,7 +14069,7 @@
   },
   "memory.list.cell.button.cant_be_invoke": {
     "japanese": "発動しない効果です",
-    "chinese": "当前培育无法触发的效果"
+    "chinese": "此效果不会发动"
   },
   "meishi.edit_custom.layer.base_asset_story_background": {
     "japanese": "背景",
@@ -14177,7 +14177,7 @@
   },
   "memory.filter.exam_battle_item_effect": {
     "japanese": "ステージ用Pアイテム",
-    "chinese": "比赛用P道具"
+    "chinese": "舞台用P道具"
   },
   "memory.filter.sheet.empty": {
     "japanese": "条件に当てはまるメモリーがありません",
@@ -14505,7 +14505,7 @@
   },
   "story_event.box_gasha.item_name": {
     "japanese": "イベント用アイテム",
-    "chinese": "BOX扭蛋硬币"
+    "chinese": "活动用道具"
   },
   "memory.inherit.execute": {
     "japanese": "合成する",
@@ -15161,7 +15161,7 @@
   },
   "pvp.rate.sub_memory_select.disable_main_memory.toast": {
     "japanese": "メインメモリーを未設定にすることはできません",
-    "chinese": "无法设置主回忆"
+    "chinese": "无法取消设置主回忆"
   },
   "pvp.rate.no_organized_confirm_sheet.title": {
     "japanese": "メモリー未編成",
@@ -15413,7 +15413,7 @@
   },
   "exchange.attention.idol_card_skin_to_piece": {
     "japanese": "獲得済みのプロデュースアイドルです。\nピースに変換して獲得します。",
-    "chinese": "已获得的培育用偶像。\n将其变换为碎片。"
+    "chinese": "已获得的培育用偶像。\n将其变换为碎片并获得。"
   },
   "story_event.box_gasha.potential_max": {
     "japanese": "才能開花最大",
@@ -15585,7 +15585,7 @@
   },
   "profile.comment.edit.title": {
     "japanese": "コメント設定",
-    "chinese": "评论设置"
+    "chinese": "留言设置"
   },
   "story_event.guild_mission.detail.number": {
     "japanese": "No.",
@@ -15741,7 +15741,7 @@
   },
   "exchange.ticket_confirm.attention.idol_card_to_piece": {
     "japanese": "獲得済みのプロデュースアイドルです。\nピースに変換して獲得します。",
-    "chinese": "已获得的培育用偶像。\n将其变换为碎片。"
+    "chinese": "已获得的培育用偶像。\n将其变换为碎片并获得。"
   },
   "item.transition.coin_gasha": {
     "japanese": "コイン\nガシャへ",
@@ -16149,7 +16149,7 @@
   },
   "shop.age_registration_sheet.age_limit.right_pc": {
     "japanese": "1ヶ月{0:N0}ptまで\n1ヶ月{1:N0}ptまで\n限度なし",
-    "chinese": "每月最多{0:N0}pt"
+    "chinese": "每月最多{0:N0}pt\n在每月{0:N0}pt前\n无限制"
   },
   "shop.age_registration_sheet.description_kana": {
     "japanese": "※ないようがわからないときは、おうちのひとに\n　がめんをみせてください",
@@ -16165,7 +16165,7 @@
   },
   "meishi.qr_code.title": {
     "japanese": "あなたの名刺コード",
-    "chinese": "您的名片代码"
+    "chinese": "您的名片码"
   },
   "shop.age_confirm.birthday": {
     "japanese": "{0}年 {1}月 {2}日",
@@ -16661,7 +16661,7 @@
   },
   "achievement.true_end.receive.description": {
     "japanese": "True Endボーナスは\n該当アイドルの全てのPアイドルに反映されます",
-    "chinese": "True End加成将应用于所有对应偶像的培育偶像"
+    "chinese": "True End加成将应用于\n该偶像的所有培育用偶像"
   },
   "achievement.true_end.receive.lesson_bonus": {
     "japanese": "レッスンボーナス",
@@ -16749,7 +16749,7 @@
   },
   "achievement.cell.true_end.nia_toast_produce_condition": {
     "japanese": "P課題35を達成し\n親愛度Lv10でプロデュース「N.I.A」解放",
-    "chinese": "亲密度Lv10解锁培育「N.I.A」"
+    "chinese": "完成P课题35\n亲密度Lv10解锁培育「N.I.A」"
   },
   "achievement.cell.true_end.nia_unimplemented_produce": {
     "japanese": "プロデュース\n「N.I.A」\n追加準備中",
@@ -17025,7 +17025,7 @@
   },
   "meishi.top.button.qr": {
     "japanese": "名刺コード",
-    "chinese": "QR码"
+    "chinese": "名片码"
   },
   "meishi.top.button.download": {
     "japanese": "端末保存",
@@ -17109,7 +17109,7 @@
   },
   "meishi.qr_code.scan_description": {
     "japanese": "名刺コードを枠に合わせてください",
-    "chinese": "请将名片代码对准框对齐"
+    "chinese": "请将名片码对齐对准框"
   },
   "meishi.edit_custom.menu.movie": {
     "japanese": "動画",
@@ -17281,7 +17281,7 @@
   },
   "meishi.edit_custom.sub_menu.movie.label": {
     "japanese": "保存中の動画",
-    "chinese": "保存的视频"
+    "chinese": "保存中的视频"
   },
   "meishi_edit_custom.sub_menu.movie.selected": {
     "japanese": "設定中",
@@ -17497,7 +17497,7 @@
   },
   "meishi.request.cameraPermission.error.description": {
     "japanese": "名刺コードの読み取りにカメラを使用します。\nカメラの使用許可をお願いします。",
-    "chinese": "读取名片代码需要使用相机。\n请允许相机的使用权限。"
+    "chinese": "读取名片码需要使用相机。\n请允许相机的使用权限。"
   },
   "meishi.follow.date": {
     "japanese": "交換日",
@@ -17797,11 +17797,11 @@
   },
   "story.story_event.section.box_gasha_condition_lock_text": {
     "japanese": "特定の回数イベントガシャを引き、直前のコミュをみることで解放",
-    "chinese": "通过进行BOX扭蛋并查看前面的交流来解锁"
+    "chinese": "通过特定次数的活动扭蛋并查看前面的交流来解锁"
   },
   "story.story_event.section.campaign_lock_text": {
     "japanese": "イベントコミュ解放キャンペーンからみることで解放",
-    "chinese": "通过活动回忆解锁活动可以解锁"
+    "chinese": "通过活动交流解锁活动可以解锁"
   },
   "story.story_event.section.event_point_condition_lock_text": {
     "japanese": "イベントPt獲得で解放",
@@ -17909,7 +17909,7 @@
   },
   "story.idol.idol_card.empty_label": {
     "japanese": "コミュが解放できる\nプロデュースアイドルを\n所持していません",
-    "chinese": "没有可以解锁回忆的\n培育偶像"
+    "chinese": "没有可以解锁交流的\n培育用偶像"
   },
   "story.idol.others.birthday": {
     "japanese": "誕生日",
@@ -17929,7 +17929,7 @@
   },
   "story.support_card.character_description": {
     "japanese": "コミュに登場するアイドルを選択",
-    "chinese": "选择出现在回忆中的偶像"
+    "chinese": "选择在交流中登场的偶像"
   },
   "story.support_card_detail.title": {
     "japanese": "サポートコミュ",
@@ -17941,7 +17941,7 @@
   },
   "story.support_card_unlock_sheet.not_enough_description": {
     "japanese": "アイテムを所持していません",
-    "chinese": "未持有足够的道具"
+    "chinese": "未持有该道具"
   },
   "story.support_card_unlock_sheet.unlock_toast": {
     "japanese": "コミュを解放しました",
@@ -18133,7 +18133,7 @@
   },
   "picturebook.live.select.skin.lock": {
     "japanese": "プロデュースアイドル未登場",
-    "chinese": "培育偶像未出现"
+    "chinese": "培育用偶像未登场"
   },
   "picturebook.live.select.live_user.lock": {
     "japanese": "プロデュース内閲覧で解放",
@@ -18261,7 +18261,7 @@
   },
   "setting.preference.photography.random_costume.description": {
     "japanese": "衣装設定をランダムにする場合の確認メッセージを表示します。",
-    "chinese": "显示随机设置服装时的确认消息"
+    "chinese": "服装设置为随机时会显示确认信息"
   },
   "competition.unit_stage_overwrite_sheet.description.save_from_deck": {
     "japanese": "{0}を現在の編成で上書きしますか？",
@@ -18813,7 +18813,7 @@
   },
   "costume.select.button.release.disabled": {
     "japanese": "お気に入り設定がありません",
-    "chinese": "没有已设置为收藏"
+    "chinese": "没有收藏设置"
   },
   "produce_growth_panel.level_up_confirm_sheet.title": {
     "japanese": "ボーナスパネルLv強化確認",
@@ -18921,7 +18921,7 @@
   },
   "setting.produce.reward_card_select_confirm.description": {
     "japanese": "スキルカードを上限まで選択しない時に確認メッセージを表示します。",
-    "chinese": "在未选择满技能卡时显示确认消息。"
+    "chinese": "未选择满技能卡时会显示确认信息。"
   },
   "tour.reward.tab.level_list.header": {
     "japanese": "ハコユレLvクリア報酬",
@@ -19097,11 +19097,11 @@
   },
   "setting.produce.shop_point_low_alert.description": {
     "japanese": "Pポイントが少ない場合、相談を開始する時に確認メッセージを表示します。",
-    "chinese": "在P点数不足时咨询开始显示确认消息。"
+    "chinese": "P点数不足时，开始咨询会显示确认信息。"
   },
   "competition.score_detail_sheet.title": {
     "japanese": "スコア・条件詳細",
-    "chinese": "得分详情"
+    "chinese": "得分・条件详情"
   },
   "competition.unit_edit.duplicate_card.less_customize": {
     "japanese": "編成枠内の重複で、カスタマイズ段階が低い方のカードです",
@@ -19125,7 +19125,7 @@
   },
   "setting.produce.legend_card_get_confirm.description": {
     "japanese": "レジェンドスキルカードを獲得する時に確認メッセージを表示します。",
-    "chinese": "获得传奇技能卡时显示确认消息。"
+    "chinese": "获得传奇技能卡时会显示确认信息。"
   },
   "live.ui.button.skip": {
     "japanese": "SKIP",
@@ -19241,7 +19241,7 @@
   },
   "setting.produce.exam_effect_warning.description": {
     "japanese": "スキルカード/Pドリンクの効果が発動しないときに\n確認メッセージを表示します。",
-    "chinese": "在技能卡效果无法发动时显示确认消息。"
+    "chinese": "在技能卡/P饮料的效果无法发动时\n会显示确认信息。"
   },
   "guild.donation.title": {
     "japanese": "リクエスト",
@@ -19337,7 +19337,7 @@
   },
   "setting.preference.other.produce_growth_panel.title": {
     "japanese": "H.I.Fボーナス設定",
-    "chinese": "准备中"
+    "chinese": "H.I.F加成设置"
   },
   "producer_ranking.character_detail_sheet.summary.score_label": {
     "japanese": "プロデューサー\nランキングポイント合計",
@@ -19665,7 +19665,7 @@
   },
   "setting.produce.exit_interval_confirm.description": {
     "japanese": "インターバルを終了する時に確認メッセージを表示します。",
-    "chinese": "准备中"
+    "chinese": "幕间休息结束时会显示确认信息"
   },
   "angya.preparation.back": {
     "japanese": "戻る",
@@ -19725,7 +19725,7 @@
   },
   "setting.produce.easy_mode_setting.description": {
     "japanese": "この項目をONにすると、\nNEXT IDOL AUDITIONの難易度：プロに挑戦するときかんたんモードになります。",
-    "chinese": "开启此项后，\\n挑战NEXT IDOL AUDITION的难度：Pro时将启用辅助模式。"
+    "chinese": "开启此项后，\\n挑战NEXT IDOL AUDITION的难度：Pro时将启用简单模式。"
   },
   "startup.exchange_item_expire_sheet.top_message": {
     "japanese": "使用期限の近い持ち物があります。",
@@ -19761,7 +19761,7 @@
   },
   "setting.produce.card_effect_revert.description": {
     "japanese": "スキルカードに影響するサポートイベント効果を戻す時に確認メッセージを表示します。",
-    "chinese": "在恢复影响技能卡的支持活动效果时，显示确认消息。"
+    "chinese": "在恢复影响技能卡的支持活动效果时，会显示确认信息。"
   },
   "tutorial.idol_receive.attention_2": {
     "japanese": "1度獲得すると後から変更できません",
@@ -19805,7 +19805,7 @@
   },
   "competition.auto_unit_confirm_sheet.description.all": {
     "japanese": "すべての編成枠に自動でメモリーを編成します。",
-    "chinese": "所有的编成栏已自动编成回忆。"
+    "chinese": "将对所有的编成栏自动编成回忆。"
   },
   "photobackground.filter.time.morning": {
     "japanese": "朝",
@@ -20001,7 +20001,7 @@
   },
   "research_event.target_idol_sheet.description": {
     "japanese": "イベントモード対象のおすすめ効果をもつPアイドルのみイベントモードのプロデュースへの挑戦が可能です",
-    "chinese": "活动模式对象的推荐效果仅限于活动模式的培育挑战"
+    "chinese": "只有拥有活动模式对象推荐效果的P偶像才能挑战活动模式的培育"
   },
   "guild.member.user_deleted": {
     "japanese": "退会したユーザー",
@@ -20349,7 +20349,7 @@
   },
   "high_score_event.reward.total_description_single": {
     "japanese": "イベント対象アイドルのハイスコアが\n一定の数値を超えるごとに報酬が獲得できます",
-    "chinese": "活动目标偶像的高分超过一定数值时，将会获得奖励"
+    "chinese": "活动目标偶像的高分每超过一定数值时，将会获得奖励"
   },
   "setting.preference.photography.random_costume.title": {
     "japanese": "衣装設定確認",
@@ -20737,7 +20737,7 @@
   },
   "setting.produce.produce_voice_off.description": {
     "japanese": "プロデュース開始時にボイスがあるコミュの再生確認メッセージを表示します。",
-    "chinese": "在培育开始时显示有语音对话的播放确认消息。"
+    "chinese": "在培育开始时有语音的对话会显示播放确认信息。"
   },
   "research_event.target_idol_sheet.title": {
     "japanese": "イベント対象Pアイドル",
@@ -20813,7 +20813,7 @@
   },
   "tutorial.name.warning": {
     "japanese": "10文字以内で入力してください\n※プロデューサー名はゲーム内で公開されます\n※プロデューサー名はあとから変更できます\n※本名、メールアドレス、電話番号などの個人情報や\n　個人の特定につながる情報は入力しないでください",
-    "chinese": "请输入10个字符以内\n※制作人名称将在游戏内公开\n※制作人名称在之后可以变更\n※请勿输入个人信息如真实姓名、邮箱地址、电话号码等"
+    "chinese": "请输入10个字符以内\n※制作人名称将在游戏内公开\n※制作人名称可在后续进行修改\n※请勿输入个人信息如真实姓名、邮箱地址、电话号码等"
   },
   "competition.turn": {
     "japanese": "ターン",
@@ -21133,11 +21133,11 @@
   },
   "setting.preference.other.produce_growth_panel.level_up_confirm.description": {
     "japanese": "H.I.Fボーナスを解放・強化する時に確認メッセージを表示します。",
-    "chinese": "准备中"
+    "chinese": "解锁・强化H.I.F加成时会显示确认信息。"
   },
   "tour.top.button.story.unread_story_number": {
     "japanese": "未読あり",
-    "chinese": "第{0}话解锁"
+    "chinese": "有未读"
   },
   "research_event.white_list_sheet.rate_up.sub_title.tag": {
     "japanese": "確率UP",
@@ -21149,7 +21149,7 @@
   },
   "setting.preference.competition.play_confirm.description": {
     "japanese": "コンテストに挑戦する際に確認メッセージを表示します。",
-    "chinese": "挑战竞技场时显示确认消息。"
+    "chinese": "挑战竞技场时会显示确认信息。"
   },
   "invite.publication.copy.toast": {
     "japanese": "コピーしました",
@@ -21245,7 +21245,7 @@
   },
   "setting.produce.easy_mode_confirm": {
     "japanese": "かんたんモード表示",
-    "chinese": "显示辅助模式"
+    "chinese": "显示简单模式"
   },
   "guild.message_edit.complete": {
     "japanese": "メッセージを更新しました",
@@ -21285,7 +21285,7 @@
   },
   "high_score_event.reward.total": {
     "japanese": "ハイスコア達成報酬",
-    "chinese": "累计高分"
+    "chinese": "高分达成奖励"
   },
   "guild.setting.edit": {
     "japanese": "サークル情報編集",
@@ -21625,7 +21625,7 @@
   },
   "setting.produce.custom_item_customize_confirm.description": {
     "japanese": "カスタムPアイテムを獲得・強化する時に確認メッセージを表示します。",
-    "chinese": "准备中"
+    "chinese": "获得・强化自定义P道具时会显示确认信息。"
   },
   "guild.donation.confirm.today_remain": {
     "japanese": "本日残り寄付可能回数",
@@ -21649,7 +21649,7 @@
   },
   "setting.preference.other.guild_setting.guild_donation_confirm.description": {
     "japanese": "サークルメンバーにアイテムを寄付する際に確認メッセージを表示します。",
-    "chinese": "向社团成员捐赠道具时会显示确认消息。"
+    "chinese": "向社团成员捐赠道具时会显示确认信息。"
   },
   "tower.sub_memory_select.decision_button": {
     "japanese": "サブ{0}決定",
@@ -21673,7 +21673,7 @@
   },
   "setting.preference.photography.idol_photo.description": {
     "japanese": "アイドル撮影フォト保存完了後の確認メッセージを表示します。",
-    "chinese": "显示偶像摄影照片保存完成后的确认消息。"
+    "chinese": "偶像摄影照片保存完成后会显示确认信息。"
   },
   "competition.unit_edit.template.execute.toast": {
     "japanese": "編成を呼び出しました",
@@ -21769,7 +21769,7 @@
   },
   "setting.preference.other.produce_growth_panel.level_up_confirm.title": {
     "japanese": "確認メッセージ表示",
-    "chinese": "准备中"
+    "chinese": "显示确认信息"
   },
   "competition.battle_confirm.button.challenge_count": {
     "japanese": "本日{0}回",
@@ -21781,7 +21781,7 @@
   },
   "setting.preference.photography.random_all.description": {
     "japanese": "すべての撮影設定をランダムにする場合の確認メッセージを表示します。",
-    "chinese": "将所有拍摄设置随机化时会显示确认信息。"
+    "chinese": "将所有拍摄设置为随机时会显示确认信息。"
   },
   "angya.top.guild_status.button.guild_detail": {
     "japanese": "サークル情報",
@@ -22141,7 +22141,7 @@
   },
   "setting.produce.lesson_stamina_low_alert.description": {
     "japanese": "アイドルの体力が低下しているときに確認メッセージを表示します。",
-    "chinese": "在偶像体力低下时显示确认消息。"
+    "chinese": "在偶像体力低下时会显示确认信息。"
   },
   "photography.setting.layout.camera": {
     "japanese": "カメラ",
@@ -22473,7 +22473,7 @@
   },
   "live.movie_record_edit.retake_button": {
     "japanese": "前回の場所から\n撮りなおす",
-    "chinese": "重拍"
+    "chinese": "从刚才的地方\n重新开始拍摄"
   },
   "live.movie_record_edit.back_button": {
     "japanese": "戻る",
@@ -22821,7 +22821,7 @@
   },
   "invite.progress.friend_empty": {
     "japanese": "招待したプロデューサーが\nPLv5に到達すると表示されます",
-    "chinese": "没有邀请的好友"
+    "chinese": "已邀请的制作人在\n到达PLv5时才会显示"
   },
   "guild.setting.dissolve": {
     "japanese": "サークル解散",
@@ -23521,7 +23521,7 @@
   },
   "setting.produce.select_change_card_confirm.description": {
     "japanese": "スキルカードを選んでチェンジをする時に確認メッセージを表示します。",
-    "chinese": "准备中"
+    "chinese": "选择技能卡进行变换时会显示确认信息。"
   },
   "costume.produce_setting_sheet.description.produce": {
     "japanese": "プロデュースアイドルの衣装を選択してください",
@@ -23721,7 +23721,7 @@
   },
   "tutorial.idol_receive.warning_stage": {
     "japanese": "※初期状態のプロデュースアイドルを獲得します",
-    "chinese": "※获得初始状态的培育偶像"
+    "chinese": "※获得初始状态的培育用偶像"
   },
   "tutorial.idol_receive.receive_info": {
     "japanese": "獲得内容",
@@ -23949,7 +23949,7 @@
   },
   "setting.preference.noti.daily.description": {
     "japanese": "この項目をONにすると、デイリーミッションを達成していない場合、設定した時間に通知されます。",
-    "chinese": "开启此项后，如果每日任务未完成，将在19:00收到通知。"
+    "chinese": "开启此项后，如果每日任务未完成，将按照设置的时间进行通知。"
   },
   "setting.preference.noti.daily.time": {
     "japanese": "{0}:00",
@@ -23997,15 +23997,15 @@
   },
   "setting.preference.photography.random_character.description": {
     "japanese": "アイドルの衣装と髪型の設定をランダムにする場合の確認メッセージを表示します。",
-    "chinese": "当设置偶像的服装与发型为随机时显示确认信息。"
+    "chinese": "当设置偶像的服装与发型为随机时会显示确认信息。"
   },
   "setting.preference.photography.random_head.description": {
     "japanese": "髪型設定をランダムにする場合の確認メッセージを表示します。",
-    "chinese": "显示随机设置发型时的确认消息。"
+    "chinese": "随机设置发型时会显示确认信息。"
   },
   "setting.preference.photography.random_item.description": {
     "japanese": "撮影アイテム設定をランダムにする場合の確認メッセージを表示します。",
-    "chinese": "显示关于随机设置拍摄道具的确认消息。"
+    "chinese": "随机设置拍摄道具会显示确认信息。"
   },
   "setting.preference.photography.idol_photo": {
     "japanese": "アイドル撮影",
@@ -24029,7 +24029,7 @@
   },
   "setting.preference.photography.live_photo.description": {
     "japanese": "ライブ撮影フォト保存完了後の確認メッセージを表示します。",
-    "chinese": "显示现场摄影照片保存完成后的确认消息。"
+    "chinese": "现场摄影照片保存完成后会显示确认信息。"
   },
   "faq_confirm_sheet.title": {
     "japanese": "確認",
@@ -24065,7 +24065,7 @@
   },
   "setting.preference.competition.skip_confirm.description": {
     "japanese": "コンテストにスキップで挑戦する際に確認メッセージを表示します。",
-    "chinese": "跳过竞技场时显示确认消息。"
+    "chinese": "跳过竞技场时会显示确认信息。"
   },
   "setting.quality.frame_rate": {
     "japanese": "フレームレート",
@@ -24081,11 +24081,11 @@
   },
   "setting.quality.param.medium": {
     "japanese": "標準",
-    "chinese": "中"
+    "chinese": "标准"
   },
   "setting.quality.param.low": {
     "japanese": "簡易",
-    "chinese": "低"
+    "chinese": "简易"
   },
   "setting.quality.resolution": {
     "japanese": "解像度",
@@ -24137,7 +24137,7 @@
   },
   "setting.sound.volume.balance": {
     "japanese": "音量バランス",
-    "chinese": "音量调整"
+    "chinese": "音量平衡"
   },
   "setting.sound.home_bgm_setting": {
     "japanese": "ホームBGM設定",
@@ -24209,7 +24209,7 @@
   },
   "setting.produce.skip_forward_setting.description": {
     "japanese": "コミュ早送り設定の確認メッセージを表示します。",
-    "chinese": "显示交流快进设置的确认消息。"
+    "chinese": "设置交流快进时会显示确认信息。"
   },
   "producer_ranking.share_setting.button.disable_badge": {
     "japanese": "選択できません",
@@ -24221,7 +24221,7 @@
   },
   "setting.produce.skip_produce_story_setting.description": {
     "japanese": "演出スキップ設定の確認メッセージを表示します。",
-    "chinese": "显示演出跳过设置的确认信息。"
+    "chinese": "设置演出跳过时会显示确认信息。"
   },
   "setting.produce.lesson_stamina_low_alert": {
     "japanese": "レッスン開始確認",
@@ -24237,11 +24237,11 @@
   },
   "setting.produce.turn_end.description": {
     "japanese": "ターンスキップボタンをタップしたときに確認メッセージを表示します。",
-    "chinese": "点击回合跳过按钮时显示确认消息。"
+    "chinese": "点击回合跳过按钮时会显示确认信息。"
   },
   "setting.produce.exam_effect_warning": {
     "japanese": "スキルカード/Pドリンク使用確認",
-    "chinese": "技能卡使用确认"
+    "chinese": "技能卡/P饮料使用确认"
   },
   "setting.produce.reward_card_reroll_confirm": {
     "japanese": "スキルカード再抽選確認",
@@ -24249,7 +24249,7 @@
   },
   "setting.produce.reward_card_reroll_confirm.description": {
     "japanese": "スキルカードの再抽選時に確認メッセージを表示します。",
-    "chinese": "重新抽选技能卡时显示确认消息。"
+    "chinese": "重新抽选技能卡时会显示确认信息。"
   },
   "setting.produce.reward_card_select_confirm": {
     "japanese": "スキルカード選択確認",
@@ -24261,11 +24261,11 @@
   },
   "setting.produce.present_skip.description": {
     "japanese": "Pドリンクを獲得しない時に確認メッセージを表示します。",
-    "chinese": "未获得P饮料时显示确认消息。"
+    "chinese": "未获得P饮料时会显示确认信息。"
   },
   "setting.produce.exit_shop_confirm.description": {
     "japanese": "相談を終了する時に確認メッセージを表示します。",
-    "chinese": "结束咨询时显示确认消息。"
+    "chinese": "结束咨询时会显示确认信息。"
   },
   "setting.produce.customize_point_low_alert.description": {
     "japanese": "Pポイントが少ない場合、特別指導を開始する時に確認メッセージを表示します。",
@@ -24281,27 +24281,27 @@
   },
   "setting.produce.custom_item_customize_confirm": {
     "japanese": "カスタムPアイテム実行確認",
-    "chinese": "准备中"
+    "chinese": "自定义P道具执行确认"
   },
   "setting.produce.reroll_interval_confirm": {
     "japanese": "リフレッシュ実行確認",
-    "chinese": "准备中"
+    "chinese": "幕间休息执行确认"
   },
   "setting.produce.reroll_interval_confirm.description": {
     "japanese": "リフレッシュをする時に確認メッセージを表示します。",
-    "chinese": "准备中"
+    "chinese": "幕间休息执行操作时会显示确认信息。"
   },
   "setting.produce.exit_interval_confirm": {
     "japanese": "インターバル終了確認",
-    "chinese": "准备中"
+    "chinese": "幕间休息结束确认"
   },
   "setting.produce.select_change_card_confirm": {
     "japanese": "スキルカードチェンジ確認",
-    "chinese": "准备中"
+    "chinese": "技能卡变换确认"
   },
   "setting.produce.card_effect_revert": {
     "japanese": "サポートイベント効果確認",
-    "chinese": "支持活动效果确认"
+    "chinese": "支援活动效果确认"
   },
   "setting.produce.skip_setting": {
     "japanese": "早送り設定表示",
@@ -24325,15 +24325,15 @@
   },
   "setting.produce.easy_mode.title": {
     "japanese": "【プロデュース】かんたんモード",
-    "chinese": "【培育】辅助模式"
+    "chinese": "【培育】简单模式"
   },
   "setting.produce.easy_mode_setting": {
     "japanese": "かんたんモード設定",
-    "chinese": "辅助模式设置"
+    "chinese": "简单模式设置"
   },
   "setting.produce.easy_mode_confirm.description": {
     "japanese": "この項目をONにすると、条件をみたした場合、かんたんモードを適用するためのメッセージが表示されます",
-    "chinese": "开启此项后，当满足条件时，会显示启用辅助模式的消息。"
+    "chinese": "开启此项后，当满足条件时，会显示启用简单模式的消息。"
   },
   "setting.produce.navi.resident.description": {
     "japanese": "この項目をOFFにすると、プロデュース中にアドバイスをしてくれるナビが表示されなくなります。",
@@ -24381,7 +24381,7 @@
   },
   "produce_growth_panel.grid_list.description_ellipsis_text": {
     "japanese": "<color=#u:HoverLabel>…続きを見る</color>",
-    "chinese": "<color=#u:HoverLabel>…继续观看/color>"
+    "chinese": "<color=#u:HoverLabel>…继续观看</color>"
   },
   "tour.exam.retire.alert": {
     "japanese": "<indent=1em><line-indent=-1em>※挑戦中のデータは破棄されます\n※リタイアした場合でも{0}は消費されます",
@@ -25109,7 +25109,7 @@
   },
   "high_score_event.reward.total_description": {
     "japanese": "イベント対象アイドルのハイスコアの合計が\n一定の数値を超えるごとに報酬が獲得できます",
-    "chinese": "活动目标偶像的合计高分超过一定数值时，将会获得奖励"
+    "chinese": "活动目标偶像的合计高分每超过一定数值时，将会获得奖励"
   },
   "high_score_event.reward.rank_description": {
     "japanese": "イベント期間終了時のハイスコアランキングの\n順位に応じて報酬を確認することができます",
@@ -25353,7 +25353,7 @@
   },
   "tour.battle_confirm.start.description": {
     "japanese": "{0}を消費して挑戦します",
-    "chinese": "消耗挑战券进行挑战"
+    "chinese": "消耗{0}进行挑战"
   },
   "startup.gasha_point_expire_sheet.bottom_message": {
     "japanese": "この交換Ptが獲得可能な開催中のガシャ",
@@ -25661,7 +25661,7 @@
   },
   "competition.reward.win_count.description": {
     "japanese": "ステージの勝利数の合計が\n一定の数値を超えるごとに報酬を獲得できます",
-    "chinese": "舞台的胜利次数\n每累计超过一定数值就能获得奖励"
+    "chinese": "舞台的胜利次数\n每超过一定数值时，将会获得奖励"
   },
   "competition.reward.rank.between": {
     "japanese": "{0} ~ {1}",
@@ -25833,7 +25833,7 @@
   },
   "competition.default_produce_card_sheet.description": {
     "japanese": "コンテストの編成で１つの編成枠のスキルカードの枚数が{0}枚以下の場合、{1}枚になるように自動で編成されるスキルカードです。",
-    "chinese": "在竞技场的编成中，如果某个编成栏中的技能卡数量少于{0}张，会自动编成至{1}张技能卡。"
+    "chinese": "在竞技场的编成中，如果某个编成栏中的技能卡数量在{0}张以下，会自动编成至{1}张技能卡。"
   },
   "competition.gimmick_detail_sheet.title": {
     "japanese": "応援/トラブル詳細",
@@ -25929,7 +25929,7 @@
   },
   "competition.unset_other_slot_memory_confirm_sheet.description_plan_type": {
     "japanese": "他の編成枠に編成中のアイドルと異なるプランのメモリーを選択しています。このまま編成すると以下のアイドルがユニットから外れますがよろしいですか？",
-    "chinese": "正在选择与其他编成栏中已编成的偶像方案不同的回忆。如果继续编成，相应的回忆将会从编成中自动移除，确定吗？"
+    "chinese": "正在选择与其他编成栏中已编成的偶像方案不同的回忆。如果继续编成，以下的偶像将从组合中移除，确定吗？"
   },
   "competition.unset_other_slot_memory_confirm_sheet.precaution_any": {
     "japanese": "同じステージに同一のアイドルは編成できません",
@@ -26161,7 +26161,7 @@
   },
   "idol_dearness.level_list.dearness_pt_hint": {
     "japanese": "親愛度Ptを{0:N0}獲得したうえで\nプロデュース中間試験突破",
-    "chinese": "在获得{0:N0}亲密度Pt的基础上\n培育中突破期中考试"
+    "chinese": "在获得{0:N0}亲密度Pt的基础上\n培育中通过期中考试"
   },
   "idol_dearness.point": {
     "japanese": "親愛度Pt",
@@ -26201,7 +26201,7 @@
   },
   "angya.top.button.story.unread_story_number": {
     "japanese": "未読あり",
-    "chinese": "第{0}话解锁"
+    "chinese": "有未读"
   },
   "angya.top.guild_status.rank_label": {
     "japanese": "位",
@@ -26445,7 +26445,7 @@
   },
   "angya.restart.expired.description": {
     "japanese": "イベント開催期間が終了したため\n挑戦中のデータは破棄されました",
-    "chinese": "由于活动举办期间已结束\n挑战中的数据将被废弃"
+    "chinese": "由于活动举办期间已结束\n挑战中的数据已被废弃"
   },
   "upload_reshooting_memory_photo_error_sheet.title": {
     "japanese": "エラー",
@@ -26453,7 +26453,7 @@
   },
   "upload_reshooting_memory_photo_error_sheet.description": {
     "japanese": "エラーによりフォトを保存できませんでした\nリトライしますか？</color>",
-    "chinese": "由于错误无法保存照片"
+    "chinese": "由于错误无法保存照片\n是否重试？</color>"
   },
   "upload_reshooting_memory_photo_error_sheet.cancel": {
     "japanese": "キャンセル",
@@ -26553,7 +26553,7 @@
   },
   "tour.stage_detail.list.cell.rank_reward": {
     "japanese": "Lv {0}\nクリア報酬",
-    "chinese": "Lv.{0}奖励"
+    "chinese": "Lv.{0}\n通关奖励"
   },
   "tour.stage_detail.list.cell.own_best_score_label": {
     "japanese": "自己ベストSCORE：",
@@ -26709,7 +26709,7 @@
   },
   "tour.battle_confirm.default_card_sheet.description": {
     "japanese": "編成メモリーに含まれるスキルカードの合計枚数が{0}枚以下の場合、{1}枚になるように自動で編成されるスキルカードです。",
-    "chinese": "如果包含编成回忆的技能卡总数少于{0}张，会自动编成至{1}张技能卡。"
+    "chinese": "如果包含编成回忆的技能卡总数在{0}张以下，会自动编成至{1}张技能卡。"
   },
   "tour.battle_confirm.default_card_sheet.list_title": {
     "japanese": "デフォルトカード一覧",
@@ -26845,7 +26845,7 @@
   },
   "producer_ranking.character_detail_sheet.tower_no_layers": {
     "japanese": "集計対象ではありません",
-    "chinese": "没有统计对象"
+    "chinese": "不在统计范围内"
   },
   "producer_ranking.character_detail_sheet.tower_lock.toast": {
     "japanese": "挑戦できる条件を満たしていません",
@@ -26873,7 +26873,7 @@
   },
   "producer_ranking.share_setting.button.disable_pc": {
     "japanese": "DMM GAMES版ではご利用いただけません",
-    "chinese": "PC版无法使用"
+    "chinese": "DMM GAMES版无法使用"
   },
   "producer_ranking.share_setting.logo_text": {
     "japanese": "Producer Ranking",
