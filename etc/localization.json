@@ -2802,7 +2802,7 @@
     "dmm.service.init.unknown.error": "初始化失败",
     "shop.coin_gasha.reset_time": "重置奖励",
     "profile.report.save.toast": "已保存到本地",
-    "card.idol_card.detail.button.change_list": "P偶像概览",
+    "card.idol_card.detail.button.change_list": "概览",
     "achievement.cell.true_end.hif_condition": "在H.I.F正赛中获得优胜",
     "pvp.rate.replace_main_memory_confirm_sheet.description": "移除编入主回忆的回忆，\n并编成到副回忆。\n确定吗？",
     "card.filter.produce_plan_type": "方案",
