@@ -3829,7 +3829,7 @@
   },
   "produce.common.steps_label": {
     "japanese": "{0}目",
-    "chinese": "第{0}个"
+    "chinese": "{0}目"
   },
   "produce.duplicate.select.title": {
     "japanese": "コピー",
