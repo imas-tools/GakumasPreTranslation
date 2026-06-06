@@ -3445,7 +3445,7 @@
   },
   "produce.item.card.empty_format": {
     "japanese": "{0}のカードはありません",
-    "chinese": "没有{0}的卡牌"
+    "chinese": "{0}中没有卡牌"
   },
   "produce.item.interval_count": {
     "japanese": "発動まであと{0}",
@@ -5133,7 +5133,7 @@
   },
   "produce_prepare.select_info.tab_button_1": {
     "japanese": "カード/アイテム",
-    "chinese": "卡片/道具"
+    "chinese": "卡牌/道具"
   },
   "home.idol.memory_list_menu.label": {
     "japanese": "メモリー一覧",
@@ -10533,7 +10533,7 @@
   },
   "memory.inherit.select_produce_card.customize_disable.toast": {
     "japanese": "カスタマイズ済みのカードは対象にできません",
-    "chinese": "已自定义的卡片无法作为目标"
+    "chinese": "已自定义的卡牌无法作为目标"
   },
   "pvp.rate.unit_template.load.title": {
     "japanese": "編成呼び出し",
@@ -11317,7 +11317,7 @@
   },
   "memory.inherit.select_memory.customize_base_equal_customize_down_disable.toast": {
     "japanese": "カスタマイズ段階が下がるカードは合成できません",
-    "chinese": "自定义阶段下降的卡片无法进行合成"
+    "chinese": "自定义阶段下降的卡牌无法进行合成"
   },
   "exchange.limit.no": {
     "japanese": "上限なし",
@@ -12509,7 +12509,7 @@
   },
   "memory.inherit.select_produce_card.support_disable.toast": {
     "japanese": "サポートイベントで獲得したカードは対象にできません",
-    "chinese": "通过支援事件获得的卡片无法作为目标"
+    "chinese": "通过支援事件获得的卡牌无法作为目标"
   },
   "work.result.submit": {
     "japanese": "完了",
@@ -12829,7 +12829,7 @@
   },
   "memory.inherit.select_memory.grade_disable.toast": {
     "japanese": "元のカードよりレアリティが高くなる合成はできません",
-    "chinese": "无法合成稀有度高于原卡的卡片"
+    "chinese": "无法合成稀有度高于原卡的卡牌"
   },
   "profile.memory_select.toast.selected": {
     "japanese": "設定中のメモリーです",
@@ -13801,7 +13801,7 @@
   },
   "memory.inherit.select_memory.support_disable.toast": {
     "japanese": "サポートイベントで獲得したカードは合成できません",
-    "chinese": "通过支援事件获得的卡片无法合成"
+    "chinese": "通过支援事件获得的卡牌无法合成"
   },
   "story_event.period.end": {
     "japanese": "受取期間",
@@ -13809,7 +13809,7 @@
   },
   "memory.inherit.select_memory.deck_duplication_disable.toast": {
     "japanese": "同じカードを複数枚もつように合成はできません",
-    "chinese": "无法合成多张相同卡片"
+    "chinese": "无法合成多张相同卡牌"
   },
   "memory.inherit.select_memory.same_card.toast": {
     "japanese": "同じスキルカードは合成できません",
@@ -14633,7 +14633,7 @@
   },
   "contest.log.graph.hover.empty_play_card": {
     "japanese": "使用カード無し",
-    "chinese": "没有使用卡片"
+    "chinese": "没有使用卡牌"
   },
   "contest.log.detail.title": {
     "japanese": "ログ",
