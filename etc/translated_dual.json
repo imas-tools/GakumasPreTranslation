@@ -13333,7 +13333,7 @@
   },
   "setting.produce.exit_interval_confirm.description": {
     "japanese": "インターバルを終了する時に確認メッセージを表示します。",
-    "chinese": "幕间休息结束时会显示确认信息"
+    "chinese": "幕间休息结束时会显示确认信息。"
   },
   "card.support_card.upgrade_level_limit_confirm_sheet.button.execute": {
     "japanese": "上限解放",
@@ -22749,11 +22749,11 @@
   },
   "setting.produce.reroll_interval_confirm": {
     "japanese": "リフレッシュ実行確認",
-    "chinese": "幕间休息执行确认"
+    "chinese": "刷新执行确认"
   },
   "setting.produce.reroll_interval_confirm.description": {
     "japanese": "リフレッシュをする時に確認メッセージを表示します。",
-    "chinese": "幕间休息执行操作时会显示确认信息。"
+    "chinese": "刷新时会显示确认信息。"
   },
   "setting.produce.exit_interval_confirm": {
     "japanese": "インターバル終了確認",
