@@ -5973,7 +5973,7 @@
   },
   "home.pvp.competition.prepare": {
     "japanese": "前シーズン集計中",
-    "chinese": "前赛季统计"
+    "chinese": "前赛季统计中"
   },
   "home.pvp.title": {
     "japanese": "CONTEST",
@@ -7433,7 +7433,7 @@
   },
   "home.gasha.detail.idol.live_panorama.help": {
     "japanese": "360°ライブとは",
-    "chinese": "什么是360°演唱会"
+    "chinese": "什么是360°Live"
   },
   "home.gasha.detail.bonus_reward.idol_card.prefix": {
     "japanese": "対象のアイドル獲得で",
@@ -13229,7 +13229,7 @@
   },
   "story_event.box_gasha.story_reward_gasha_count_sheet.title": {
     "japanese": "ストーリーイベントコミュ解放条件",
-    "chinese": "故事活动对话解锁条件"
+    "chinese": "故事活动交流解锁条件"
   },
   "item.toast.use.event_end": {
     "japanese": "イベントが終了しました",
@@ -15817,7 +15817,7 @@
   },
   "story.voice_setting_sheet.setting_description": {
     "japanese": "プロデュースでボイスがあるコミュのボイス設定を選択してください。",
-    "chinese": "请选择培育时有语音的对话的语音设置。"
+    "chinese": "请选择培育时有语音的交流的语音设置。"
   },
   "meishi.edit_custom.sub_menu.illustration.frame": {
     "japanese": "フレーム",
@@ -22753,7 +22753,7 @@
   },
   "setting.preference.live.camera.description_panorama": {
     "japanese": "※360°ライブのみの設定です",
-    "chinese": "※仅限360°演唱会使用的设置"
+    "chinese": "※仅限360°Live使用的设置"
   },
   "research_event.white_list_sheet.rate_up.sub_title": {
     "japanese": "メモリー選出確率上昇スキルカード",
@@ -22773,7 +22773,7 @@
   },
   "setting.produce.story_text_speed.description": {
     "japanese": "親愛度コミュやプロデュースコミュなどで、設定された速度でテキストが表示されます",
-    "chinese": "在亲密度对话或培育对话中，文本将以设定的速度显示。"
+    "chinese": "在亲密度交流或培育交流中，文本将以设定的速度显示。"
   },
   "tower.slot_reset_sheet.title": {
     "japanese": "リセット確認",
@@ -22825,7 +22825,7 @@
   },
   "setting.produce.produce_voice_off.description": {
     "japanese": "プロデュース開始時にボイスがあるコミュの再生確認メッセージを表示します。",
-    "chinese": "在培育开始时有语音的对话会显示播放确认信息。"
+    "chinese": "在培育开始时有语音的交流会显示播放确认信息。"
   },
   "research_event.target_idol_sheet.title": {
     "japanese": "イベント対象Pアイドル",
@@ -23521,7 +23521,7 @@
   },
   "setting.produce.story_text_speed.title": {
     "japanese": "コミュのテキスト送りスピード",
-    "chinese": "对话文本播放速度"
+    "chinese": "交流时的文本播放速度"
   },
   "competition.rehearsal_battle_confirm.title.prepare": {
     "japanese": "リンクコンテスト",
@@ -24385,7 +24385,7 @@
   },
   "setting.produce.story_text_speed": {
     "japanese": "【コミュ】テキストスピード",
-    "chinese": "对话文本速度"
+    "chinese": "【交流】文本速度"
   },
   "setting.produce.story_text_speed.x1": {
     "japanese": "1.0倍",
