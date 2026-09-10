@@ -8313,7 +8313,7 @@
   },
   "produce_prepare.idol_card_preference.live_additional_asset_text": {
     "japanese": "専用演出\n切替",
-    "chinese": "专用演出\n切换"
+    "chinese": "专属演出\n切换"
   },
   "produce_prepare.easy_mode.setting_sheet.message": {
     "japanese": "次回プレイする{0}の難易度：{1}にかんたんモードを適用してプロデュースを開始できます",
@@ -17529,7 +17529,7 @@
   },
   "picturebook.live.select.live_additional_asset_sheet.title": {
     "japanese": "専用演出切替",
-    "chinese": "专用演出切换"
+    "chinese": "专属演出切换"
   },
   "mission.daily_release_tab.disable.toast": {
     "japanese": "未解放です",
@@ -19325,7 +19325,7 @@
   },
   "live_select.additional_asset.user_select.title": {
     "japanese": "専用演出",
-    "chinese": "专用演出"
+    "chinese": "专属演出"
   },
   "story.story_event.title": {
     "japanese": "イベントコミュ",
@@ -20217,11 +20217,11 @@
   },
   "live_select.additional_asset.user_select.description": {
     "japanese": "※専用演出をOFFにすると通常の演出になります",
-    "chinese": "※关闭专用演出以后，将切换至通常演出"
+    "chinese": "※关闭专属演出以后，将切换至通常演出"
   },
   "live_select.additional_asset.condition.costume.title": {
     "japanese": "専用演出対象ライブ衣装",
-    "chinese": "专用演出目标演出服装"
+    "chinese": "具有专属演出的Live服装"
   },
   "live_select.additional_asset.condition.costume.condition_valid": {
     "japanese": "設定中",
