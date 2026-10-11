@@ -5393,7 +5393,7 @@
   },
   "produce.audition.clear": {
     "japanese": "{0}で{1}突破",
-    "chinese": "以第{0}名通过{1}"
+    "chinese": "以第{0}通过{1}"
   },
   "produce.audition.force_clear": {
     "japanese": "{0}またはスコア{1}以上で{2}突破",
@@ -5401,7 +5401,7 @@
   },
   "produce.tower.clear": {
     "japanese": "{0}で合格",
-    "chinese": "达到第{0}名合格"
+    "chinese": "达到第{0}合格"
   },
   "produce.audition.result.continue_count_free": {
     "japanese": "本日あと{0}回無料",
