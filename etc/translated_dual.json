@@ -5717,7 +5717,7 @@
   },
   "home.gasha.point_detail_overlay.resource_type_group_limit_time": {
     "japanese": "ラインナップ更新：{0}",
-    "chinese": "兑换期限：{0}截止"
+    "chinese": "列表更新时间：{0}"
   },
   "produce_prepare.support_card_deck_edit.change": {
     "japanese": "サポートカード入れ替え",
@@ -9625,7 +9625,7 @@
   },
   "card.idol_card.upgrade.potential_rank.description": {
     "japanese": "以下のピースを使用して才能開花を行います",
-    "chinese": "使用{0}进行才能开花"
+    "chinese": "使用以下碎片进行才能开花"
   },
   "card.idol_card.list.label.releasable_card_count": {
     "japanese": "解放可能なアイドルが{0}人います",
@@ -14809,7 +14809,7 @@
   },
   "story.story_event_unlock_sheet.description": {
     "japanese": "{0}を使用してコミュを解放しますか？",
-    "chinese": "使用{0}解锁并播放交流吗？"
+    "chinese": "使用{0}解锁交流吗？"
   },
   "meishi.detail.button.toast": {
     "japanese": "フォルダの保存可能枚数が上限に達しています",
@@ -25585,7 +25585,7 @@
   },
   "high_score_event.event_info.caution_plan": {
     "japanese": "※イベント対象プラン以外のアイドルでプレイする場合、出現するスキルカード、Pアイテム、Pドリンクは通常プロデュースと同様になります\n ※「Hatsuboshi IDOL FESTIVAL」の「選抜試験」では、イベントPアイテムおよびPアイテムは出現しません",
-    "chinese": "※如果使用活动对象方案以外的偶像进行游玩，出现的技能卡、P道具、P饮料将与常规培育模式一致"
+    "chinese": "※如果使用活动对象方案以外的偶像进行游玩，出现的技能卡、P道具、P饮料将与常规培育模式一致\n※在「Hatsuboshi IDOL FESTIVAL」的「选拔考试」中，不会出现活动P道具及P道具"
   },
   "producer_ranking.character_detail.produce_label": {
     "japanese": "プロデュース",
@@ -26137,7 +26137,7 @@
   },
   "high_score_event.event_info.caution_exam_effect": {
     "japanese": "※イベント対象おすすめ効果以外のアイドルでプレイする場合、出現するスキルカード、Pアイテム、Pドリンクは通常プロデュースと同様になります\n ※「Hatsuboshi IDOL FESTIVAL」の「選抜試験」では、イベントPアイテムおよびPアイテムは出現しません",
-    "chinese": "※如果使用活动对象推荐效果以外的偶像进行游玩，出现的技能卡、P道具、P饮料将与常规培育模式一致"
+    "chinese": "※如果使用活动对象推荐效果以外的偶像进行游玩，出现的技能卡、P道具、P饮料将与常规培育模式一致\n ※在「Hatsuboshi IDOL FESTIVAL」的「选拔考试」中，不会出现活动P道具及P道具"
   },
   "high_score_event.event_info.label.selected_exam_effect": {
     "japanese": "選択中の効果",
