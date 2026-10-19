@@ -1747,6 +1747,10 @@
     "japanese": "動画を終了し、次に進みますか？\n動画はあとから視聴できます",
     "chinese": "结束视频并继续吗？\n视频以后可以观看"
   },
+  "produce.shop.tag.exclude": {
+    "japanese": "除外済",
+    "chinese": "已除外"
+  },
   "common.dearness.level": {
     "japanese": "Lv{0}",
     "chinese": "Lv{0}"
@@ -3526,6 +3530,10 @@
   "produce.shop.exchange.legend_card_limit": {
     "japanese": "レジェンドカード所持上限",
     "chinese": "传奇技能卡持有上限"
+  },
+  "produce.shop.tag.sold": {
+    "japanese": "交換済",
+    "chinese": "已兑换"
   },
   "produce.drink.trash": {
     "japanese": "捨てる",
@@ -5915,6 +5923,10 @@
     "japanese": "再生成する",
     "chinese": "再生成"
   },
+  "present.selectable_loginbonus.balloon": {
+    "japanese": "選択可能",
+    "chinese": "可选择"
+  },
   "produce.result.photo.save_limit.execute": {
     "japanese": "フォト削除へ",
     "chinese": "前往删除照片"
@@ -5982,6 +5994,10 @@
   "present.receipt.result.present_list.header": {
     "japanese": "以下のプレゼントを受け取りました。",
     "chinese": "已领取以下礼物。"
+  },
+  "present.selectable_loginbonus": {
+    "japanese": "選べるログボ",
+    "chinese": "自选登录奖励"
   },
   "produce.hif.audition.result.title.round1": {
     "japanese": "H.I.F本戦\nラウンド1結果",
@@ -7175,6 +7191,10 @@
     "japanese": "アビリティ順",
     "chinese": "按能力顺序"
   },
+  "home.idol.memory_list_menu.memory_remake.label": {
+    "japanese": "メモリーリメイク",
+    "chinese": "回忆重制"
+  },
   "produce.evaluate_overlay.title": {
     "japanese": "最終プロデュース評価",
     "chinese": "最终培育评价"
@@ -7490,6 +7510,14 @@
   "home.idol.memory_list_menu.selection_memory.button": {
     "japanese": "選抜試験\nメモリー",
     "chinese": "选拔考试\n回忆"
+  },
+  "home.idol.memory_list_menu.memory_remake.button": {
+    "japanese": "メモリーリメイク",
+    "chinese": "回忆重制"
+  },
+  "home.present.selectable_login_bonus": {
+    "japanese": "選べるログボ\n選択可能",
+    "chinese": "可选择\n自选登录奖励"
   },
   "home.mission": {
     "japanese": "ミッション",
@@ -10655,6 +10683,10 @@
     "japanese": "次へ",
     "chinese": "下一步"
   },
+  "produce.top.seminar.total_count": {
+    "japanese": "/{0}",
+    "chinese": "/{0}"
+  },
   "card.support_card.detail.level_limit.execute_already_max": {
     "japanese": "最大まで上限解放されています",
     "chinese": "已解锁上限到最大"
@@ -13803,6 +13835,10 @@
     "japanese": "情報の取得に失敗しました。\n更新してください。",
     "chinese": "获取信息失败。\n请更新。"
   },
+  "story.play_confirm_sheet.description.number_sign.unread_previous": {
+    "japanese": "未読コミュがあります。<color=#u:Positive>#{0:D2}</color>から再生しますか？",
+    "chinese": "有未读的交流。从<color=#u:Positive>#{0:D2}</color>开始播放吗？"
+  },
   "meishi.qr_code.title": {
     "japanese": "あなたの名刺コード",
     "chinese": "您的名片码"
@@ -13826,6 +13862,10 @@
   "mission.panel.fraction": {
     "japanese": "<align=\"left\">{0:N0}<align=\"right\">/{1:N0}",
     "chinese": "<align=\"left\">{0:N0}<align=\"right\">/{1:N0}"
+  },
+  "story.story_event.character_introduction.title": {
+    "japanese": "{0}{1}\n{2}",
+    "chinese": "{0}{1}\n{2}"
   },
   "exchange.list.event.confirm.title": {
     "japanese": "移動確認",
@@ -13870,6 +13910,10 @@
   "profile.badge_select.title": {
     "japanese": "バッジ一覧",
     "chinese": "徽章概览"
+  },
+  "story_event.point_reward.button": {
+    "japanese": "報酬一覧",
+    "chinese": "奖励概览"
   },
   "profile.comment.edit.description": {
     "japanese": "コメントを入力してください。",
@@ -14270,6 +14314,10 @@
   "meishi.edit.part_limit_count": {
     "japanese": "{0}/{1}",
     "chinese": "{0}/{1}"
+  },
+  "story_event.point_reward.label": {
+    "japanese": "累計獲得Pt",
+    "chinese": "累计获得Pt"
   },
   "meishi.edit_custom.sub_menu.profile.apply_all.title": {
     "japanese": "一括編集",
@@ -15887,6 +15935,10 @@
     "japanese": "イベント期間は終了しました",
     "chinese": "活动期间已结束"
   },
+  "story_event.point_reward.complete": {
+    "japanese": "すべての報酬を獲得しました",
+    "chinese": "已获得所有奖励"
+  },
   "story_event.result.get_score_header": {
     "japanese": "イベントPt",
     "chinese": "活动Pt"
@@ -15974,6 +16026,10 @@
   "story_event.guild_mission.panel_icon.score": {
     "japanese": "SCORE",
     "chinese": "SCORE"
+  },
+  "story_event.character_introduction.introduce_label": {
+    "japanese": "{0}\nについて",
+    "chinese": "关于\n{0}"
   },
   "story_event.filter.story_event_type": {
     "japanese": "イベント種別",
@@ -18271,6 +18327,10 @@
     "japanese": "初星コミュイベントミッション",
     "chinese": "初星交流活动任务"
   },
+  "story.story_event.mission_header.title": {
+    "japanese": "{0}ミッション",
+    "chinese": "{0}任务"
+  },
   "story.idol.title": {
     "japanese": "アイドルコミュ",
     "chinese": "偶像交流"
@@ -18394,6 +18454,10 @@
   "story.play_confirm_sheet.description.default": {
     "japanese": "<color=#u:Positive>{0}話</color>を再生しますか？",
     "chinese": "要播放<color=#u:Positive>第{0}话</color>吗？"
+  },
+  "story.play_confirm_sheet.description.number_sign.default": {
+    "japanese": "<color=#u:Positive>#{0:D2}</color>を再生しますか？",
+    "chinese": "要播放<color=#u:Positive>#{0:D2}</color>吗？"
   },
   "story.play_confirm_sheet.unread_previous_chapter.title": {
     "japanese": "未読コミュ",
@@ -19211,6 +19275,10 @@
     "japanese": "未解放",
     "chinese": "未解锁"
   },
+  "seminar.top.clear_reward_title": {
+    "japanese": "獲得可能クリア報酬",
+    "chinese": "可获得的通关奖励"
+  },
   "setting.produce.deck_guide_recommend_tag.off": {
     "japanese": "獲得ガイドを表示しない",
     "chinese": "不显示获取指南"
@@ -19290,6 +19358,10 @@
   "setting.preference.memory.inherit.subtitle": {
     "japanese": "メモリー合成確認",
     "chinese": "回忆合成确认"
+  },
+  "login_bonus.selectable.cancel_sheet.description": {
+    "japanese": "あとで選ぶを選択した場合、ホーム＞プレゼント＞選べるログボより受け取りが可能です。\n\n今は選ばずにホームに移動しますか？\n<color=#u:Strong>※報酬選択期限：{0}まで</color>",
+    "chinese": "稍后再选择的话，可以从主页＞礼物＞自选登录奖励处进行领取。\n\n确定暂不选择并返回主页吗？\n<color=#u:Strong>※奖励领取期限：{0}截止</color>"
   },
   "seminar.sheet.advice_title": {
     "japanese": "あさり先生のアドバイス",
@@ -19482,6 +19554,10 @@
   "friend.search.not_found": {
     "japanese": "そのIDは存在しません",
     "chinese": "该ID不存在"
+  },
+  "login_bonus.selectable.button.decide": {
+    "japanese": "決定",
+    "chinese": "決定"
   },
   "photography.photo.button.gyro.off": {
     "japanese": "ジャイロOFF",
@@ -20007,6 +20083,10 @@
     "japanese": "True LIVE",
     "chinese": "True LIVE"
   },
+  "login_bonus.selectable.cancel_sheet.ok": {
+    "japanese": "ホームへ",
+    "chinese": "返回主页"
+  },
   "guild.list.tab.request_progress": {
     "japanese": "加入申請中",
     "chinese": "加入申请中"
@@ -20015,6 +20095,10 @@
     "japanese": "サークル人数",
     "chinese": "社团成员数"
   },
+  "login_bonus.selectable.select_sheet.description": {
+    "japanese": "こちらの報酬を受け取りますか？",
+    "chinese": "确定领取该奖励吗？"
+  },
   "photography.photo.renderer_setting.description": {
     "japanese": "表示・非表示の設定を変更できます",
     "chinese": "可变更显示/隐藏设置"
@@ -20022,6 +20106,10 @@
   "photography.save.title.local": {
     "japanese": "端末保存",
     "chinese": "保存到本地"
+  },
+  "login_bonus.selectable.info_overlay.button.detail.gasha": {
+    "japanese": "提供割合",
+    "chinese": "提供概率"
   },
   "setting.preference.noti.midnight.setting_time": {
     "japanese": "設定時間",
@@ -20194,6 +20282,10 @@
   "terms.terms_sheet.description.update.count2": {
     "japanese": "{0}と{1}",
     "chinese": "{0}和{1}"
+  },
+  "login_bonus.selectable.button.decide.disable": {
+    "japanese": "報酬を選択してください",
+    "chinese": "请选择奖励"
   },
   "data.release.success.description": {
     "japanese": "連携解除が完了しました。",
@@ -20522,6 +20614,10 @@
   "friend.search.execute": {
     "japanese": "検索",
     "chinese": "搜索"
+  },
+  "login_bonus.selectable.description": {
+    "japanese": "獲得する報酬を選択してください\n※一つのみ獲得できます",
+    "chinese": "请选择要获得的奖励\n※仅可领取其中一项"
   },
   "setting.preference.other.produce_growth_panel.level_up_confirm.title": {
     "japanese": "確認メッセージ表示",
@@ -23023,6 +23119,38 @@
     "japanese": "開催期間: {0}まで",
     "chinese": "举办期间：至{0}"
   },
+  "login_bonus.selectable.button.cancel": {
+    "japanese": "あとで選ぶ",
+    "chinese": "稍后再选择"
+  },
+  "login_bonus.selectable.button.info": {
+    "japanese": "報酬詳細",
+    "chinese": "奖励详情"
+  },
+  "login_bonus.selectable.cancel_sheet.title": {
+    "japanese": "受け取り確認",
+    "chinese": "领取确认"
+  },
+  "login_bonus.selectable.select_sheet.title": {
+    "japanese": "受け取り確認",
+    "chinese": "领取确认"
+  },
+  "login_bonus.selectable.receive_overlay.title": {
+    "japanese": "報酬獲得",
+    "chinese": "获得奖励"
+  },
+  "login_bonus.selectable.info_overlay.title": {
+    "japanese": "報酬詳細",
+    "chinese": "奖励详情"
+  },
+  "login_bonus.selectable.info_overlay.sub_title": {
+    "japanese": "報酬詳細",
+    "chinese": "奖励详情"
+  },
+  "login_bonus.selectable.info_overlay.button.detail.exchange": {
+    "japanese": "交換対象",
+    "chinese": "兑换目标"
+  },
   "others.top.button.terms": {
     "japanese": "利用規約",
     "chinese": "打开闪彩"
@@ -23423,6 +23551,10 @@
     "japanese": "プロデュースを開始する",
     "chinese": "开始培育"
   },
+  "memory_remake.start_confirm.select_content.description4": {
+    "japanese": "※候補スキルカードからランダムに入れ替えます",
+    "chinese": "※随机更换为一张候选技能卡"
+  },
   "angya.transition.feature_locked.title": {
     "japanese": "イベント参加条件確認",
     "chinese": "活动参与条件确认"
@@ -23583,9 +23715,17 @@
     "japanese": "固定数が上限に達しています",
     "chinese": "已达到锁定数上限"
   },
+  "memory_remake.battle.label.rival": {
+    "japanese": "相手",
+    "chinese": "对手"
+  },
   "tour.top.button.ranking": {
     "japanese": "ランキング",
     "chinese": "排行榜"
+  },
+  "memory_remake.battle_prepare.title": {
+    "japanese": "スキルカード選択",
+    "chinese": "技能卡选择"
   },
   "tour.point_progress.progress.label": {
     "japanese": "累計イベントPt報酬",
@@ -23634,6 +23774,10 @@
   "competition.unit_copy.source": {
     "japanese": "コピー元",
     "chinese": "复制目标"
+  },
+  "memory_remake.battle_prepare.card_list.cell.selected": {
+    "japanese": "選択中",
+    "chinese": "选择中"
   },
   "produce_growth_panel.mission.overlay_title": {
     "japanese": "H.I.Fボーナス\nミッション",
@@ -23895,6 +24039,10 @@
     "japanese": "才能開花",
     "chinese": "才能开花"
   },
+  "memory_remake.start_confirm.description1": {
+    "japanese": "メモリーのリメイクを行います。",
+    "chinese": "进行回忆重制。"
+  },
   "angya.reward.tab.clear_stage_list.cell.count_range_last_label": {
     "japanese": "周目以降",
     "chinese": "周目之后"
@@ -24130,6 +24278,10 @@
   "tower.clear_history_sheet.title": {
     "japanese": "STAGE{0}　クリア編成確認",
     "chinese": "STAGE{0}　通关编成确认"
+  },
+  "memory_remake.start_confirm.select_content.description1": {
+    "japanese": "継承に使用するメモリー",
+    "chinese": "用于继承的回忆"
   },
   "high_score_event.reward.no_border": {
     "japanese": "-Pt",
@@ -24623,6 +24775,10 @@
     "japanese": "{0:N0}",
     "chinese": "{0:N0}"
   },
+  "memory_remake.top.info.empty.description.sub_empty": {
+    "japanese": "サブメモリーが選択されていません",
+    "chinese": "未选择辅助回忆"
+  },
   "competition.rehearsal_top.prepare": {
     "japanese": "開催準備期間",
     "chinese": "举办准备期间"
@@ -24755,6 +24911,10 @@
     "japanese": "未参加",
     "chinese": "未参加"
   },
+  "memory_remake.start_confirm.result_content.label": {
+    "japanese": "継承先メモリー",
+    "chinese": "继承目标回忆"
+  },
   "competition.unit_edit.converted_card": {
     "japanese": "スイッチ設定が無効状態のスキルカードです",
     "chinese": "这是替换设置为无效状态的技能卡"
@@ -24799,6 +24959,10 @@
     "japanese": "スキップ確認",
     "chinese": "跳过确认"
   },
+  "memory_remake.battle_prepare.card_list.cell.user": {
+    "japanese": "選択済み",
+    "chinese": "已选择"
+  },
   "competition.swap_from_sub_memory_confirm_sheet.title": {
     "japanese": "サブメモリー編成解除確認",
     "chinese": "解除副回忆编成确认"
@@ -24810,6 +24974,10 @@
   "producer_ranking.character_detail.produce_confirm_button": {
     "japanese": "対象プロデュース",
     "chinese": "目标培育"
+  },
+  "memory_remake.top.title": {
+    "japanese": "メモリーリメイク",
+    "chinese": "回忆重制"
   },
   "producer_ranking.character_detail.produce_evaluation": {
     "japanese": "最高スコア",
@@ -24934,6 +25102,10 @@
   "producer_ranking.character_detail.produce_evaluation_value": {
     "japanese": "{0:N0}<size=36>Pt</size>",
     "chinese": "{0:N0}<size=36>Pt</size>"
+  },
+  "memory_remake.top.info.label": {
+    "japanese": "メモリーリメイク編成詳細",
+    "chinese": "回忆重制编成详情"
   },
   "competition.rehearsal_battle_confirm.high_score_by_stage.stage": {
     "japanese": "ステージ{0}",
@@ -25386,6 +25558,10 @@
   "producer_ranking.target_produce_sheet.title": {
     "japanese": "対象プロデュース確認",
     "chinese": "目标培育确认"
+  },
+  "memory_remake.top.info.empty.button.memory_select": {
+    "japanese": "継承メモリー選択",
+    "chinese": "继承回忆选择"
   },
   "research_event.produce_information_tab_sheet.title": {
     "japanese": "イベント情報",
@@ -27535,6 +27711,10 @@
     "japanese": "履歴",
     "chinese": "记录"
   },
+  "memory_remake.battle_prepare.button.move": {
+    "japanese": "対戦開始",
+    "chinese": "对战开始"
+  },
   "producer_ranking.top.button.how_to": {
     "japanese": "遊び方",
     "chinese": "玩法说明"
@@ -27814,6 +27994,70 @@
   "trail_event.last_reward.complete_text": {
     "japanese": "報酬はすべて獲得済みです",
     "chinese": "已获得所有奖励"
+  },
+  "memory_remake.top.button.prologue": {
+    "japanese": "プロローグ",
+    "chinese": "序章"
+  },
+  "memory_remake.top.info.selected.button.memory_select": {
+    "japanese": "メモリー変更",
+    "chinese": "回忆变更"
+  },
+  "memory_remake.top.info.empty.description.main_empty": {
+    "japanese": "ベースメモリーが選択されていません",
+    "chinese": "未选择基础回忆"
+  },
+  "memory_remake.start_confirm.title": {
+    "japanese": "メモリーリメイク",
+    "chinese": "回忆重制"
+  },
+  "memory_remake.start_confirm.description2": {
+    "japanese": "※継承に使用したメモリーは無くなります",
+    "chinese": "※用于继承的回忆将在继承后消失"
+  },
+  "memory_remake.start_confirm.result_content.change_label": {
+    "japanese": "入れ替え",
+    "chinese": "更换"
+  },
+  "memory_remake.start_confirm.select_content.description2": {
+    "japanese": "入れ替えに使用するメモリー",
+    "chinese": "用于更换的回忆"
+  },
+  "memory_remake.start_confirm.select_content.description3": {
+    "japanese": "※継承を実行すると無くなります",
+    "chinese": "※执行继承后将被消耗"
+  },
+  "memory_remake.battle_prepare.label.expect_score": {
+    "japanese": "最終予測スコア",
+    "chinese": "最终预测得分"
+  },
+  "memory_remake.battle_prepare.button.rival": {
+    "japanese": "相手情報",
+    "chinese": "对手信息"
+  },
+  "memory_remake.battle_prepare.button.skip": {
+    "japanese": "スキップ",
+    "chinese": "跳过"
+  },
+  "memory_remake.battle_prepare.button.select.invalid": {
+    "japanese": "条件を満たしていません",
+    "chinese": "未满足条件"
+  },
+  "memory_remake.battle_prepare.card_list.cell.rival": {
+    "japanese": "相手カード",
+    "chinese": "对手技能卡"
+  },
+  "memory_remake.battle_prepare.rival_sheet.title": {
+    "japanese": "相手スキルカード情報",
+    "chinese": "对手技能卡信息"
+  },
+  "memory_remake.battle_prepare.rival_sheet.empty": {
+    "japanese": "選択されたカードがありません",
+    "chinese": "尚未选择技能卡"
+  },
+  "memory_remake.animation.view.title": {
+    "japanese": "メモリーリメイク完了",
+    "chinese": "回忆重制完成"
   },
   "home.gasha.draw_button.item": {
     "japanese": "票据",
