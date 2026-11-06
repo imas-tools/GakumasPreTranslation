@@ -2277,7 +2277,7 @@
   },
   "common.live_battle_type.buffer.name": {
     "japanese": "メンタルスキルカードタイプ",
-    "chinese": "精神技能卡牌类型"
+    "chinese": "辅助技能卡牌类型"
   },
   "common.user.level.label": {
     "japanese": "PLv",

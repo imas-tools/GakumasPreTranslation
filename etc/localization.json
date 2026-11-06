@@ -568,7 +568,7 @@
     "common.costume_head.category": "发型",
     "common.meishi_base_asset.category": "名片背景",
     "produce.schedule.selection_memory_mission.card_get": "技能卡获得次数",
-    "common.live_battle_type.buffer.name": "精神技能卡牌类型",
+    "common.live_battle_type.buffer.name": "辅助技能卡牌类型",
     "common.user.level.label": "PLv",
     "produce.confirm_limit_parameter_sheet.lesson.title": "训练属性值上限",
     "common.user.level": "PLv{0}",
