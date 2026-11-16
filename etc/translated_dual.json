@@ -1637,7 +1637,7 @@
   },
   "common.user_exp": {
     "japanese": "プロデューサーExp",
-    "chinese": "制作人 Exp"
+    "chinese": "制作人Exp"
   },
   "common.menu.button_type.PictureBookIdolSelect": {
     "japanese": "ライブ撮影",
@@ -16001,7 +16001,7 @@
   },
   "achievement.obtainable_reward_detail.description.all": {
     "japanese": "アイドルアチーブメント・プロデュースアチーブメント・その他アチーブメントで獲得できる、残りの報酬数を表示します。",
-    "chinese": "显示通过偶像成就・制作人成就・其他成就还可获得的奖励数量。"
+    "chinese": "显示通过偶像成就・培育成就・其他成就还可获得的奖励数量。"
   },
   "profile.birthday.leap.year": {
     "japanese": "うるう年が入力されています\nうるう年でない場合、前日を誕生日とします",
@@ -16225,7 +16225,7 @@
   },
   "achievement.incomplete_filter.idol_card_produce_incomplete": {
     "japanese": "プロデュース未達成Pアイドルアチーブ",
-    "chinese": "制作人未达成P偶像成就"
+    "chinese": "培育中未达成的P偶像成就"
   },
   "story.fast_forward_setting_sheet.title": {
     "japanese": "コミュ早送り設定",
@@ -17433,7 +17433,7 @@
   },
   "achievement.obtainable_reward_detail.description.produce": {
     "japanese": "プロデュースアチーブメントで獲得できる、残りの報酬数を表示します。",
-    "chinese": "显示通过制作人成就还可获得的奖励数量。"
+    "chinese": "显示通过培育成就还可获得的奖励数量。"
   },
   "achievement.obtainable_reward_detail.note": {
     "japanese": "※未解放Pアイドルに紐づくアチーブメント報酬は獲得可能報酬に含まれません",
