@@ -2233,7 +2233,7 @@
   },
   "produce.select_change.description": {
     "japanese": "{0}を{1}にチェンジしますか？\n<color=#u:Negative>※チェンジするスキルカードの強化状態を引き継ぎます</color>",
-    "chinese": "是否将{0}变换为{1}？\n※将继承被变换技能卡的强化状态"
+    "chinese": "是否将{0}变换为{1}？\n<color=#u:Negative>※将继承被变换技能卡的强化状态</color>"
   },
   "common.list.before_all_load": {
     "japanese": "もっと見る",
@@ -3377,7 +3377,7 @@
   },
   "produce.lesson.result.continue_confirm_sheet.description": {
     "japanese": "再挑戦チケットを消費して、{0}に再挑戦しますか？\nスキルカードを引く順番が再抽選されます",
-    "chinese": "消耗再挑战票据，重新挑战{0}吗？\n将重新随机排列技能卡的抽取顺序"
+    "chinese": "消耗再挑战票据，重新挑战{0}吗？\n技能卡的抽取顺序将重新排序"
   },
   "home.footer.label.story.dearness_story_campaign": {
     "japanese": "親愛度コミュ解放",
@@ -3797,7 +3797,7 @@
   },
   "produce.audition.result.continue_confirm_sheet.description_warning": {
     "japanese": "{0}終了を選択した場合は失敗となります",
-    "chinese": "选择结束培育将会失败"
+    "chinese": "选择结束{0}后将会失败"
   },
   "produce.card.move_position.lost": {
     "japanese": "除外",
@@ -4509,7 +4509,7 @@
   },
   "produce.shop.change": {
     "japanese": "Pポイントを使用して{0}を{1}に交換しますか？\n<color=#u:Negative>※チェンジするスキルカードの強化状態を引き継ぎます</color>",
-    "chinese": "是否使用P点数将{0}兑换为{1}？\n※将继承被变换技能卡的强化状态"
+    "chinese": "是否使用P点数将{0}兑换为{1}？\n<color=#u:Negative>※将继承被变换技能卡的强化状态</color>"
   },
   "produce.shop.reroll": {
     "japanese": "リフレッシュ",
@@ -5533,7 +5533,7 @@
   },
   "produce.audition.result.continue_warning_sheet.description": {
     "japanese": "再挑戦が可能ですが本当に終了しますか？\n<color=#u:Negative>{0}終了を選択した場合は失敗となります</color>",
-    "chinese": "可以再挑战，但真的要结束吗？\n<color=#u:Negative>选择结束培育将会失败</color>"
+    "chinese": "可以再挑战，但真的要结束吗？\n<color=#u:Negative>选择结束{0}后将会失败</color>"
   },
   "produce.lesson.ppoint": {
     "japanese": "Pポイント",
@@ -5957,7 +5957,7 @@
   },
   "produce.audition.result.continue_confirm_sheet.description": {
     "japanese": "再挑戦チケットを消費して、{0}に再挑戦しますか？\nスキルカードを引く順番やライバルの行動が再抽選されます",
-    "chinese": "消耗再挑战道具，重新挑战考试吗？\n技能卡的抽取顺序和对手的行动将重新抽取"
+    "chinese": "消耗再挑战票据，重新挑战{0}吗？\n技能卡的抽取顺序和对手的行动将重新排序"
   },
   "produce.customize.customize_button.text": {
     "japanese": "カスタマイズ",
@@ -6125,7 +6125,7 @@
   },
   "produce.audition.result.continue_warning_sheet.button.end": {
     "japanese": "{0}終了",
-    "chinese": "结束培育"
+    "chinese": "结束{0}"
   },
   "produce.audition.result.continue_confirm_sheet.nia.description": {
     "japanese": "再挑戦チケットを消費して、オーディションに再挑戦しますか？スキルカードを引く順番やライバルの行動が再抽選されます。オーディションを選択してください。",
@@ -6221,7 +6221,7 @@
   },
   "produce.interval.reroll_sheet.description": {
     "japanese": "Pポイントを使用して、スキルカードとPドリンクのラインナップ、カスタマイズと強化回数の更新しますか？",
-    "chinese": "仍有可兑换的技能卡和P饮料\n是否使用P点数刷新技能卡和P饮料列表，以及自定义和强化次数？"
+    "chinese": "是否使用P点数刷新技能卡和P饮料列表，以及自定义和强化次数？"
   },
   "produce.interval.end_warning.title": {
     "japanese": "インターバル終了確認",
@@ -14109,7 +14109,7 @@
   },
   "story_event.unit_story.unlock_item.prefix_label": {
     "japanese": "解放券まで",
-    "chinese": "解锁券"
+    "chinese": "获得解锁券还差"
   },
   "story_event.story_reward": {
     "japanese": "ストーリーイベントコミュ",
@@ -16433,7 +16433,7 @@
   },
   "achievement.tower.detail.description": {
     "japanese": "{0}で獲得した\n　 の数によってアチーブメントが\nランクアップします",
-    "chinese": "根据在偶像之路上获得的\n　 的数量，成就将会升级"
+    "chinese": "根据在{0}上获得的\n　 的数量，成就将会升级"
   },
   "roster.idol_card.animation.confirm.sheet.prima_stella.disabled": {
     "japanese": "『一番星』解放で解放",
@@ -16645,7 +16645,7 @@
   },
   "achievement.tower.detail.to_tower": {
     "japanese": "アイドルへの道",
-    "chinese": "前往偶像之路"
+    "chinese": "偶像之路"
   },
   "story.story_event.section.prefix": {
     "japanese": "第",
@@ -16677,7 +16677,7 @@
   },
   "story.story_event.section.unlockable_condition_lock_text": {
     "japanese": "{0}で解放",
-    "chinese": "使用记录之钥解锁"
+    "chinese": "通过{0}解锁"
   },
   "roster.profile.weight": {
     "japanese": "{0}kg",
@@ -23653,7 +23653,7 @@
   },
   "research_event.target_idol_sheet.description": {
     "japanese": "イベントモード対象のPアイドルのみイベントモードのプロデュースへの挑戦が可能です",
-    "chinese": "只有拥有活动模式对象推荐效果的P偶像才能挑战活动模式的培育"
+    "chinese": "只有活动模式目标的P偶像才能挑战活动模式的培育"
   },
   "setting.produce.refine": {
     "japanese": "【TOPS】確認メッセージの表示",
@@ -24553,7 +24553,7 @@
   },
   "high_score_event.event_info.caution_plan": {
     "japanese": "※一部のプランのアイドルでプレイする場合、出現するスキルカード、Pアイテム、Pドリンクは通常プロデュースと同様になります\n※プロデュース「Hatsuboshi IDOL FESTIVAL」の「選抜試験」では、イベントPアイテムおよびPアイテムは出現しません",
-    "chinese": "※如果使用活动对象方案以外的偶像进行游玩，出现的技能卡、P道具、P饮料将与常规培育模式一致\n※在「Hatsuboshi IDOL FESTIVAL」的「选拔考试」中，不会出现活动P道具及P道具"
+    "chinese": "※如果使用部分方案的偶像进行游玩，出现的技能卡、P道具、P饮料将与常规培育模式一致\n※在「Hatsuboshi IDOL FESTIVAL」的「选拔考试」中，不会出现活动P道具及P道具"
   },
   "competition.history.label.rehearsal": {
     "japanese": "リハーサル",
@@ -25473,7 +25473,7 @@
   },
   "high_score_event.event_info.caution_exam_effect": {
     "japanese": "※一部のプランのアイドルでプレイする場合、出現するスキルカード、Pアイテム、Pドリンクは通常プロデュースと同様になります\n※プロデュース「Hatsuboshi IDOL FESTIVAL」の「選抜試験」では、イベントPアイテムおよびPアイテムは出現しません",
-    "chinese": "※如果使用活动对象推荐效果以外的偶像进行游玩，出现的技能卡、P道具、P饮料将与常规培育模式一致\n ※在「Hatsuboshi IDOL FESTIVAL」的「选拔考试」中，不会出现活动P道具及P道具"
+    "chinese": "※如果使用部分方案的偶像进行游玩，出现的技能卡、P道具、P饮料将与常规培育模式一致\n ※在「Hatsuboshi IDOL FESTIVAL」的「选拔考试」中，不会出现活动P道具及P道具"
   },
   "high_score_event.event_info.label.selected_exam_effect": {
     "japanese": "選択中の効果",
